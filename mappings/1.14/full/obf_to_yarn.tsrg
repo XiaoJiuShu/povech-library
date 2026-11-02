@@ -1,0 +1,138 @@
+net/minecraft/data/Main net/minecraft/data/Main
+	<init> ()V <init>
+net/minecraft/server/MinecraftServer$1 net/minecraft/server/MinecraftServer$1
+	<init> (Lnet/minecraft/server/MinecraftServer;)V <init>
+net/minecraft/server/MinecraftServer$2 net/minecraft/server/MinecraftServer$2
+	<init> (Ljava/lang/String;Lug;)V <init>
+net/minecraft/server/MinecraftServer net/minecraft/server/MinecraftServer
+	e field_4599
+	g field_4600
+	R field_4557
+	ab field_19248
+	ac field_19249
+	<init> (Ljava/io/File;Ljava/net/Proxy;Lcom/mojang/datafixers/DataFixer;Lce;Lcom/mojang/authlib/yggdrasil/YggdrasilAuthenticationService;Lcom/mojang/authlib/minecraft/MinecraftSessionService;Lcom/mojang/authlib/GameProfileRepository;Lxm;Lvq;Ljava/lang/String;)V <init>
+	o ()V method_16208
+	aW ()Z method_20415
+	E ()Z method_3814
+net/minecraft/realms/RealmsEditBox net/minecraft/realms/RealmsEditBox
+	<init> (IIIIILjava/lang/String;)V <init>
+net/minecraft/realms/DisconnectedRealmsScreen net/minecraft/realms/DisconnectedRealmsScreen
+	<init> (Lnet/minecraft/realms/RealmsScreen;Ljava/lang/String;Ljm;)V <init>
+net/minecraft/realms/RealmsVertexFormatElement net/minecraft/realms/RealmsVertexFormatElement
+	<init> (Lcuq;)V <init>
+net/minecraft/realms/RealmsObjectSelectionList net/minecraft/realms/RealmsObjectSelectionList
+	<init> (IIIII)V <init>
+	y0 ()I y0
+	y1 ()I y1
+net/minecraft/realms/pluginapi/RealmsPlugin net/minecraft/realms/pluginapi/RealmsPlugin
+net/minecraft/realms/pluginapi/LoadedRealmsPlugin net/minecraft/realms/pluginapi/LoadedRealmsPlugin
+net/minecraft/realms/RealmsAbstractButtonProxy net/minecraft/realms/RealmsAbstractButtonProxy
+net/minecraft/realms/RealmsMth net/minecraft/realms/RealmsMth
+	<init> ()V <init>
+net/minecraft/realms/RepeatedNarrator$a net/minecraft/realms/RepeatedNarrator$class_4283
+	a field_19210
+	b field_19211
+	<init> (Ljava/lang/String;Lcom/google/common/util/concurrent/RateLimiter;)V <init>
+net/minecraft/realms/RealmListEntry net/minecraft/realms/RealmListEntry
+	<init> ()V <init>
+net/minecraft/realms/RealmsBufferBuilder net/minecraft/realms/RealmsBufferBuilder
+	<init> (Lcuj;)V <init>
+net/minecraft/realms/RealmsSliderButton net/minecraft/realms/RealmsSliderButton
+	id id
+	<init> (IIIIIDD)V <init>
+	id ()I id
+	y ()I y
+net/minecraft/realms/RealmsDefaultVertexFormat net/minecraft/realms/RealmsDefaultVertexFormat
+	<init> ()V <init>
+net/minecraft/realms/RealmsSliderButtonProxy net/minecraft/realms/RealmsSliderButtonProxy
+	<init> (Lnet/minecraft/realms/RealmsSliderButton;IIIID)V <init>
+	y ()I y
+net/minecraft/realms/RealmsLabelProxy net/minecraft/realms/RealmsLabelProxy
+	<init> (Lnet/minecraft/realms/RealmsLabel;)V <init>
+net/minecraft/realms/RealmsClickableScrolledSelectionList net/minecraft/realms/RealmsClickableScrolledSelectionList
+	<init> (IIIII)V <init>
+	y0 ()I y0
+	y1 ()I y1
+	yo ()D yo
+net/minecraft/realms/RealmsConnect$1 net/minecraft/realms/RealmsConnect$1
+	<init> (Lnet/minecraft/realms/RealmsConnect;Ljava/lang/String;Ljava/lang/String;I)V <init>
+net/minecraft/realms/RealmsScrolledSelectionList net/minecraft/realms/RealmsScrolledSelectionList
+	<init> (IIIII)V <init>
+net/minecraft/realms/RealmsConfirmResultListener net/minecraft/realms/RealmsConfirmResultListener
+net/minecraft/realms/RepeatedNarrator net/minecraft/realms/RepeatedNarrator
+	<init> (Ljava/time/Duration;)V <init>
+net/minecraft/realms/DisconnectedRealmsScreen$1 net/minecraft/realms/DisconnectedRealmsScreen$1
+	<init> (Lnet/minecraft/realms/DisconnectedRealmsScreen;IIILjava/lang/String;)V <init>
+net/minecraft/realms/RealmsBridge net/minecraft/realms/RealmsBridge
+	<init> ()V <init>
+net/minecraft/realms/RealmsScrolledSelectionListProxy net/minecraft/realms/RealmsScrolledSelectionListProxy
+	<init> (Lnet/minecraft/realms/RealmsScrolledSelectionList;IIIII)V <init>
+net/minecraft/realms/AbstractRealmsButton net/minecraft/realms/AbstractRealmsButton
+	<init> ()V <init>
+net/minecraft/realms/RealmsLabel net/minecraft/realms/RealmsLabel
+	x x
+	y y
+	<init> (Ljava/lang/String;III)V <init>
+net/minecraft/realms/RealmsLevelSummary net/minecraft/realms/RealmsLevelSummary
+	<init> (Lcoe;)V <init>
+net/minecraft/realms/RealmsServerAddress net/minecraft/realms/RealmsServerAddress
+	<init> (Ljava/lang/String;I)V <init>
+net/minecraft/realms/RealmsSimpleScrolledSelectionListProxy net/minecraft/realms/RealmsSimpleScrolledSelectionListProxy
+	<init> (Lnet/minecraft/realms/RealmsSimpleScrolledSelectionList;IIIII)V <init>
+net/minecraft/realms/Realms net/minecraft/realms/Realms
+	<init> ()V <init>
+net/minecraft/realms/RealmsConnect net/minecraft/realms/RealmsConnect
+	<init> (Lnet/minecraft/realms/RealmsScreen;)V <init>
+net/minecraft/realms/Tezzelator net/minecraft/realms/Tezzelator
+	<init> ()V <init>
+net/minecraft/realms/RealmsButtonProxy net/minecraft/realms/RealmsButtonProxy
+	<init> (Lnet/minecraft/realms/RealmsButton;IILjava/lang/String;IILcwo$a;)V <init>
+	y ()I y
+net/minecraft/realms/RealmsClickableScrolledSelectionListProxy net/minecraft/realms/RealmsClickableScrolledSelectionListProxy
+	<init> (Lnet/minecraft/realms/RealmsClickableScrolledSelectionList;IIIII)V <init>
+	y0 ()I y0
+	y1 ()I y1
+	yo ()D yo
+net/minecraft/realms/RealmsVertexFormat net/minecraft/realms/RealmsVertexFormat
+	<init> (Lcup;)V <init>
+net/minecraft/realms/RealmsScreenProxy net/minecraft/realms/RealmsScreenProxy
+	<init> (Lnet/minecraft/realms/RealmsScreen;)V <init>
+net/minecraft/realms/RealmsSharedConstants net/minecraft/realms/RealmsSharedConstants
+	<init> ()V <init>
+net/minecraft/realms/RealmsObjectSelectionListProxy net/minecraft/realms/RealmsObjectSelectionListProxy
+	<init> (Lnet/minecraft/realms/RealmsObjectSelectionList;IIIII)V <init>
+	y0 ()I y0
+	y1 ()I y1
+net/minecraft/realms/RealmsGuiEventListener net/minecraft/realms/RealmsGuiEventListener
+	<init> ()V <init>
+net/minecraft/realms/RealmsSimpleScrolledSelectionList net/minecraft/realms/RealmsSimpleScrolledSelectionList
+	<init> (IIIII)V <init>
+net/minecraft/realms/RealmsButton net/minecraft/realms/RealmsButton
+	id id
+	<init> (IIILjava/lang/String;)V <init>
+	<init> (IIIIILjava/lang/String;)V <init>
+	id ()I id
+	y ()I y
+	x ()I x
+net/minecraft/realms/RealmsAnvilLevelStorageSource net/minecraft/realms/RealmsAnvilLevelStorageSource
+	<init> (Lcod;)V <init>
+net/minecraft/realms/RealmsScreen net/minecraft/realms/RealmsScreen
+	<init> ()V <init>
+net/minecraft/client/ClientBrandRetriever net/minecraft/client/ClientBrandRetriever
+	<init> ()V <init>
+net/minecraft/client/main/Main$1 net/minecraft/client/main/Main$1
+	<init> (Ljava/lang/String;Ljava/lang/String;)V <init>
+net/minecraft/client/main/Main net/minecraft/client/main/Main
+	<init> ()V <init>
+net/minecraft/client/main/Main$2 net/minecraft/client/main/Main$2
+	<init> (Ljava/lang/String;)V <init>
+com/mojang/blaze3d/platform/GlStateManager$SourceFactor com/mojang/blaze3d/platform/GlStateManager$SourceFactor
+	<init> (I)V <init>
+com/mojang/blaze3d/platform/GlStateManager com/mojang/blaze3d/platform/GlStateManager
+	<init> ()V <init>
+com/mojang/blaze3d/platform/GlStateManager$DestFactor com/mojang/blaze3d/platform/GlStateManager$DestFactor
+	<init> (I)V <init>
+com/mojang/blaze3d/platform/GLX com/mojang/blaze3d/platform/GLX
+	<init> ()V <init>
+com/mojang/blaze3d/platform/TextureUtil com/mojang/blaze3d/platform/TextureUtil
+	<init> ()V <init>
