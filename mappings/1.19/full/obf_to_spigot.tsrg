@@ -1,0 +1,4108 @@
+ad$7 net/minecraft/SystemUtils$7
+	<init> ()V <init>
+ad$a net/minecraft/SystemUtils$IdentityHashingStrategy
+	<init> ()V <init>
+ad$5 net/minecraft/SystemUtils$5
+	<init> ()V <init>
+ad$3 net/minecraft/SystemUtils$3
+	<init> ()V <init>
+ad net/minecraft/SystemUtils
+	<init> ()V <init>
+ad$6 net/minecraft/SystemUtils$6
+	<init> ()V <init>
+am$a net/minecraft/advancements/CriterionTrigger$a
+	<init> (Ljava/lang/Object;Laf;Ljava/lang/String;)V <init>
+ao net/minecraft/advancements/AdvancementDisplay
+	<init> (Lcaa;Lrm;Lrm;Laaj;Lap;ZZZ)V <init>
+ai net/minecraft/advancements/AdvancementRewards
+	<init> (I[Laaj;[Laaj;Ldm$a;)V <init>
+al net/minecraft/advancements/CriterionProgress
+	<init> ()V <init>
+ar net/minecraft/advancements/AdvancementTree
+	<init> (Laf;Lar;Lar;II)V <init>
+af net/minecraft/advancements/Advancement
+	<init> (Laaj;Laf;Lao;Lai;Ljava/util/Map;[[Ljava/lang/String;)V <init>
+am net/minecraft/advancements/CriterionTrigger
+ak net/minecraft/advancements/Criterion
+	<init> (Lan;)V <init>
+	<init> ()V <init>
+an net/minecraft/advancements/CriterionInstance
+ap net/minecraft/advancements/AdvancementFrameType
+	<init> (Ljava/lang/String;ILp;)V <init>
+ah$a net/minecraft/advancements/AdvancementProgress$a
+	<init> ()V <init>
+ai$a net/minecraft/advancements/AdvancementRewards$a
+	<init> ()V <init>
+ba net/minecraft/advancements/critereon/CriterionTriggerConsumeItem
+	<init> ()V <init>
+bd$a net/minecraft/advancements/critereon/CriterionConditionDamageSource$a
+	<init> ()V <init>
+bm net/minecraft/advancements/critereon/CriterionConditionEntityFlags
+	<init> (Ljava/lang/Boolean;Ljava/lang/Boolean;Ljava/lang/Boolean;Ljava/lang/Boolean;Ljava/lang/Boolean;)V <init>
+ce net/minecraft/advancements/critereon/CriterionConditionLight
+	<init> (Lcj$d;)V <init>
+cd net/minecraft/advancements/critereon/CriterionTriggerLevitation
+	<init> ()V <init>
+aw net/minecraft/advancements/critereon/CriterionTriggerBrewedPotion
+	<init> ()V <init>
+av net/minecraft/advancements/critereon/CriterionTriggerBredAnimals
+	<init> ()V <init>
+ca$a net/minecraft/advancements/critereon/CriterionConditionItem$a
+	<init> ()V <init>
+ay$a net/minecraft/advancements/critereon/CriterionTriggerChanneledLightning$a
+	<init> (Lbo$b;[Lbo$b;)V <init>
+bq$b net/minecraft/advancements/critereon/CriterionConditionEntityType$b
+	<init> (Lbau;)V <init>
+az net/minecraft/advancements/critereon/CriterionTriggerConstructBeacon
+	<init> ()V <init>
+bg$a net/minecraft/advancements/critereon/DistanceTrigger$a
+	<init> (Laaj;Lbo$b;Lch;Lbf;)V <init>
+bo net/minecraft/advancements/critereon/CriterionConditionEntity
+	<init> (Lbq;Lbf;Lch;Lch;Lck;Lcl;Lbm;Lbl;Lbp;Ljava/lang/String;)V <init>
+	<init> (Lbq;Lbf;Lch;Lch;Lck;Lcl;Lbm;Lbl;Lbp;Lbo;Lbo;Lbo;Ljava/lang/String;)V <init>
+br net/minecraft/advancements/critereon/EntityVariantPredicate
+	<init> (Lhm;Ljava/util/function/Function;)V <init>
+as net/minecraft/advancements/critereon/CriterionInstanceAbstract
+	<init> (Laaj;Lbo$b;)V <init>
+bp$1 net/minecraft/advancements/critereon/EntitySubPredicate$1
+	<init> ()V <init>
+bi net/minecraft/advancements/critereon/CriterionTriggerEnchantedItem
+	<init> ()V <init>
+bq$a net/minecraft/advancements/critereon/CriterionConditionEntityType$a
+	<init> (Lakh;)V <init>
+bx$a net/minecraft/advancements/critereon/CriterionTriggerInventoryChanged$a
+	<init> (Lbo$b;Lcj$d;Lcj$d;Lcj$d;[Lca;)V <init>
+by$a net/minecraft/advancements/critereon/CriterionTriggerItemDurabilityChanged$a
+	<init> (Lbo$b;Lca;Lcj$d;Lcj$d;)V <init>
+by net/minecraft/advancements/critereon/CriterionTriggerItemDurabilityChanged
+	<init> ()V <init>
+bo$a net/minecraft/advancements/critereon/CriterionConditionEntity$a
+	<init> ()V <init>
+bf net/minecraft/advancements/critereon/CriterionConditionDistance
+	<init> (Lcj$c;Lcj$c;Lcj$c;Lcj$c;Lcj$c;)V <init>
+br$1 net/minecraft/advancements/critereon/EntityVariantPredicate$1
+	<init> ()V <init>
+bl net/minecraft/advancements/critereon/CriterionConditionEntityEquipment
+	<init> (Lca;Lca;Lca;Lca;Lca;Lca;)V <init>
+bo$b net/minecraft/advancements/critereon/CriterionConditionEntity$b
+	<init> ([Ldua;)V <init>
+bd net/minecraft/advancements/critereon/CriterionConditionDamageSource
+	<init> (Ljava/lang/Boolean;Ljava/lang/Boolean;Ljava/lang/Boolean;Ljava/lang/Boolean;Ljava/lang/Boolean;Ljava/lang/Boolean;Ljava/lang/Boolean;Ljava/lang/Boolean;Lbo;Lbo;)V <init>
+bn net/minecraft/advancements/critereon/CriterionTriggerEntityHurtPlayer
+	<init> ()V <init>
+ay net/minecraft/advancements/critereon/CriterionTriggerChanneledLightning
+	<init> ()V <init>
+bx net/minecraft/advancements/critereon/CriterionTriggerInventoryChanged
+	<init> ()V <init>
+cc net/minecraft/advancements/critereon/CriterionTriggerKilled
+	<init> (Laaj;)V <init>
+bs$a net/minecraft/advancements/critereon/CriterionTriggerFilledBucket$a
+	<init> (Lbo$b;Lca;)V <init>
+at net/minecraft/advancements/critereon/CriterionTriggerBeeNestDestroyed
+	<init> ()V <init>
+bm$a net/minecraft/advancements/critereon/CriterionConditionEntityFlags$a
+	<init> ()V <init>
+bj net/minecraft/advancements/critereon/CriterionConditionEnchantments
+	<init> ()V <init>
+	<init> (Lcdu;Lcj$d;)V <init>
+bb net/minecraft/advancements/critereon/CriterionTriggerCuredZombieVillager
+	<init> ()V <init>
+bs net/minecraft/advancements/critereon/CriterionTriggerFilledBucket
+	<init> ()V <init>
+aw$a net/minecraft/advancements/critereon/CriterionTriggerBrewedPotion$a
+	<init> (Lbo$b;Lcbv;)V <init>
+at$a net/minecraft/advancements/critereon/CriterionTriggerBeeNestDestroyed$a
+	<init> (Lbo$b;Lciw;Lca;Lcj$d;)V <init>
+az$a net/minecraft/advancements/critereon/CriterionTriggerConstructBeacon$a
+	<init> (Lbo$b;Lcj$d;)V <init>
+bu$a net/minecraft/advancements/critereon/CriterionTriggerFishingRodHooked$a
+	<init> (Lbo$b;Lca;Lbo$b;Lca;)V <init>
+bi$a net/minecraft/advancements/critereon/CriterionTriggerEnchantedItem$a
+	<init> (Lbo$b;Lca;Lcj$d;)V <init>
+bp$b net/minecraft/advancements/critereon/EntitySubPredicate$b
+	<init> ()V <init>
+bz net/minecraft/advancements/critereon/ItemInteractWithBlockTrigger
+	<init> (Laaj;)V <init>
+cd$a net/minecraft/advancements/critereon/CriterionTriggerLevitation$a
+	<init> (Lbo$b;Lbf;Lcj$d;)V <init>
+bc net/minecraft/advancements/critereon/CriterionConditionDamage
+	<init> ()V <init>
+	<init> (Lcj$c;Lcj$c;Lbo;Ljava/lang/Boolean;Lbd;)V <init>
+bk$a net/minecraft/advancements/critereon/CriterionTriggerEnterBlock$a
+	<init> (Lbo$b;Lciw;Lcz;)V <init>
+bp net/minecraft/advancements/critereon/EntitySubPredicate
+bv$a net/minecraft/advancements/critereon/CriterionConditionFluid$a
+	<init> ()V <init>
+bu net/minecraft/advancements/critereon/CriterionTriggerFishingRodHooked
+	<init> ()V <init>
+bq net/minecraft/advancements/critereon/CriterionConditionEntityType
+	<init> ()V <init>
+au$a net/minecraft/advancements/critereon/CriterionConditionBlock$a
+	<init> ()V <init>
+cc$a net/minecraft/advancements/critereon/CriterionTriggerKilled$a
+	<init> (Laaj;Lbo$b;Lbo$b;Lbd;)V <init>
+bk net/minecraft/advancements/critereon/CriterionTriggerEnterBlock
+	<init> ()V <init>
+bh net/minecraft/advancements/critereon/CriterionTriggerEffectsChanged
+	<init> ()V <init>
+bt net/minecraft/advancements/critereon/CriterionConditionInOpenWater
+	<init> (Z)V <init>
+av$a net/minecraft/advancements/critereon/CriterionTriggerBredAnimals$a
+	<init> (Lbo$b;Lbo$b;Lbo$b;Lbo$b;)V <init>
+bn$a net/minecraft/advancements/critereon/CriterionTriggerEntityHurtPlayer$a
+	<init> (Lbo$b;Lbc;)V <init>
+ax$a net/minecraft/advancements/critereon/CriterionTriggerChangedDimension$a
+	<init> (Lbo$b;Laai;Laai;)V <init>
+bc$a net/minecraft/advancements/critereon/CriterionConditionDamage$a
+	<init> ()V <init>
+ba$a net/minecraft/advancements/critereon/CriterionTriggerConsumeItem$a
+	<init> (Lbo$b;Lca;)V <init>
+bh$a net/minecraft/advancements/critereon/CriterionTriggerEffectsChanged$a
+	<init> (Lbo$b;Lck;Lbo$b;)V <init>
+be net/minecraft/advancements/critereon/LootDeserializationContext
+	<init> (Laaj;Ldrl;)V <init>
+bl$a net/minecraft/advancements/critereon/CriterionConditionEntityEquipment$a
+	<init> ()V <init>
+ax net/minecraft/advancements/critereon/CriterionTriggerChangedDimension
+	<init> ()V <init>
+ca net/minecraft/advancements/critereon/CriterionConditionItem
+	<init> ()V <init>
+	<init> (Lakh;Ljava/util/Set;Lcj$d;Lcj$d;[Lbj;[Lbj;Lcbv;Lcl;)V <init>
+bp$a net/minecraft/advancements/critereon/EntitySubPredicate$a
+bq$1 net/minecraft/advancements/critereon/CriterionConditionEntityType$1
+	<init> ()V <init>
+ce$a net/minecraft/advancements/critereon/CriterionConditionLight$a
+	<init> ()V <init>
+bb$a net/minecraft/advancements/critereon/CriterionTriggerCuredZombieVillager$a
+	<init> (Lbo$b;Lbo$b;Lbo$b;)V <init>
+cb net/minecraft/advancements/critereon/CriterionTriggerKilledByCrossbow
+	<init> ()V <init>
+cb$a net/minecraft/advancements/critereon/CriterionTriggerKilledByCrossbow$a
+	<init> (Lbo$b;[Lbo$b;Lcj$d;)V <init>
+au net/minecraft/advancements/critereon/CriterionConditionBlock
+	<init> (Lakh;Ljava/util/Set;Lcz;Lcl;)V <init>
+bw net/minecraft/advancements/critereon/CriterionTriggerImpossible
+	<init> ()V <init>
+bz$a net/minecraft/advancements/critereon/ItemInteractWithBlockTrigger$a
+	<init> (Laaj;Lbo$b;Lch;Lca;)V <init>
+bw$a net/minecraft/advancements/critereon/CriterionTriggerImpossible$a
+	<init> ()V <init>
+bg net/minecraft/advancements/critereon/DistanceTrigger
+	<init> (Laaj;)V <init>
+bv net/minecraft/advancements/critereon/CriterionConditionFluid
+	<init> (Lakh;Ldox;Lcz;)V <init>
+aq net/minecraft/advancements/AdvancementRequirements
+ah net/minecraft/advancements/AdvancementProgress
+	<init> (Ljava/util/Map;)V <init>
+	<init> ()V <init>
+ag net/minecraft/advancements/Advancements
+	<init> ()V <init>
+af$a net/minecraft/advancements/Advancement$SerializedAdvancement
+	<init> (Laaj;Lao;Lai;Ljava/util/Map;[[Ljava/lang/String;)V <init>
+	<init> ()V <init>
+aj net/minecraft/advancements/CriterionTriggers
+	<init> ()V <init>
+ag$a net/minecraft/advancements/Advancements$a
+ae net/minecraft/WorldVersion
+ac net/minecraft/SystemReport
+	<init> ()V <init>
+ad$9 net/minecraft/SystemUtils$9
+	<init> (Ljava/lang/String;)V <init>
+ajo net/minecraft/stats/StatisticList
+	<init> ()V <init>
+aji$a net/minecraft/stats/RecipeBookSettings$a
+	<init> (ZZ)V <init>
+aji net/minecraft/stats/RecipeBookSettings
+	<init> (Ljava/util/Map;)V <init>
+	<init> ()V <init>
+ajm net/minecraft/stats/Counter
+ajl net/minecraft/stats/Statistic
+	<init> (Lajn;Ljava/lang/Object;Lajm;)V <init>
+ajp net/minecraft/stats/StatisticManager
+	<init> ()V <init>
+ajk net/minecraft/stats/ServerStatisticManager
+	<init> (Lnet/minecraft/server/MinecraftServer;Ljava/io/File;)V <init>
+ajh net/minecraft/stats/RecipeBook
+	<init> ()V <init>
+ajj net/minecraft/stats/RecipeBookServer
+	<init> ()V <init>
+ajn net/minecraft/stats/StatisticWrapper
+	<init> (Lhm;)V <init>
+bvl net/minecraft/world/food/FoodMetaData
+	<init> ()V <init>
+bvm$a net/minecraft/world/food/FoodInfo$a
+	<init> ()V <init>
+bvm net/minecraft/world/food/FoodInfo
+	<init> (IFZZZLjava/util/List;)V <init>
+bvn net/minecraft/world/food/Foods
+	<init> ()V <init>
+azq net/minecraft/world/INamableTileEntity
+azi net/minecraft/world/InventoryUtils
+	<init> ()V <init>
+azo net/minecraft/world/ChestLock
+	<init> (Ljava/lang/String;)V <init>
+azh net/minecraft/world/IInventoryListener
+bae net/minecraft/world/effect/MobEffectAttackDamage
+	<init> (Lbai;ID)V <init>
+bak net/minecraft/world/effect/MobEffectUtil
+	<init> ()V <init>
+baj$a net/minecraft/world/effect/MobEffect$a
+	<init> (IFFFIFZ)V <init>
+	<init> (I)V <init>
+bal$1 net/minecraft/world/effect/MobEffects$1
+	<init> (Lbai;I)V <init>
+baf net/minecraft/world/effect/MobEffectHealthBoost
+	<init> (Lbai;I)V <init>
+bad net/minecraft/world/effect/MobEffectAbsorption
+	<init> (Lbai;I)V <init>
+bai net/minecraft/world/effect/MobEffectInfo
+	<init> (Lp;)V <init>
+bah net/minecraft/world/effect/MobEffectList
+	<init> (Lbai;I)V <init>
+bal net/minecraft/world/effect/MobEffects
+	<init> ()V <init>
+baj net/minecraft/world/effect/MobEffect
+	<init> (Lbaj;)V <init>
+	<init> (Lbaj;I)V <init>
+	<init> (Lbaj;II)V <init>
+	<init> (Lbaj;IIZZ)V <init>
+	<init> (Lbaj;IIZZZ)V <init>
+	<init> (Lbaj;IIZZZLbaj;Ljava/util/Optional;)V <init>
+bag net/minecraft/world/effect/InstantMobEffect
+	<init> (Lbai;I)V <init>
+bwp$1 net/minecraft/world/inventory/ContainerAnvilAbstract$1
+	<init> (Lbwp;I)V <init>
+bwh$3 net/minecraft/world/inventory/ContainerEnchantTable$3
+	<init> (Lbwh;Lazf;III)V <init>
+bvp net/minecraft/world/inventory/Container
+	<init> (Lbwt;I)V <init>
+bwr$5 net/minecraft/world/inventory/ContainerLoom$5
+	<init> (Lbwr;Lazf;III)V <init>
+bvv net/minecraft/world/inventory/ContainerCartography
+	<init> (ILbte;)V <init>
+	<init> (ILbte;Lbwa;)V <init>
+bvw net/minecraft/world/inventory/ContainerChest
+	<init> (Lbwt;ILbte;I)V <init>
+	<init> (Lbwt;ILbte;Lazf;I)V <init>
+bxk$1 net/minecraft/world/inventory/ContainerStonecutter$1
+	<init> (Lbxk;I)V <init>
+bwr$6 net/minecraft/world/inventory/ContainerLoom$6
+	<init> (Lbwr;Lazf;IIILbwa;)V <init>
+bwr$4 net/minecraft/world/inventory/ContainerLoom$4
+	<init> (Lbwr;Lazf;III)V <init>
+bxf net/minecraft/world/inventory/ContainerProperties
+	<init> (I)V <init>
+bwa net/minecraft/world/inventory/ContainerAccess
+bvy net/minecraft/world/inventory/InventoryClickType
+	<init> ()V <init>
+bwt$a net/minecraft/world/inventory/Containers$Supplier
+bwb net/minecraft/world/inventory/ICrafting
+bxj net/minecraft/world/inventory/AutoRecipeOutput
+bwh$1 net/minecraft/world/inventory/ContainerEnchantTable$1
+	<init> (Lbwh;I)V <init>
+bwf net/minecraft/world/inventory/ContainerProperty
+	<init> ()V <init>
+bwc net/minecraft/world/inventory/ContainerSynchronizer
+bwo$1 net/minecraft/world/inventory/ContainerPlayer$1
+	<init> (Lbwo;Lazf;IIILbtf;Lbav;)V <init>
+bvu$c net/minecraft/world/inventory/ContainerBrewingStand$SlotPotionBottle
+	<init> (Lazf;III)V <init>
+bxe net/minecraft/world/inventory/SlotShulkerBox
+	<init> (Lazf;III)V <init>
+bvu net/minecraft/world/inventory/ContainerBrewingStand
+	<init> (ILbte;)V <init>
+	<init> (ILbte;Lazf;Lbvz;)V <init>
+bwl$3 net/minecraft/world/inventory/ContainerGrindstone$3
+	<init> (Lbwl;Lazf;III)V <init>
+bwf$2 net/minecraft/world/inventory/ContainerProperty$2
+	<init> ([II)V <init>
+bxi net/minecraft/world/inventory/ContainerSmoker
+	<init> (ILbte;)V <init>
+	<init> (ILbte;Lazf;Lbvz;)V <init>
+bvp$1 net/minecraft/world/inventory/Container$1
+	<init> (Lbvp;)V <init>
+bxk net/minecraft/world/inventory/ContainerStonecutter
+	<init> (ILbte;)V <init>
+	<init> (ILbte;Lbwa;)V <init>
+bvs net/minecraft/world/inventory/ContainerBeacon
+	<init> (ILazf;)V <init>
+	<init> (ILazf;Lbvz;Lbwa;)V <init>
+bwy net/minecraft/world/inventory/ContainerRecipeBook
+	<init> (Lbwt;I)V <init>
+bwf$3 net/minecraft/world/inventory/ContainerProperty$3
+	<init> ()V <init>
+bwq$1 net/minecraft/world/inventory/ContainerLectern$1
+	<init> (Lbwq;Lazf;III)V <init>
+bwg net/minecraft/world/inventory/ContainerDispenser
+	<init> (ILbte;)V <init>
+	<init> (ILbte;Lazf;)V <init>
+bxn net/minecraft/world/inventory/tooltip/TooltipComponent
+bxm net/minecraft/world/inventory/tooltip/BundleTooltip
+	<init> (Lhi;I)V <init>
+bvs$a net/minecraft/world/inventory/ContainerBeacon$SlotBeacon
+	<init> (Lbvs;Lazf;III)V <init>
+bvx net/minecraft/world/inventory/ClickAction
+	<init> ()V <init>
+bvu$b net/minecraft/world/inventory/ContainerBrewingStand$SlotBrewing
+	<init> (Lazf;III)V <init>
+bvs$1 net/minecraft/world/inventory/ContainerBeacon$1
+	<init> (Lbvs;I)V <init>
+bvq net/minecraft/world/inventory/ContainerFurnace
+	<init> (Lbwt;Lccv;Lbwz;ILbte;)V <init>
+	<init> (Lbwt;Lccv;Lbwz;ILbte;Lazf;Lbvz;)V <init>
+bwh net/minecraft/world/inventory/ContainerEnchantTable
+	<init> (ILbte;)V <init>
+	<init> (ILbte;Lbwa;)V <init>
+bwl$2 net/minecraft/world/inventory/ContainerGrindstone$2
+	<init> (Lbwl;Lazf;III)V <init>
+bwf$1 net/minecraft/world/inventory/ContainerProperty$1
+	<init> (Lbvz;I)V <init>
+bwi net/minecraft/world/inventory/SlotFurnaceFuel
+	<init> (Lbvq;Lazf;III)V <init>
+bwr$2 net/minecraft/world/inventory/ContainerLoom$2
+	<init> (Lbwr;I)V <init>
+bwt net/minecraft/world/inventory/Containers
+	<init> (Lbwt$a;)V <init>
+bwe net/minecraft/world/inventory/ContainerWorkbench
+	<init> (ILbte;)V <init>
+	<init> (ILbte;Lbwa;)V <init>
+bxa net/minecraft/world/inventory/RecipeHolder
+bws net/minecraft/world/inventory/ITileEntityContainer
+bwl$4 net/minecraft/world/inventory/ContainerGrindstone$4
+	<init> (Lbwl;Lazf;IIILbwa;)V <init>
+bwk net/minecraft/world/inventory/SlotFurnaceResult
+	<init> (Lbtf;Lazf;III)V <init>
+bwz net/minecraft/world/inventory/RecipeBookType
+	<init> ()V <init>
+bvr net/minecraft/world/inventory/ContainerAnvil
+	<init> (ILbte;)V <init>
+	<init> (ILbte;Lbwa;)V <init>
+bxg net/minecraft/world/inventory/Slot
+	<init> (Lazf;III)V <init>
+bxb net/minecraft/world/inventory/InventoryCraftResult
+	<init> ()V <init>
+bxc net/minecraft/world/inventory/SlotResult
+	<init> (Lbtf;Lbwd;Lazf;III)V <init>
+bxd net/minecraft/world/inventory/ContainerShulkerBox
+	<init> (ILbte;)V <init>
+	<init> (ILbte;Lazf;)V <init>
+bxk$2 net/minecraft/world/inventory/ContainerStonecutter$2
+	<init> (Lbxk;Lazf;IIILbwa;)V <init>
+bwj net/minecraft/world/inventory/ContainerFurnaceFurnace
+	<init> (ILbte;)V <init>
+	<init> (ILbte;Lazf;Lbvz;)V <init>
+bvt net/minecraft/world/inventory/ContainerBlastFurnace
+	<init> (ILbte;)V <init>
+	<init> (ILbte;Lazf;Lbvz;)V <init>
+bwh$2 net/minecraft/world/inventory/ContainerEnchantTable$2
+	<init> (Lbwh;Lazf;III)V <init>
+bwr$1 net/minecraft/world/inventory/ContainerLoom$1
+	<init> (Lbwr;I)V <init>
+bwa$1 net/minecraft/world/inventory/ContainerAccess$1
+	<init> ()V <init>
+bwp net/minecraft/world/inventory/ContainerAnvilAbstract
+	<init> (Lbwt;ILbte;Lbwa;)V <init>
+bwn$2 net/minecraft/world/inventory/ContainerHorse$2
+	<init> (Lbwn;Lazf;IIILbod;)V <init>
+bwd net/minecraft/world/inventory/InventoryCrafting
+	<init> (Lbvp;II)V <init>
+bwu net/minecraft/world/inventory/InventoryMerchant
+	<init> (Lcex;)V <init>
+bwl$1 net/minecraft/world/inventory/ContainerGrindstone$1
+	<init> (Lbwl;I)V <init>
+bwn net/minecraft/world/inventory/ContainerHorse
+	<init> (ILbte;Lazf;Lbod;)V <init>
+bvu$a net/minecraft/world/inventory/ContainerBrewingStand$a
+	<init> (Lazf;III)V <init>
+bwp$2 net/minecraft/world/inventory/ContainerAnvilAbstract$2
+	<init> (Lbwp;Lazf;III)V <init>
+bwn$1 net/minecraft/world/inventory/ContainerHorse$1
+	<init> (Lbwn;Lazf;IIILbod;)V <init>
+bwv net/minecraft/world/inventory/ContainerMerchant
+	<init> (ILbte;)V <init>
+	<init> (ILbte;Lcex;)V <init>
+bww net/minecraft/world/inventory/SlotMerchantResult
+	<init> (Lbtf;Lcex;Lbwu;III)V <init>
+bwo$2 net/minecraft/world/inventory/ContainerPlayer$2
+	<init> (Lbwo;Lazf;III)V <init>
+bxh net/minecraft/world/inventory/ContainerSmithing
+	<init> (ILbte;)V <init>
+	<init> (ILbte;Lbwa;)V <init>
+bvv$3 net/minecraft/world/inventory/ContainerCartography$3
+	<init> (Lbvv;Lazf;III)V <init>
+bwq net/minecraft/world/inventory/ContainerLectern
+	<init> (I)V <init>
+	<init> (ILazf;Lbvz;)V <init>
+bwm net/minecraft/world/inventory/ContainerHopper
+	<init> (ILbte;)V <init>
+	<init> (ILbte;Lazf;)V <init>
+bwa$2 net/minecraft/world/inventory/ContainerAccess$2
+	<init> ()V <init>
+bvv$5 net/minecraft/world/inventory/ContainerCartography$5
+	<init> (Lbvv;Lazf;IIILbwa;)V <init>
+bwl net/minecraft/world/inventory/ContainerGrindstone
+	<init> (ILbte;)V <init>
+	<init> (ILbte;Lbwa;)V <init>
+bwo net/minecraft/world/inventory/ContainerPlayer
+	<init> (Lbte;ZLbtf;)V <init>
+bvv$4 net/minecraft/world/inventory/ContainerCartography$4
+	<init> (Lbvv;Lazf;III)V <init>
+bvz net/minecraft/world/inventory/IContainerProperties
+bwr$3 net/minecraft/world/inventory/ContainerLoom$3
+	<init> (Lbwr;Lazf;III)V <init>
+bvv$2 net/minecraft/world/inventory/ContainerCartography$2
+	<init> (Lbvv;)V <init>
+bvv$1 net/minecraft/world/inventory/ContainerCartography$1
+	<init> (Lbvv;I)V <init>
+bwx net/minecraft/world/inventory/InventoryEnderChest
+	<init> ()V <init>
+bwr net/minecraft/world/inventory/ContainerLoom
+	<init> (ILbte;)V <init>
+	<init> (ILbte;Lbwa;)V <init>
+azz net/minecraft/world/damagesource/DamageSource
+	<init> (Ljava/lang/String;)V <init>
+azv net/minecraft/world/damagesource/DamageSourceNetherBed
+	<init> ()V <init>
+baa net/minecraft/world/damagesource/EntityDamageSource
+	<init> (Ljava/lang/String;Lbaq;)V <init>
+azw net/minecraft/world/damagesource/CombatEntry
+	<init> (Lazz;IFFLjava/lang/String;F)V <init>
+bab net/minecraft/world/damagesource/EntityDamageSourceIndirect
+	<init> (Ljava/lang/String;Lbaq;Lbaq;)V <init>
+azy net/minecraft/world/damagesource/CombatTracker
+	<init> (Lbbf;)V <init>
+azx net/minecraft/world/damagesource/CombatMath
+	<init> ()V <init>
+azt net/minecraft/world/IWorldInventory
+azs net/minecraft/world/TileInventory
+	<init> (Lbws;Lrm;)V <init>
+azg net/minecraft/world/ContainerUtil
+	<init> ()V <init>
+bbw$1 net/minecraft/world/entity/SlotAccess$1
+	<init> ()V <init>
+bav$a net/minecraft/world/entity/EnumItemSlot$Function
+	<init> ()V <init>
+baq net/minecraft/world/entity/Entity
+	<init> (Lbau;Lcga;)V <init>
+bby$c net/minecraft/world/entity/EntityPositionTypes$Surface
+	<init> ()V <init>
+bos net/minecraft/world/entity/boss/enderdragon/EntityEnderDragon
+	<init> (Lbau;Lcga;)V <init>
+bor net/minecraft/world/entity/boss/enderdragon/EntityEnderCrystal
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;DDD)V <init>
+boz net/minecraft/world/entity/boss/enderdragon/phases/DragonControllerHover
+	<init> (Lbos;)V <init>
+bpa net/minecraft/world/entity/boss/enderdragon/phases/DragonControllerLandingFly
+	<init> (Lbos;)V <init>
+bph net/minecraft/world/entity/boss/enderdragon/phases/DragonControllerFly
+	<init> (Lbos;)V <init>
+bou net/minecraft/world/entity/boss/enderdragon/phases/AbstractDragonController
+	<init> (Lbos;)V <init>
+bpb net/minecraft/world/entity/boss/enderdragon/phases/DragonControllerLanding
+	<init> (Lbos;)V <init>
+bpe net/minecraft/world/entity/boss/enderdragon/phases/DragonControllerLandedFlame
+	<init> (Lbos;)V <init>
+bpj net/minecraft/world/entity/boss/enderdragon/phases/DragonControllerManager
+	<init> (Lbos;)V <init>
+bpd net/minecraft/world/entity/boss/enderdragon/phases/DragonControllerLandedAttack
+	<init> (Lbos;)V <init>
+bpi net/minecraft/world/entity/boss/enderdragon/phases/DragonControllerPhase
+	<init> (ILjava/lang/Class;Ljava/lang/String;)V <init>
+bow net/minecraft/world/entity/boss/enderdragon/phases/DragonControllerCharge
+	<init> (Lbos;)V <init>
+bpc net/minecraft/world/entity/boss/enderdragon/phases/IDragonController
+box net/minecraft/world/entity/boss/enderdragon/phases/DragonControllerDying
+	<init> (Lbos;)V <init>
+bov net/minecraft/world/entity/boss/enderdragon/phases/AbstractDragonControllerLanded
+	<init> (Lbos;)V <init>
+boy net/minecraft/world/entity/boss/enderdragon/phases/DragonControllerHold
+	<init> (Lbos;)V <init>
+bpg net/minecraft/world/entity/boss/enderdragon/phases/DragonControllerStrafe
+	<init> (Lbos;)V <init>
+bpf net/minecraft/world/entity/boss/enderdragon/phases/DragonControllerLandedSearch
+	<init> (Lbos;)V <init>
+bpm net/minecraft/world/entity/boss/wither/EntityWither
+	<init> (Lbau;Lcga;)V <init>
+bpm$a net/minecraft/world/entity/boss/wither/EntityWither$a
+	<init> (Lbpm;)V <init>
+boq net/minecraft/world/entity/boss/EntityComplexPart
+	<init> (Lbos;Ljava/lang/String;FF)V <init>
+bat$a net/minecraft/world/entity/IEntitySelector$EntitySelectorEquipable
+	<init> (Lcaa;)V <init>
+bbf net/minecraft/world/entity/EntityLiving
+	<init> (Lbau;Lcga;)V <init>
+bve$a net/minecraft/world/entity/vehicle/EntityMinecartCommandBlock$a
+	<init> (Lbve;)V <init>
+bva$1 net/minecraft/world/entity/vehicle/ContainerEntity$1
+	<init> ()V <init>
+buy net/minecraft/world/entity/vehicle/EntityBoat
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;DDD)V <init>
+bva net/minecraft/world/entity/vehicle/ContainerEntity
+bvd net/minecraft/world/entity/vehicle/EntityMinecartChest
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;DDD)V <init>
+bvi net/minecraft/world/entity/vehicle/EntityMinecartTNT
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;DDD)V <init>
+bvf net/minecraft/world/entity/vehicle/EntityMinecartFurnace
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;DDD)V <init>
+bux net/minecraft/world/entity/vehicle/EntityMinecartContainer
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lbau;DDDLcga;)V <init>
+bvh$1 net/minecraft/world/entity/vehicle/EntityMinecartMobSpawner$1
+	<init> (Lbvh;)V <init>
+buz net/minecraft/world/entity/vehicle/ChestBoat
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;DDD)V <init>
+bvh net/minecraft/world/entity/vehicle/EntityMinecartMobSpawner
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;DDD)V <init>
+bvc net/minecraft/world/entity/vehicle/EntityMinecartRideable
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;DDD)V <init>
+buw net/minecraft/world/entity/vehicle/EntityMinecartAbstract
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lbau;Lcga;DDD)V <init>
+bvb net/minecraft/world/entity/vehicle/DismountUtil
+	<init> ()V <init>
+bve net/minecraft/world/entity/vehicle/EntityMinecartCommandBlock
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;DDD)V <init>
+buy$b net/minecraft/world/entity/vehicle/EntityBoat$EnumBoatType
+	<init> (Lciw;Ljava/lang/String;)V <init>
+buy$a net/minecraft/world/entity/vehicle/EntityBoat$EnumStatus
+	<init> ()V <init>
+bvg net/minecraft/world/entity/vehicle/EntityMinecartHopper
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;DDD)V <init>
+buw$a net/minecraft/world/entity/vehicle/EntityMinecartAbstract$EnumMinecartType
+	<init> ()V <init>
+bbu net/minecraft/world/entity/ISaddleable
+bau net/minecraft/world/entity/EntityTypes
+	<init> (Lbau$b;Lbbi;ZZZZLcom/google/common/collect/ImmutableSet;Lbar;II)V <init>
+bbe net/minecraft/world/entity/EntityLightning
+	<init> (Lbau;Lcga;)V <init>
+bba net/minecraft/world/entity/EnumMainHand
+	<init> (ILjava/lang/String;)V <init>
+ban net/minecraft/world/entity/EntityAgeable
+	<init> (Lbau;Lcga;)V <init>
+bay net/minecraft/world/entity/GlowSquid
+	<init> (Lbau;Lcga;)V <init>
+bap net/minecraft/world/entity/EntityAreaEffectCloud
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;DDD)V <init>
+baz net/minecraft/world/entity/HasCustomInventoryScreen
+bax net/minecraft/world/entity/EntityFlying
+	<init> (Lbau;Lcga;)V <init>
+bbp net/minecraft/world/entity/PlayerRideable
+bus net/minecraft/world/entity/schedule/Schedule
+	<init> ()V <init>
+buu net/minecraft/world/entity/schedule/ScheduleActivity
+	<init> ()V <init>
+but net/minecraft/world/entity/schedule/ScheduleBuilder
+	<init> (Lbus;)V <init>
+buq net/minecraft/world/entity/schedule/Activity
+	<init> (Ljava/lang/String;)V <init>
+but$a net/minecraft/world/entity/schedule/ScheduleBuilder$a
+	<init> (ILbuq;)V <init>
+bur net/minecraft/world/entity/schedule/ActivityFrame
+	<init> (IF)V <init>
+bbw$3 net/minecraft/world/entity/SlotAccess$3
+	<init> ()V <init>
+bbk net/minecraft/world/entity/EnumMonsterType
+	<init> ()V <init>
+bbm net/minecraft/world/entity/IEntityAngerable
+bao net/minecraft/world/entity/AnimationState
+	<init> ()V <init>
+bbw net/minecraft/world/entity/SlotAccess
+bpr$1 net/minecraft/world/entity/decoration/EntityItemFrame$1
+	<init> (Lbpr;)V <init>
+bpp net/minecraft/world/entity/decoration/GlowItemFrame
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;Lgt;Lgy;)V <init>
+bpt net/minecraft/world/entity/decoration/EntityPainting
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;Lgt;)V <init>
+	<init> (Lcga;Lgt;Lgy;Lhc;)V <init>
+bpo net/minecraft/world/entity/decoration/EntityArmorStand
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;DDD)V <init>
+bps net/minecraft/world/entity/decoration/EntityLeash
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;Lgt;)V <init>
+bpu net/minecraft/world/entity/decoration/PaintingVariant
+	<init> (II)V <init>
+bpr net/minecraft/world/entity/decoration/EntityItemFrame
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;Lgt;Lgy;)V <init>
+	<init> (Lbau;Lcga;Lgt;Lgy;)V <init>
+bpv net/minecraft/world/entity/decoration/PaintingVariants
+	<init> ()V <init>
+bpq net/minecraft/world/entity/decoration/EntityHanging
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lbau;Lcga;Lgt;)V <init>
+bbl net/minecraft/world/entity/EnumMoveType
+	<init> ()V <init>
+bti$a net/minecraft/world/entity/player/ProfilePublicKey$a
+	<init> (Lqx;)V <init>
+	<init> (Ljava/time/Instant;Ljava/security/PublicKey;[B)V <init>
+btc net/minecraft/world/entity/player/PlayerAbilities
+	<init> ()V <init>
+btj$a net/minecraft/world/entity/player/AutoRecipeStackManager$a
+	<init> (Lccs;)V <init>
+bte net/minecraft/world/entity/player/PlayerInventory
+	<init> (Lbtf;)V <init>
+bti net/minecraft/world/entity/player/ProfilePublicKey
+	<init> (Lbti$a;)V <init>
+btf$a net/minecraft/world/entity/player/EntityHuman$EnumBedResult
+	<init> ()V <init>
+	<init> (Lrm;)V <init>
+btj net/minecraft/world/entity/player/AutoRecipeStackManager
+	<init> ()V <init>
+btd net/minecraft/world/entity/player/EnumChatVisibility
+	<init> (ILjava/lang/String;)V <init>
+btf net/minecraft/world/entity/player/EntityHuman
+	<init> (Lcga;Lgt;FLcom/mojang/authlib/GameProfile;Lbti;)V <init>
+btg net/minecraft/world/entity/player/PlayerModelPart
+	<init> (ILjava/lang/String;)V <init>
+bau$a net/minecraft/world/entity/EntityTypes$Builder
+	<init> (Lbau$b;Lbbi;)V <init>
+bsy net/minecraft/world/entity/npc/EntityVillagerTrader
+	<init> (Lbau;Lcga;)V <init>
+bsw$g net/minecraft/world/entity/npc/VillagerTrades$g
+	<init> (Lcfz;ILbzw;III)V <init>
+	<init> (Lcfz;IILbzw;III)V <init>
+bsz net/minecraft/world/entity/npc/MobSpawnerTrader
+	<init> (Ldqy;)V <init>
+bsw$d net/minecraft/world/entity/npc/VillagerTrades$d
+	<init> (I)V <init>
+bsw net/minecraft/world/entity/npc/VillagerTrades
+	<init> ()V <init>
+bsw$i net/minecraft/world/entity/npc/VillagerTrades$i
+	<init> (Lbaj;II)V <init>
+bss net/minecraft/world/entity/npc/EntityVillager
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lbau;Lcga;Lbsx;)V <init>
+bsw$h net/minecraft/world/entity/npc/VillagerTrades$h
+	<init> (Lciw;IIII)V <init>
+	<init> (Lbzw;III)V <init>
+	<init> (Lbzw;IIII)V <init>
+	<init> (Lcaa;IIII)V <init>
+	<init> (Lcaa;IIIIF)V <init>
+bsv net/minecraft/world/entity/npc/VillagerProfession
+	<init> (Ljava/lang/String;Ljava/util/function/Predicate;Ljava/util/function/Predicate;Lcom/google/common/collect/ImmutableSet;Lcom/google/common/collect/ImmutableSet;Lajd;)V <init>
+bsr net/minecraft/world/entity/npc/NPC
+bsu net/minecraft/world/entity/npc/VillagerDataHolder
+bsw$f net/minecraft/world/entity/npc/VillagerTrades$IMerchantRecipeOption
+bst net/minecraft/world/entity/npc/VillagerData
+	<init> (Lbsx;Lbsv;I)V <init>
+bso net/minecraft/world/entity/npc/MobSpawnerCat
+	<init> ()V <init>
+bsq net/minecraft/world/entity/npc/InventoryCarrier
+bsw$k net/minecraft/world/entity/npc/VillagerTrades$k
+	<init> (ILakh;Ljava/lang/String;Ldqg$a;II)V <init>
+bsp net/minecraft/world/entity/npc/MerchantWrapper
+	<init> (Lbtf;)V <init>
+bsw$j net/minecraft/world/entity/npc/VillagerTrades$j
+	<init> (Lbzw;ILbzw;IIII)V <init>
+bsn net/minecraft/world/entity/npc/EntityVillagerAbstract
+	<init> (Lbau;Lcga;)V <init>
+bsy$a net/minecraft/world/entity/npc/EntityVillagerTrader$a
+	<init> (Lbsy;Lbsy;DD)V <init>
+bsw$e net/minecraft/world/entity/npc/VillagerTrades$e
+	<init> (Lbzw;III)V <init>
+	<init> (Lbzw;IIIF)V <init>
+bsw$b net/minecraft/world/entity/npc/VillagerTrades$b
+	<init> (Lcfz;III)V <init>
+bsx net/minecraft/world/entity/npc/VillagerType
+	<init> (Ljava/lang/String;)V <init>
+bsw$a net/minecraft/world/entity/npc/VillagerTrades$a
+	<init> (Lbzw;I)V <init>
+	<init> (Lbzw;III)V <init>
+bsw$c net/minecraft/world/entity/npc/VillagerTrades$c
+	<init> (IIILjava/util/Map;)V <init>
+baq$c net/minecraft/world/entity/Entity$RemovalReason
+	<init> (ZZ)V <init>
+ban$a net/minecraft/world/entity/EntityAgeable$a
+	<init> (ZF)V <init>
+	<init> (Z)V <init>
+	<init> (F)V <init>
+baq$a net/minecraft/world/entity/Entity$MoveFunction
+bun$b net/minecraft/world/entity/raid/EntityRaider$b
+	<init> (Ljava/lang/Object;)V <init>
+bum$a net/minecraft/world/entity/raid/Raid$Status
+	<init> ()V <init>
+bum$b net/minecraft/world/entity/raid/Raid$Wave
+	<init> (Lbau;[I)V <init>
+bum net/minecraft/world/entity/raid/Raid
+	<init> (ILafo;Lgt;)V <init>
+	<init> (Lafo;Lpj;)V <init>
+buo net/minecraft/world/entity/raid/PersistentRaid
+	<init> (Lafo;)V <init>
+bun$d net/minecraft/world/entity/raid/EntityRaider$d
+	<init> (Lbun;DI)V <init>
+bun net/minecraft/world/entity/raid/EntityRaider
+	<init> (Lbau;Lcga;)V <init>
+bun$a net/minecraft/world/entity/raid/EntityRaider$a
+	<init> (Lbun;Lbqb;F)V <init>
+bun$c net/minecraft/world/entity/raid/EntityRaider$c
+	<init> (Lbun;Lbun;)V <init>
+bar net/minecraft/world/entity/EntitySize
+	<init> (FFZ)V <init>
+bby net/minecraft/world/entity/EntityPositionTypes
+	<init> ()V <init>
+bau$1 net/minecraft/world/entity/EntityTypes$1
+	<init> ()V <init>
+bbc net/minecraft/world/entity/ISteerable
+bbw$2 net/minecraft/world/entity/SlotAccess$2
+	<init> ()V <init>
+bbd net/minecraft/world/entity/LerpingModel
+bbg net/minecraft/world/entity/Marker
+	<init> (Lbau;Lcga;)V <init>
+bbh net/minecraft/world/entity/EntityInsentient
+	<init> (Lbau;Lcga;)V <init>
+bbt net/minecraft/world/entity/ReputationHandler
+bpx net/minecraft/world/entity/item/EntityFallingBlock
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;DDDLcur;)V <init>
+bpz net/minecraft/world/entity/item/EntityTNTPrimed
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;DDDLbbf;)V <init>
+bpy net/minecraft/world/entity/item/EntityItem
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;DDDLcaa;)V <init>
+	<init> (Lcga;DDDLcaa;DDD)V <init>
+	<init> (Lbpy;)V <init>
+bat net/minecraft/world/entity/IEntitySelector
+	<init> ()V <init>
+bbq net/minecraft/world/entity/IJumpable
+baq$b net/minecraft/world/entity/Entity$MovementEmission
+	<init> (ZZ)V <init>
+bmr$r net/minecraft/world/entity/animal/EntityFox$r
+	<init> (Lbmr;)V <init>
+bmr$j net/minecraft/world/entity/animal/EntityFox$j
+	<init> (Lbbh;Ljava/lang/Class;F)V <init>
+bok net/minecraft/world/entity/animal/horse/PathfinderGoalHorseTrap
+	<init> (Lboj;)V <init>
+bon net/minecraft/world/entity/animal/horse/EntityHorseZombie
+	<init> (Lbau;Lcga;)V <init>
+bom net/minecraft/world/entity/animal/horse/HorseColor
+	<init> (I)V <init>
+bod$1 net/minecraft/world/entity/animal/horse/EntityHorseAbstract$1
+	<init> ()V <init>
+bod net/minecraft/world/entity/animal/horse/EntityHorseAbstract
+	<init> (Lbau;Lcga;)V <init>
+boi net/minecraft/world/entity/animal/horse/EntityHorseMule
+	<init> (Lbau;Lcga;)V <init>
+boh net/minecraft/world/entity/animal/horse/HorseStyle
+	<init> (I)V <init>
+bof$a net/minecraft/world/entity/animal/horse/EntityHorse$a
+	<init> (Lbom;)V <init>
+bog$c net/minecraft/world/entity/animal/horse/EntityLlama$c
+	<init> (Lbog;)V <init>
+bol net/minecraft/world/entity/animal/horse/EntityLlamaTrader
+	<init> (Lbau;Lcga;)V <init>
+boc net/minecraft/world/entity/animal/horse/EntityHorseChestedAbstract
+	<init> (Lbau;Lcga;)V <init>
+boc$1 net/minecraft/world/entity/animal/horse/EntityHorseChestedAbstract$1
+	<init> (Lboc;)V <init>
+bol$a net/minecraft/world/entity/animal/horse/EntityLlamaTrader$a
+	<init> (Lbog;)V <init>
+bog$b net/minecraft/world/entity/animal/horse/EntityLlama$b
+	<init> (I)V <init>
+bog$a net/minecraft/world/entity/animal/horse/EntityLlama$a
+	<init> (Lbog;)V <init>
+bof net/minecraft/world/entity/animal/horse/EntityHorse
+	<init> (Lbau;Lcga;)V <init>
+boj net/minecraft/world/entity/animal/horse/EntityHorseSkeleton
+	<init> (Lbau;Lcga;)V <init>
+bog net/minecraft/world/entity/animal/horse/EntityLlama
+	<init> (Lbau;Lcga;)V <init>
+boe net/minecraft/world/entity/animal/horse/EntityHorseDonkey
+	<init> (Lbau;Lcga;)V <init>
+bnh$a net/minecraft/world/entity/animal/EntityTropicalFish$Variant
+	<init> (II)V <init>
+bnk$a net/minecraft/world/entity/animal/EntityWolf$a
+	<init> (Lbnk;Ljava/lang/Class;FDD)V <init>
+bnd$1 net/minecraft/world/entity/animal/EntitySheep$1
+	<init> (Lbwt;I)V <init>
+bnb$g net/minecraft/world/entity/animal/EntityRabbit$PathfinderGoalEatCarrots
+	<init> (Lbnb;)V <init>
+bni$a net/minecraft/world/entity/animal/EntityTurtle$a
+	<init> (Lbni;D)V <init>
+bna net/minecraft/world/entity/animal/EntityPufferFish
+	<init> (Lbau;Lcga;)V <init>
+bng net/minecraft/world/entity/animal/EntitySquid
+	<init> (Lbau;Lcga;)V <init>
+bmi$j net/minecraft/world/entity/animal/EntityBee$j
+	<init> (Lbmi;Lbbh;)V <init>
+bmr$l net/minecraft/world/entity/animal/EntityFox$l
+	<init> (Lbmr;DZ)V <init>
+bmr$m net/minecraft/world/entity/animal/EntityFox$m
+	<init> (Lbmr;)V <init>
+bmw$j net/minecraft/world/entity/animal/EntityPanda$j
+	<init> (Lbmw;)V <init>
+bnb$c net/minecraft/world/entity/animal/EntityRabbit$GroupDataRabbit
+	<init> (I)V <init>
+bmx$1 net/minecraft/world/entity/animal/EntityParrot$1
+	<init> ()V <init>
+bmz$c net/minecraft/world/entity/animal/EntityPolarBear$c
+	<init> (Lbmz;)V <init>
+bmh net/minecraft/world/entity/animal/EntityAnimal
+	<init> (Lbau;Lcga;)V <init>
+bnm net/minecraft/world/entity/animal/allay/AllayAi
+	<init> ()V <init>
+bnl net/minecraft/world/entity/animal/allay/Allay
+	<init> (Lbau;Lcga;)V <init>
+bmn net/minecraft/world/entity/animal/EntityCod
+	<init> (Lbau;Lcga;)V <init>
+bmy net/minecraft/world/entity/animal/EntityPig
+	<init> (Lbau;Lcga;)V <init>
+bmx$a net/minecraft/world/entity/animal/EntityParrot$a
+	<init> (Lbbo;D)V <init>
+bmx net/minecraft/world/entity/animal/EntityParrot
+	<init> (Lbau;Lcga;)V <init>
+bmw$b net/minecraft/world/entity/animal/EntityPanda$b
+	<init> (Lbmw;DZ)V <init>
+bmr net/minecraft/world/entity/animal/EntityFox
+	<init> (Lbau;Lcga;)V <init>
+bmz$d net/minecraft/world/entity/animal/EntityPolarBear$d
+	<init> (Lbmz;)V <init>
+bnb$a net/minecraft/world/entity/animal/EntityRabbit$PathfinderGoalKillerRabbitMeleeAttack
+	<init> (Lbnb;)V <init>
+bmm net/minecraft/world/entity/animal/EntityChicken
+	<init> (Lbau;Lcga;)V <init>
+bnp net/minecraft/world/entity/animal/axolotl/AxolotlAi
+	<init> ()V <init>
+bno$c net/minecraft/world/entity/animal/axolotl/Axolotl$c
+	<init> (Lbno;)V <init>
+bnr net/minecraft/world/entity/animal/axolotl/ValidatePlayDead
+	<init> ()V <init>
+bno$b net/minecraft/world/entity/animal/axolotl/Axolotl$b
+	<init> (Lbno;Lbno;I)V <init>
+bno net/minecraft/world/entity/animal/axolotl/Axolotl
+	<init> (Lbau;Lcga;)V <init>
+bno$a net/minecraft/world/entity/animal/axolotl/Axolotl$a
+	<init> ([Lbno$d;)V <init>
+bno$d net/minecraft/world/entity/animal/axolotl/Axolotl$Variant
+	<init> (ILjava/lang/String;Z)V <init>
+bnq net/minecraft/world/entity/animal/axolotl/PlayDead
+	<init> ()V <init>
+bni$c net/minecraft/world/entity/animal/EntityTurtle$c
+	<init> (Lbni;D)V <init>
+bmr$s net/minecraft/world/entity/animal/EntityFox$s
+	<init> (Lbmr;D)V <init>
+bmw$h net/minecraft/world/entity/animal/EntityPanda$h
+	<init> (Lbmw;)V <init>
+bmi$e net/minecraft/world/entity/animal/EntityBee$e
+	<init> (Lbmi;)V <init>
+bmi$h net/minecraft/world/entity/animal/EntityBee$h
+	<init> (Lbmi;Lbmi;)V <init>
+bni net/minecraft/world/entity/animal/EntityTurtle
+	<init> (Lbau;Lcga;)V <init>
+bnb$d net/minecraft/world/entity/animal/EntityRabbit$ControllerJumpRabbit
+	<init> (Lbnb;)V <init>
+bnh net/minecraft/world/entity/animal/EntityTropicalFish
+	<init> (Lbau;Lcga;)V <init>
+bnf net/minecraft/world/entity/animal/EntitySnowman
+	<init> (Lbau;Lcga;)V <init>
+bmp$b net/minecraft/world/entity/animal/EntityDolphin$b
+	<init> (Lbmp;D)V <init>
+bms net/minecraft/world/entity/animal/FrogVariant
+	<init> (Laaj;)V <init>
+bmr$k net/minecraft/world/entity/animal/EntityFox$k
+	<init> (Lbmr;)V <init>
+bmv net/minecraft/world/entity/animal/EntityOcelot
+	<init> (Lbau;Lcga;)V <init>
+bmk net/minecraft/world/entity/animal/EntityCat
+	<init> (Lbau;Lcga;)V <init>
+bmr$a net/minecraft/world/entity/animal/EntityFox$a
+	<init> (Ljava/lang/Class;ZZLjava/util/function/Predicate;)V <init>
+bmw net/minecraft/world/entity/animal/EntityPanda
+	<init> (Lbau;Lcga;)V <init>
+bmt$a net/minecraft/world/entity/animal/EntityIronGolem$CrackLevel
+	<init> (F)V <init>
+bni$g net/minecraft/world/entity/animal/EntityTurtle$g
+	<init> (Lbni;Lcga;)V <init>
+bmi$g net/minecraft/world/entity/animal/EntityBee$g
+	<init> (Lbmi;)V <init>
+bmr$v net/minecraft/world/entity/animal/EntityFox$Type
+	<init> (ILjava/lang/String;)V <init>
+bmo net/minecraft/world/entity/animal/EntityCow
+	<init> (Lbau;Lcga;)V <init>
+bmg$a net/minecraft/world/entity/animal/EntityFishSchool$a
+	<init> (Lbmg;)V <init>
+bmr$h net/minecraft/world/entity/animal/EntityFox$h
+	<init> (Lbmr;Lbmr;D)V <init>
+bng$b net/minecraft/world/entity/animal/EntitySquid$PathfinderGoalSquid
+	<init> (Lbng;Lbng;)V <init>
+bmw$a net/minecraft/world/entity/animal/EntityPanda$Gene
+	<init> (ILjava/lang/String;Z)V <init>
+bmw$i net/minecraft/world/entity/animal/EntityPanda$i
+	<init> (Lbmw;D)V <init>
+bmr$n net/minecraft/world/entity/animal/EntityFox$n
+	<init> (Lbmr;D)V <init>
+bnk$b net/minecraft/world/entity/animal/EntityWolf$b
+	<init> (Lbnk;D)V <init>
+bmr$u net/minecraft/world/entity/animal/EntityFox$u
+	<init> (Lbmr;)V <init>
+bmp$c net/minecraft/world/entity/animal/EntityDolphin$c
+	<init> (Lbmp;)V <init>
+bmz net/minecraft/world/entity/animal/EntityPolarBear
+	<init> (Lbau;Lcga;)V <init>
+boa net/minecraft/world/entity/animal/goat/GoatAi
+	<init> ()V <init>
+bnz net/minecraft/world/entity/animal/goat/Goat
+	<init> (Lbau;Lcga;)V <init>
+bmr$c net/minecraft/world/entity/animal/EntityFox$c
+	<init> (Lbmr;)V <init>
+bmw$g net/minecraft/world/entity/animal/EntityPanda$g
+	<init> (Lbmw;Ljava/lang/Class;F)V <init>
+bmp$a net/minecraft/world/entity/animal/EntityDolphin$a
+	<init> (Lbmp;)V <init>
+bmt net/minecraft/world/entity/animal/EntityIronGolem
+	<init> (Lbau;Lcga;)V <init>
+bmr$f net/minecraft/world/entity/animal/EntityFox$f
+	<init> (Lbmr;DII)V <init>
+bmr$d net/minecraft/world/entity/animal/EntityFox$d
+	<init> (Lbmr;)V <init>
+bmi$a net/minecraft/world/entity/animal/EntityBee$a
+	<init> (Lbmi;)V <init>
+bmk$a net/minecraft/world/entity/animal/EntityCat$a
+	<init> (Lbmk;Ljava/lang/Class;FDD)V <init>
+bmw$d net/minecraft/world/entity/animal/EntityPanda$d
+	<init> (Lbmw;D)V <init>
+bmk$b net/minecraft/world/entity/animal/EntityCat$b
+	<init> (Lbmk;)V <init>
+bmv$b net/minecraft/world/entity/animal/EntityOcelot$b
+	<init> (Lbmv;DLccp;Z)V <init>
+bnc net/minecraft/world/entity/animal/EntitySalmon
+	<init> (Lbau;Lcga;)V <init>
+bne net/minecraft/world/entity/animal/EntityPerchable
+	<init> (Lbau;Lcga;)V <init>
+bmw$e net/minecraft/world/entity/animal/EntityPanda$e
+	<init> (Lbmw;[Ljava/lang/Class;)V <init>
+bmr$i net/minecraft/world/entity/animal/EntityFox$i
+	<init> (Lbmr$v;)V <init>
+bmg net/minecraft/world/entity/animal/EntityFishSchool
+	<init> (Lbau;Lcga;)V <init>
+bmi$b net/minecraft/world/entity/animal/EntityBee$b
+	<init> (Lbmi;Lbbo;DZ)V <init>
+bmr$t net/minecraft/world/entity/animal/EntityFox$t
+	<init> (Lbmr;)V <init>
+bmw$k net/minecraft/world/entity/animal/EntityPanda$k
+	<init> (Lbmw;)V <init>
+bmi$k net/minecraft/world/entity/animal/EntityBee$k
+	<init> (Lbmi;)V <init>
+bme$a net/minecraft/world/entity/animal/EntityFish$a
+	<init> (Lbme;)V <init>
+bmi$c net/minecraft/world/entity/animal/EntityBee$c
+	<init> (Lbmi;)V <init>
+bmu net/minecraft/world/entity/animal/EntityMushroomCow
+	<init> (Lbau;Lcga;)V <init>
+bmr$b net/minecraft/world/entity/animal/EntityFox$b
+	<init> (Lbmr;)V <init>
+bni$e net/minecraft/world/entity/animal/EntityTurtle$e
+	<init> (Lbni;)V <init>
+bme net/minecraft/world/entity/animal/EntityFish
+	<init> (Lbau;Lcga;)V <init>
+bmz$a net/minecraft/world/entity/animal/EntityPolarBear$a
+	<init> (Lbmz;)V <init>
+bml net/minecraft/world/entity/animal/CatVariant
+	<init> (Laaj;)V <init>
+bnb$e net/minecraft/world/entity/animal/EntityRabbit$ControllerMoveRabbit
+	<init> (Lbnb;)V <init>
+bnb net/minecraft/world/entity/animal/EntityRabbit
+	<init> (Lbau;Lcga;)V <init>
+bmq net/minecraft/world/entity/animal/EntityBird
+bnb$b net/minecraft/world/entity/animal/EntityRabbit$PathfinderGoalRabbitAvoidTarget
+	<init> (Lbnb;Ljava/lang/Class;FDD)V <init>
+bni$f net/minecraft/world/entity/animal/EntityTurtle$f
+	<init> (Lbni;D)V <init>
+bmw$c net/minecraft/world/entity/animal/EntityPanda$c
+	<init> (Lbmw;Ljava/lang/Class;FDD)V <init>
+bmw$f net/minecraft/world/entity/animal/EntityPanda$f
+	<init> (Lbmw;)V <init>
+bnj net/minecraft/world/entity/animal/EntityWaterAnimal
+	<init> (Lbau;Lcga;)V <init>
+bmu$a net/minecraft/world/entity/animal/EntityMushroomCow$Type
+	<init> (Ljava/lang/String;Lcur;)V <init>
+bmz$b net/minecraft/world/entity/animal/EntityPolarBear$b
+	<init> (Lbmz;)V <init>
+bnh$b net/minecraft/world/entity/animal/EntityTropicalFish$b
+	<init> (Lbnh;IIII)V <init>
+bmr$q net/minecraft/world/entity/animal/EntityFox$q
+	<init> (Lbmr;II)V <init>
+bmw$l net/minecraft/world/entity/animal/EntityPanda$l
+	<init> (Lbmw;)V <init>
+bni$b net/minecraft/world/entity/animal/EntityTurtle$b
+	<init> (Lbni;D)V <init>
+bnd net/minecraft/world/entity/animal/EntitySheep
+	<init> (Lbau;Lcga;)V <init>
+bmf net/minecraft/world/entity/animal/EntityGolem
+	<init> (Lbau;Lcga;)V <init>
+bmi net/minecraft/world/entity/animal/EntityBee
+	<init> (Lbau;Lcga;)V <init>
+bmi$d net/minecraft/world/entity/animal/EntityBee$d
+	<init> (Lbmi;)V <init>
+bme$b net/minecraft/world/entity/animal/EntityFish$b
+	<init> (Lbme;)V <init>
+bnw net/minecraft/world/entity/animal/frog/Tadpole
+	<init> (Lbau;Lcga;)V <init>
+bnv$a net/minecraft/world/entity/animal/frog/ShootTongue$a
+	<init> ()V <init>
+bnv net/minecraft/world/entity/animal/frog/ShootTongue
+	<init> (Lajd;Lajd;)V <init>
+bnt$b net/minecraft/world/entity/animal/frog/Frog$b
+	<init> (Z)V <init>
+bnt$a net/minecraft/world/entity/animal/frog/Frog$a
+	<init> (Lbnt;Lbbh;)V <init>
+bnt net/minecraft/world/entity/animal/frog/Frog
+	<init> (Lbau;Lcga;)V <init>
+bnu net/minecraft/world/entity/animal/frog/FrogAi
+	<init> ()V <init>
+bnt$c net/minecraft/world/entity/animal/frog/Frog$c
+	<init> (Lbnt;Lcga;)V <init>
+bnx net/minecraft/world/entity/animal/frog/TadpoleAi
+	<init> ()V <init>
+bng$a net/minecraft/world/entity/animal/EntitySquid$a
+	<init> (Lbng;)V <init>
+bnb$f net/minecraft/world/entity/animal/EntityRabbit$PathfinderGoalRabbitPanic
+	<init> (Lbnb;D)V <init>
+bna$a net/minecraft/world/entity/animal/EntityPufferFish$a
+	<init> (Lbna;)V <init>
+bmi$1 net/minecraft/world/entity/animal/EntityBee$1
+	<init> (Lbmi;Lbbh;Lcga;)V <init>
+bmr$e net/minecraft/world/entity/animal/EntityFox$e
+	<init> (Lbmr;D)V <init>
+bmp net/minecraft/world/entity/animal/EntityDolphin
+	<init> (Lbau;Lcga;)V <init>
+bmj net/minecraft/world/entity/animal/Bucketable
+bmi$i net/minecraft/world/entity/animal/EntityBee$i
+	<init> (Lbmi;)V <init>
+bmr$o net/minecraft/world/entity/animal/EntityFox$o
+	<init> (Lbmr;)V <init>
+bmr$g net/minecraft/world/entity/animal/EntityFox$g
+	<init> (Lbmr;)V <init>
+bmv$a net/minecraft/world/entity/animal/EntityOcelot$a
+	<init> (Lbmv;Ljava/lang/Class;FDD)V <init>
+bni$i net/minecraft/world/entity/animal/EntityTurtle$i
+	<init> (Lbni;D)V <init>
+bmk$c net/minecraft/world/entity/animal/EntityCat$PathfinderGoalTemptChance
+	<init> (Lbmk;DLccp;Z)V <init>
+bmi$l net/minecraft/world/entity/animal/EntityBee$l
+	<init> (Lbmi;)V <init>
+bmr$p net/minecraft/world/entity/animal/EntityFox$p
+	<init> (Lbmr;)V <init>
+bni$d net/minecraft/world/entity/animal/EntityTurtle$d
+	<init> (Lbni;D)V <init>
+bnk net/minecraft/world/entity/animal/EntityWolf
+	<init> (Lbau;Lcga;)V <init>
+bni$h net/minecraft/world/entity/animal/EntityTurtle$h
+	<init> (Lbni;DI)V <init>
+bmi$f net/minecraft/world/entity/animal/EntityBee$f
+	<init> (Lbmi;)V <init>
+bby$a net/minecraft/world/entity/EntityPositionTypes$a
+	<init> (Lczu$a;Lbby$c;Lbby$b;)V <init>
+bbs net/minecraft/world/entity/PowerableMob
+bbb net/minecraft/world/entity/SaddleStorage
+	<init> (Lzu;Lzr;Lzr;)V <init>
+bbv net/minecraft/world/entity/IShearable
+bue net/minecraft/world/entity/projectile/EntityProjectile
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lbau;DDDLcga;)V <init>
+	<init> (Lbau;Lbbf;Lcga;)V <init>
+btz net/minecraft/world/entity/projectile/EntityShulkerBullet
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;Lbbf;Lbaq;Lgy$a;)V <init>
+btr net/minecraft/world/entity/projectile/EntityFireballFireball
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lbau;DDDDDDLcga;)V <init>
+	<init> (Lbau;Lbbf;DDDLcga;)V <init>
+btq net/minecraft/world/entity/projectile/EntityEnderSignal
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;DDD)V <init>
+bud net/minecraft/world/entity/projectile/EntityProjectileThrowable
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lbau;DDDLcga;)V <init>
+	<init> (Lbau;Lbbf;Lcga;)V <init>
+bts net/minecraft/world/entity/projectile/EntityFireworks
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;DDDLcaa;)V <init>
+	<init> (Lcga;Lbaq;DDDLcaa;)V <init>
+	<init> (Lcga;Lcaa;Lbbf;)V <init>
+	<init> (Lcga;Lcaa;DDDZ)V <init>
+	<init> (Lcga;Lcaa;Lbaq;DDDZ)V <init>
+bui net/minecraft/world/entity/projectile/EntityPotion
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;Lbbf;)V <init>
+	<init> (Lcga;DDD)V <init>
+btw net/minecraft/world/entity/projectile/EntityLlamaSpit
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;Lbog;)V <init>
+buf net/minecraft/world/entity/projectile/EntityEgg
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;Lbbf;)V <init>
+	<init> (Lcga;DDD)V <init>
+btu net/minecraft/world/entity/projectile/ItemSupplier
+btt$b net/minecraft/world/entity/projectile/EntityFishingHook$WaterPosition
+	<init> ()V <init>
+btl$a net/minecraft/world/entity/projectile/EntityArrow$PickupStatus
+	<init> ()V <init>
+btv net/minecraft/world/entity/projectile/EntityLargeFireball
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;Lbbf;DDDI)V <init>
+buc net/minecraft/world/entity/projectile/EntitySpectralArrow
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;Lbbf;)V <init>
+	<init> (Lcga;DDD)V <init>
+buk net/minecraft/world/entity/projectile/EntityWitherSkull
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;Lbbf;DDD)V <init>
+buh net/minecraft/world/entity/projectile/EntityThrownExpBottle
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;Lbbf;)V <init>
+	<init> (Lcga;DDD)V <init>
+bug net/minecraft/world/entity/projectile/EntityEnderPearl
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;Lbbf;)V <init>
+bub net/minecraft/world/entity/projectile/EntitySnowball
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;Lbbf;)V <init>
+	<init> (Lcga;DDD)V <init>
+bua net/minecraft/world/entity/projectile/EntitySmallFireball
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;Lbbf;DDD)V <init>
+	<init> (Lcga;DDDDDD)V <init>
+btx net/minecraft/world/entity/projectile/IProjectile
+	<init> (Lbau;Lcga;)V <init>
+bto net/minecraft/world/entity/projectile/EntityDragonFireball
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;Lbbf;DDD)V <init>
+bty net/minecraft/world/entity/projectile/ProjectileHelper
+	<init> ()V <init>
+btm net/minecraft/world/entity/projectile/EntityFireball
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lbau;DDDDDDLcga;)V <init>
+	<init> (Lbau;Lbbf;DDDLcga;)V <init>
+buj net/minecraft/world/entity/projectile/EntityThrownTrident
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;Lbbf;Lcaa;)V <init>
+btt net/minecraft/world/entity/projectile/EntityFishingHook
+	<init> (Lbau;Lcga;II)V <init>
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lbtf;Lcga;II)V <init>
+btl net/minecraft/world/entity/projectile/EntityArrow
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lbau;DDDLcga;)V <init>
+	<init> (Lbau;Lbbf;Lcga;)V <init>
+btn net/minecraft/world/entity/projectile/EntityTippedArrow
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;DDD)V <init>
+	<init> (Lcga;Lbbf;)V <init>
+btt$a net/minecraft/world/entity/projectile/EntityFishingHook$HookState
+	<init> ()V <init>
+btp net/minecraft/world/entity/projectile/EntityEvokerFangs
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;DDDFILbbf;)V <init>
+bbf$a net/minecraft/world/entity/EntityLiving$a
+	<init> (Lajd;Lajd;)V <init>
+bbz net/minecraft/world/entity/EntityTameableAnimal
+	<init> (Lbau;Lcga;)V <init>
+bqd net/minecraft/world/entity/monster/EntityBlaze
+	<init> (Lbau;Lcga;)V <init>
+bqv$h net/minecraft/world/entity/monster/EntityPhantom$h
+	<init> (Lbqv;)V <init>
+bqn net/minecraft/world/entity/monster/EntityGhast
+	<init> (Lbau;Lcga;)V <init>
+bqy$b net/minecraft/world/entity/monster/EntityRavager$b
+	<init> (Lbbh;Lcga;)V <init>
+bqv$f net/minecraft/world/entity/monster/EntityPhantom$f
+	<init> (Lbqv;Lbbh;)V <init>
+bre$c net/minecraft/world/entity/monster/EntitySpider$PathfinderGoalSpiderNearestAttackableTarget
+	<init> (Lbre;Ljava/lang/Class;)V <init>
+brl net/minecraft/world/entity/monster/EntityZoglin
+	<init> (Lbau;Lcga;)V <init>
+bqj$a net/minecraft/world/entity/monster/EntityEnderman$a
+	<init> (Lbqj;)V <init>
+brw net/minecraft/world/entity/monster/piglin/PiglinAI
+	<init> ()V <init>
+bsf net/minecraft/world/entity/monster/piglin/BehaviorStopAdmiring
+	<init> ()V <init>
+bsd net/minecraft/world/entity/monster/piglin/BehaviorStopAdmiringItem
+	<init> (I)V <init>
+bsb net/minecraft/world/entity/monster/piglin/BehaviorStartAdmiringItem
+	<init> (I)V <init>
+bsc net/minecraft/world/entity/monster/piglin/BehaviorHuntHoglin
+	<init> ()V <init>
+brx net/minecraft/world/entity/monster/piglin/EntityPiglinArmPose
+	<init> ()V <init>
+bse net/minecraft/world/entity/monster/piglin/BehaviorAdmireTimeout
+	<init> (II)V <init>
+brz net/minecraft/world/entity/monster/piglin/PiglinBruteAI
+	<init> ()V <init>
+brv net/minecraft/world/entity/monster/piglin/EntityPiglin
+	<init> (Lbau;Lcga;)V <init>
+bru net/minecraft/world/entity/monster/piglin/EntityPiglinAbstract
+	<init> (Lbau;Lcga;)V <init>
+bsa net/minecraft/world/entity/monster/piglin/BehaviorRememberHuntedHoglin
+	<init> ()V <init>
+bry net/minecraft/world/entity/monster/piglin/EntityPiglinBrute
+	<init> (Lbau;Lcga;)V <init>
+bqq net/minecraft/world/entity/monster/EntityZombieHusk
+	<init> (Lbau;Lcga;)V <init>
+brc net/minecraft/world/entity/monster/EntitySlime
+	<init> (Lbau;Lcga;)V <init>
+brc$d net/minecraft/world/entity/monster/EntitySlime$ControllerMoveSlime
+	<init> (Lbrc;)V <init>
+bro net/minecraft/world/entity/monster/EntityPigZombie
+	<init> (Lbau;Lcga;)V <init>
+brn net/minecraft/world/entity/monster/EntityZombieVillager
+	<init> (Lbau;Lcga;)V <init>
+bra$b net/minecraft/world/entity/monster/EntitySilverfish$PathfinderGoalSilverfishWakeOthers
+	<init> (Lbra;)V <init>
+bqv$b net/minecraft/world/entity/monster/EntityPhantom$b
+	<init> (Lbqv;)V <init>
+bqt net/minecraft/world/entity/monster/EntityMonster
+	<init> (Lbau;Lcga;)V <init>
+bri$a net/minecraft/world/entity/monster/EntityVindicator$a
+	<init> (Lbbh;)V <init>
+bri$b net/minecraft/world/entity/monster/EntityVindicator$b
+	<init> (Lbri;)V <init>
+brh$d net/minecraft/world/entity/monster/EntityVex$d
+	<init> (Lbrh;)V <init>
+bqm$a net/minecraft/world/entity/monster/EntityEvoker$a
+	<init> (Lbqm;)V <init>
+bqv$i net/minecraft/world/entity/monster/EntityPhantom$i
+	<init> (Lbqv;)V <init>
+brm net/minecraft/world/entity/monster/EntityZombie
+	<init> (Lbau;Lcga;)V <init>
+	<init> (Lcga;)V <init>
+bqe net/minecraft/world/entity/monster/EntityCaveSpider
+	<init> (Lbau;Lcga;)V <init>
+bqc net/minecraft/world/entity/monster/EntitySkeletonAbstract
+	<init> (Lbau;Lcga;)V <init>
+bqb$a net/minecraft/world/entity/monster/EntityIllagerAbstract$a
+	<init> ()V <init>
+brf net/minecraft/world/entity/monster/EntitySkeletonStray
+	<init> (Lbau;Lcga;)V <init>
+bqf net/minecraft/world/entity/monster/EntityCreeper
+	<init> (Lbau;Lcga;)V <init>
+bqj$c net/minecraft/world/entity/monster/EntityEnderman$PathfinderGoalPlayerWhoLookedAtTarget
+	<init> (Lbqj;Ljava/util/function/Predicate;)V <init>
+bqb net/minecraft/world/entity/monster/EntityIllagerAbstract
+	<init> (Lbau;Lcga;)V <init>
+bqp$c net/minecraft/world/entity/monster/EntityGuardian$ControllerMoveGuardian
+	<init> (Lbqp;)V <init>
+bqc$1 net/minecraft/world/entity/monster/EntitySkeletonAbstract$1
+	<init> (Lbqc;Lbbo;DZ)V <init>
+bqd$a net/minecraft/world/entity/monster/EntityBlaze$PathfinderGoalBlazeFireball
+	<init> (Lbqd;)V <init>
+bqn$b net/minecraft/world/entity/monster/EntityGhast$ControllerGhast
+	<init> (Lbqn;)V <init>
+bqx net/minecraft/world/entity/monster/IRangedEntity
+brg$b net/minecraft/world/entity/monster/EntityStrider$b
+	<init> (Lbrg;Lcga;)V <init>
+bqv$a net/minecraft/world/entity/monster/EntityPhantom$AttackPhase
+	<init> ()V <init>
+bqm net/minecraft/world/entity/monster/EntityEvoker
+	<init> (Lbau;Lcga;)V <init>
+bsk$1 net/minecraft/world/entity/monster/warden/WardenAi$1
+	<init> (Ljava/util/Map;)V <init>
+bsj net/minecraft/world/entity/monster/warden/Warden
+	<init> (Lbau;Lcga;)V <init>
+bsl net/minecraft/world/entity/monster/warden/WardenSpawnTracker
+	<init> (III)V <init>
+bsj$1$1 net/minecraft/world/entity/monster/warden/Warden$1$1
+	<init> (Lbsj$1;Ldpn;I)V <init>
+bsh net/minecraft/world/entity/monster/warden/AngerLevel
+	<init> (ILajd;Lajd;)V <init>
+bsj$1 net/minecraft/world/entity/monster/warden/Warden$1
+	<init> (Lbsj;Lbbh;Lcga;)V <init>
+bsk net/minecraft/world/entity/monster/warden/WardenAi
+	<init> ()V <init>
+bsi net/minecraft/world/entity/monster/warden/AngerManagement
+	<init> (Ljava/util/function/Predicate;Ljava/util/List;)V <init>
+bsi$a net/minecraft/world/entity/monster/warden/AngerManagement$a
+	<init> (Lbsi;)V <init>
+bqy net/minecraft/world/entity/monster/EntityRavager
+	<init> (Lbau;Lcga;)V <init>
+bre net/minecraft/world/entity/monster/EntitySpider
+	<init> (Lbau;Lcga;)V <init>
+brg net/minecraft/world/entity/monster/EntityStrider
+	<init> (Lbau;Lcga;)V <init>
+bqb$b net/minecraft/world/entity/monster/EntityIllagerAbstract$b
+	<init> (Lbqb;Lbun;)V <init>
+bqu$a net/minecraft/world/entity/monster/EntityMonsterPatrolling$a
+	<init> (Ljava/lang/Object;DD)V <init>
+bqz$f net/minecraft/world/entity/monster/EntityShulker$f
+	<init> (Lbqz;)V <init>
+brc$b net/minecraft/world/entity/monster/EntitySlime$PathfinderGoalSlimeRandomJump
+	<init> (Lbrc;)V <init>
+bqp$a net/minecraft/world/entity/monster/EntityGuardian$PathfinderGoalGuardianAttack
+	<init> (Lbqp;)V <init>
+bqm$d net/minecraft/world/entity/monster/EntityEvoker$d
+	<init> (Lbqm;)V <init>
+bqz net/minecraft/world/entity/monster/EntityShulker
+	<init> (Lbau;Lcga;)V <init>
+bqm$c net/minecraft/world/entity/monster/EntityEvoker$c
+	<init> (Lbqm;)V <init>
+bqm$b net/minecraft/world/entity/monster/EntityEvoker$b
+	<init> (Lbqm;)V <init>
+bqv$e net/minecraft/world/entity/monster/EntityPhantom$e
+	<init> (Lbqv;)V <init>
+brd$a net/minecraft/world/entity/monster/EntityIllagerWizard$Spell
+	<init> (IDDD)V <init>
+brc$c net/minecraft/world/entity/monster/EntitySlime$PathfinderGoalSlimeIdle
+	<init> (Lbrc;)V <init>
+bre$a net/minecraft/world/entity/monster/EntitySpider$PathfinderGoalSpiderMeleeAttack
+	<init> (Lbre;)V <init>
+bri$c net/minecraft/world/entity/monster/EntityVindicator$c
+	<init> (Lbri;Lbri;)V <init>
+brb net/minecraft/world/entity/monster/EntitySkeleton
+	<init> (Lbau;Lcga;)V <init>
+bqn$a net/minecraft/world/entity/monster/EntityGhast$PathfinderGoalGhastMoveTowardsTarget
+	<init> (Lbqn;)V <init>
+bqh$e net/minecraft/world/entity/monster/EntityDrowned$e
+	<init> (Lbqh;DI)V <init>
+bqv$g net/minecraft/world/entity/monster/EntityPhantom$g
+	<init> (Lbqv;Lbbh;)V <init>
+brh$a net/minecraft/world/entity/monster/EntityVex$a
+	<init> (Lbrh;)V <init>
+bqz$e net/minecraft/world/entity/monster/EntityShulker$e
+	<init> (Lbqz;Lbqz;)V <init>
+bqz$d net/minecraft/world/entity/monster/EntityShulker$d
+	<init> (Lbqz;Lbbh;)V <init>
+bqk net/minecraft/world/entity/monster/EntityEndermite
+	<init> (Lbau;Lcga;)V <init>
+bqu net/minecraft/world/entity/monster/EntityMonsterPatrolling
+	<init> (Lbau;Lcga;)V <init>
+bqr$b net/minecraft/world/entity/monster/EntityIllagerIllusioner$b
+	<init> (Lbqr;)V <init>
+brm$b net/minecraft/world/entity/monster/EntityZombie$GroupDataZombie
+	<init> (ZZ)V <init>
+brm$a net/minecraft/world/entity/monster/EntityZombie$a
+	<init> (Lbrm;Lbbo;DI)V <init>
+brh$b net/minecraft/world/entity/monster/EntityVex$b
+	<init> (Lbrh;Lbbo;)V <init>
+bqh$f net/minecraft/world/entity/monster/EntityDrowned$f
+	<init> (Lbqx;DIF)V <init>
+bqn$d net/minecraft/world/entity/monster/EntityGhast$PathfinderGoalGhastIdleMove
+	<init> (Lbqn;)V <init>
+bqs net/minecraft/world/entity/monster/EntityMagmaCube
+	<init> (Lbau;Lcga;)V <init>
+bqh$d net/minecraft/world/entity/monster/EntityDrowned$d
+	<init> (Lbqh;)V <init>
+bqz$b net/minecraft/world/entity/monster/EntityShulker$b
+	<init> (Lbbh;)V <init>
+bqh$c net/minecraft/world/entity/monster/EntityDrowned$c
+	<init> (Lbbo;D)V <init>
+bqv net/minecraft/world/entity/monster/EntityPhantom
+	<init> (Lbau;Lcga;)V <init>
+brj net/minecraft/world/entity/monster/EntityWitch
+	<init> (Lbau;Lcga;)V <init>
+bqp net/minecraft/world/entity/monster/EntityGuardian
+	<init> (Lbau;Lcga;)V <init>
+bqn$c net/minecraft/world/entity/monster/EntityGhast$PathfinderGoalGhastAttackTarget
+	<init> (Lbqn;)V <init>
+bqv$d net/minecraft/world/entity/monster/EntityPhantom$d
+	<init> (Lbqv;Lbbh;)V <init>
+brd$c net/minecraft/world/entity/monster/EntityIllagerWizard$PathfinderGoalCastSpell
+	<init> (Lbrd;)V <init>
+brc$a net/minecraft/world/entity/monster/EntitySlime$PathfinderGoalSlimeNearestPlayer
+	<init> (Lbrc;)V <init>
+bqr$a net/minecraft/world/entity/monster/EntityIllagerIllusioner$a
+	<init> (Lbqr;)V <init>
+brd net/minecraft/world/entity/monster/EntityIllagerWizard
+	<init> (Lbau;Lcga;)V <init>
+brh net/minecraft/world/entity/monster/EntityVex
+	<init> (Lbau;Lcga;)V <init>
+bql net/minecraft/world/entity/monster/IMonster
+brd$b net/minecraft/world/entity/monster/EntityIllagerWizard$b
+	<init> (Lbrd;)V <init>
+bqh$a net/minecraft/world/entity/monster/EntityDrowned$a
+	<init> (Lbqh;DZ)V <init>
+bqp$b net/minecraft/world/entity/monster/EntityGuardian$EntitySelectorGuardianTargetHumanSquid
+	<init> (Lbqp;)V <init>
+brr net/minecraft/world/entity/monster/hoglin/IOglin
+brp net/minecraft/world/entity/monster/hoglin/EntityHoglin
+	<init> (Lbau;Lcga;)V <init>
+brq net/minecraft/world/entity/monster/hoglin/HoglinAI
+	<init> ()V <init>
+bqw net/minecraft/world/entity/monster/EntityPillager
+	<init> (Lbau;Lcga;)V <init>
+bqj$b net/minecraft/world/entity/monster/EntityEnderman$PathfinderGoalEndermanPlaceBlock
+	<init> (Lbqj;)V <init>
+bre$b net/minecraft/world/entity/monster/EntitySpider$GroupDataSpider
+	<init> ()V <init>
+brh$c net/minecraft/world/entity/monster/EntityVex$c
+	<init> (Lbrh;Lbrh;)V <init>
+bqy$c net/minecraft/world/entity/monster/EntityRavager$c
+	<init> ()V <init>
+bqj net/minecraft/world/entity/monster/EntityEnderman
+	<init> (Lbau;Lcga;)V <init>
+brk net/minecraft/world/entity/monster/EntitySkeletonWither
+	<init> (Lbau;Lcga;)V <init>
+bqz$c net/minecraft/world/entity/monster/EntityShulker$c
+	<init> (Lbqz;)V <init>
+bqv$c net/minecraft/world/entity/monster/EntityPhantom$c
+	<init> (Lbqv;)V <init>
+bra net/minecraft/world/entity/monster/EntitySilverfish
+	<init> (Lbau;Lcga;)V <init>
+bqz$a net/minecraft/world/entity/monster/EntityShulker$a
+	<init> (Lbqz;)V <init>
+bra$a net/minecraft/world/entity/monster/EntitySilverfish$PathfinderGoalSilverfishHideInBlock
+	<init> (Lbra;)V <init>
+bqo net/minecraft/world/entity/monster/EntityGiantZombie
+	<init> (Lbau;Lcga;)V <init>
+bqy$a net/minecraft/world/entity/monster/EntityRavager$a
+	<init> (Lbqy;)V <init>
+brg$a net/minecraft/world/entity/monster/EntityStrider$a
+	<init> (Lbrg;D)V <init>
+bqi net/minecraft/world/entity/monster/EntityGuardianElder
+	<init> (Lbau;Lcga;)V <init>
+bqr net/minecraft/world/entity/monster/EntityIllagerIllusioner
+	<init> (Lbau;Lcga;)V <init>
+bri net/minecraft/world/entity/monster/EntityVindicator
+	<init> (Lbau;Lcga;)V <init>
+brc$e net/minecraft/world/entity/monster/EntitySlime$PathfinderGoalSlimeRandomDirection
+	<init> (Lbrc;)V <init>
+bqg net/minecraft/world/entity/monster/ICrossbow
+bqh$b net/minecraft/world/entity/monster/EntityDrowned$b
+	<init> (Lbqh;D)V <init>
+bqj$d net/minecraft/world/entity/monster/EntityEnderman$PathfinderGoalEndermanPickupBlock
+	<init> (Lbqj;)V <init>
+bqh net/minecraft/world/entity/monster/EntityDrowned
+	<init> (Lbau;Lcga;)V <init>
+bbn net/minecraft/world/entity/OwnableEntity
+bau$b net/minecraft/world/entity/EntityTypes$b
+bmb net/minecraft/world/entity/ambient/EntityAmbient
+	<init> (Lbau;Lcga;)V <init>
+bmc net/minecraft/world/entity/ambient/EntityBat
+	<init> (Lbau;Lcga;)V <init>
+bav net/minecraft/world/entity/EnumItemSlot
+	<init> (Lbav$a;IILjava/lang/String;)V <init>
+baw net/minecraft/world/entity/EntityExperienceOrb
+	<init> (Lcga;DDDI)V <init>
+	<init> (Lbau;Lcga;)V <init>
+bbx net/minecraft/world/entity/GroupDataEntity
+bbi net/minecraft/world/entity/EnumCreatureType
+	<init> (Ljava/lang/String;IZZI)V <init>
+bbo net/minecraft/world/entity/EntityCreature
+	<init> (Lbau;Lcga;)V <init>
+bby$b net/minecraft/world/entity/EntityPositionTypes$b
+bbr net/minecraft/world/entity/EntityPose
+	<init> ()V <init>
+bbj net/minecraft/world/entity/EnumMobSpawn
+	<init> ()V <init>
+biw net/minecraft/world/entity/ai/goal/PathfinderGoalSit
+	<init> (Lbbz;)V <init>
+bie net/minecraft/world/entity/ai/goal/PathfinderGoalMoveThroughVillage
+	<init> (Lbbo;DZILjava/util/function/BooleanSupplier;)V <init>
+bik net/minecraft/world/entity/ai/goal/PathfinderGoalDoorOpen
+	<init> (Lbbh;Z)V <init>
+bid net/minecraft/world/entity/ai/goal/PathfinderGoalStrollVillage
+	<init> (Lbbo;DZ)V <init>
+bhr net/minecraft/world/entity/ai/goal/PathfinderGoalFollowParent
+	<init> (Lbmh;D)V <init>
+bja net/minecraft/world/entity/ai/goal/PathfinderGoalTradeWithPlayer
+	<init> (Lbsn;)V <init>
+bij net/minecraft/world/entity/ai/goal/PathfinderGoalOfferFlower
+	<init> (Lbmt;)V <init>
+bhz net/minecraft/world/entity/ai/goal/PathfinderGoalLlamaFollow
+	<init> (Lbog;D)V <init>
+big net/minecraft/world/entity/ai/goal/PathfinderGoalMoveTowardsRestriction
+	<init> (Lbbo;D)V <init>
+bis$a net/minecraft/world/entity/ai/goal/PathfinderGoalCrossbowAttack$State
+	<init> ()V <init>
+bhe net/minecraft/world/entity/ai/goal/PathfinderGoalBreed
+	<init> (Lbmh;D)V <init>
+	<init> (Lbmh;DLjava/lang/Class;)V <init>
+biv net/minecraft/world/entity/ai/goal/PathfinderGoalTame
+	<init> (Lbod;D)V <init>
+bil net/minecraft/world/entity/ai/goal/PathfinderGoalPanic
+	<init> (Lbbo;D)V <init>
+bjr net/minecraft/world/entity/ai/goal/target/PathfinderGoalTarget
+	<init> (Lbbh;Z)V <init>
+	<init> (Lbbh;ZZ)V <init>
+bji net/minecraft/world/entity/ai/goal/target/PathfinderGoalDefendVillage
+	<init> (Lbmt;)V <init>
+bjl net/minecraft/world/entity/ai/goal/target/PathfinderGoalNearestAttackableTargetWitch
+	<init> (Lbun;Ljava/lang/Class;IZZLjava/util/function/Predicate;)V <init>
+bjq net/minecraft/world/entity/ai/goal/target/PathfinderGoalUniversalAngerReset
+	<init> (Ljava/lang/Object;Z)V <init>
+bjj net/minecraft/world/entity/ai/goal/target/PathfinderGoalHurtByTarget
+	<init> (Lbbo;[Ljava/lang/Class;)V <init>
+bjm net/minecraft/world/entity/ai/goal/target/PathfinderGoalNearestHealableRaider
+	<init> (Lbun;Ljava/lang/Class;ZLjava/util/function/Predicate;)V <init>
+bjn net/minecraft/world/entity/ai/goal/target/PathfinderGoalRandomTargetNonTamed
+	<init> (Lbbz;Ljava/lang/Class;ZLjava/util/function/Predicate;)V <init>
+bjo net/minecraft/world/entity/ai/goal/target/PathfinderGoalOwnerHurtByTarget
+	<init> (Lbbz;)V <init>
+bjp net/minecraft/world/entity/ai/goal/target/PathfinderGoalOwnerHurtTarget
+	<init> (Lbbz;)V <init>
+bjk net/minecraft/world/entity/ai/goal/target/PathfinderGoalNearestAttackableTarget
+	<init> (Lbbh;Ljava/lang/Class;Z)V <init>
+	<init> (Lbbh;Ljava/lang/Class;ZLjava/util/function/Predicate;)V <init>
+	<init> (Lbbh;Ljava/lang/Class;ZZ)V <init>
+	<init> (Lbbh;Ljava/lang/Class;IZZLjava/util/function/Predicate;)V <init>
+bhq net/minecraft/world/entity/ai/goal/PathfinderGoalFollowOwner
+	<init> (Lbbz;DFFZ)V <init>
+bhm net/minecraft/world/entity/ai/goal/PathfinderGoalFloat
+	<init> (Lbbh;)V <init>
+bhs net/minecraft/world/entity/ai/goal/PathfinderGoal
+	<init> ()V <init>
+biu net/minecraft/world/entity/ai/goal/PathfinderGoalRestrictSun
+	<init> (Lbbo;)V <init>
+bhu net/minecraft/world/entity/ai/goal/PathfinderGoalStrollVillageGolem
+	<init> (Lbbo;D)V <init>
+bhg net/minecraft/world/entity/ai/goal/PathfinderGoalJumpOnBlock
+	<init> (Lbmk;D)V <init>
+bip net/minecraft/world/entity/ai/goal/PathfinderGoalRandomSwim
+	<init> (Lbbo;DI)V <init>
+bhb net/minecraft/world/entity/ai/goal/PathfinderGoalBoat
+	<init> ()V <init>
+bib net/minecraft/world/entity/ai/goal/PathfinderGoalLookAtTradingPlayer
+	<init> (Lbsn;)V <init>
+bht$1 net/minecraft/world/entity/ai/goal/PathfinderGoalSelector$1
+	<init> ()V <init>
+bhy net/minecraft/world/entity/ai/goal/PathfinderGoalLeapAtTarget
+	<init> (Lbbh;F)V <init>
+bis net/minecraft/world/entity/ai/goal/PathfinderGoalCrossbowAttack
+	<init> (Ljava/lang/Object;DF)V <init>
+bgz net/minecraft/world/entity/ai/goal/PathfinderGoalAvoidTarget
+	<init> (Lbbo;Ljava/lang/Class;FDD)V <init>
+	<init> (Lbbo;Ljava/lang/Class;Ljava/util/function/Predicate;FDDLjava/util/function/Predicate;)V <init>
+	<init> (Lbbo;Ljava/lang/Class;FDDLjava/util/function/Predicate;)V <init>
+biy net/minecraft/world/entity/ai/goal/PathfinderGoalSwell
+	<init> (Lbqf;)V <init>
+bhf net/minecraft/world/entity/ai/goal/PathfinderGoalCatSitOnBed
+	<init> (Lbmk;DI)V <init>
+bha net/minecraft/world/entity/ai/goal/PathfinderGoalBeg
+	<init> (Lbnk;F)V <init>
+bhp net/minecraft/world/entity/ai/goal/PathfinderGoalFollowEntity
+	<init> (Lbbh;DFF)V <init>
+bjb net/minecraft/world/entity/ai/goal/PathfinderGoalWater
+	<init> (Lbbo;)V <init>
+bje net/minecraft/world/entity/ai/goal/PathfinderGoalRandomStrollLand
+	<init> (Lbbo;D)V <init>
+	<init> (Lbbo;DF)V <init>
+bht$2 net/minecraft/world/entity/ai/goal/PathfinderGoalSelector$2
+	<init> (ILbhs;)V <init>
+bin net/minecraft/world/entity/ai/goal/PathfinderGoalRandomLookaround
+	<init> (Lbbh;)V <init>
+bit net/minecraft/world/entity/ai/goal/PathfinderGoalRemoveBlock
+	<init> (Lciw;Lbbo;DI)V <init>
+bjd net/minecraft/world/entity/ai/goal/PathfinderGoalRandomFly
+	<init> (Lbbo;D)V <init>
+bhv net/minecraft/world/entity/ai/goal/PathfinderGoalInteract
+	<init> (Lbbh;Ljava/lang/Class;F)V <init>
+	<init> (Lbbh;Ljava/lang/Class;FF)V <init>
+bhh net/minecraft/world/entity/ai/goal/ClimbOnTopOfPowderSnowGoal
+	<init> (Lbbh;Lcga;)V <init>
+bio net/minecraft/world/entity/ai/goal/PathfinderGoalRandomStroll
+	<init> (Lbbo;D)V <init>
+	<init> (Lbbo;DI)V <init>
+	<init> (Lbbo;DIZ)V <init>
+bhx net/minecraft/world/entity/ai/goal/PathfinderGoalPerch
+	<init> (Lbne;)V <init>
+bic net/minecraft/world/entity/ai/goal/PathfinderGoalMeleeAttack
+	<init> (Lbbo;DZ)V <init>
+bjf net/minecraft/world/entity/ai/goal/PathfinderGoalWrapped
+	<init> (ILbhs;)V <init>
+bhw net/minecraft/world/entity/ai/goal/PathfinderGoalWaterJumpAbstract
+	<init> ()V <init>
+bhj net/minecraft/world/entity/ai/goal/PathfinderGoalDoorInteract
+	<init> (Lbbh;)V <init>
+bia net/minecraft/world/entity/ai/goal/PathfinderGoalLookAtPlayer
+	<init> (Lbbh;Ljava/lang/Class;F)V <init>
+	<init> (Lbbh;Ljava/lang/Class;FF)V <init>
+	<init> (Lbbh;Ljava/lang/Class;FFZ)V <init>
+bho net/minecraft/world/entity/ai/goal/PathfinderGoalFishSchool
+	<init> (Lbmg;)V <init>
+biq net/minecraft/world/entity/ai/goal/PathfinderGoalArrowAttack
+	<init> (Lbqx;DIF)V <init>
+	<init> (Lbqx;DIIF)V <init>
+biz net/minecraft/world/entity/ai/goal/PathfinderGoalTempt
+	<init> (Lbbo;DLccp;Z)V <init>
+bif net/minecraft/world/entity/ai/goal/PathfinderGoalGotoTarget
+	<init> (Lbbo;DI)V <init>
+	<init> (Lbbo;DII)V <init>
+bim net/minecraft/world/entity/ai/goal/PathfinderGoalRaid
+	<init> (Ljava/lang/Object;)V <init>
+bhn net/minecraft/world/entity/ai/goal/PathfinderGoalFollowBoat
+	<init> (Lbbo;)V <init>
+bjc net/minecraft/world/entity/ai/goal/PathfinderGoalUseItem
+	<init> (Ljava/lang/Object;Lcaa;Lajd;Ljava/util/function/Predicate;)V <init>
+bhc net/minecraft/world/entity/ai/goal/PathfinderGoalBreakDoor
+	<init> (Lbbh;Ljava/util/function/Predicate;)V <init>
+	<init> (Lbbh;ILjava/util/function/Predicate;)V <init>
+bii net/minecraft/world/entity/ai/goal/PathfinderGoalOcelotAttack
+	<init> (Lbbh;)V <init>
+bjg net/minecraft/world/entity/ai/goal/PathfinderGoalZombieAttack
+	<init> (Lbrm;DZ)V <init>
+bhl net/minecraft/world/entity/ai/goal/PathfinderGoalFleeSun
+	<init> (Lbbo;D)V <init>
+bih net/minecraft/world/entity/ai/goal/PathfinderGoalMoveTowardsTarget
+	<init> (Lbbo;DF)V <init>
+bhd net/minecraft/world/entity/ai/goal/PathfinderGoalBreath
+	<init> (Lbbo;)V <init>
+bhs$a net/minecraft/world/entity/ai/goal/PathfinderGoal$Type
+	<init> ()V <init>
+bhi net/minecraft/world/entity/ai/goal/PathfinderGoalWaterJump
+	<init> (Lbmp;I)V <init>
+bhk net/minecraft/world/entity/ai/goal/PathfinderGoalEatTile
+	<init> (Lbbh;)V <init>
+bix net/minecraft/world/entity/ai/goal/PathfinderGoalNearestVillage
+	<init> (Lbbo;I)V <init>
+bir net/minecraft/world/entity/ai/goal/PathfinderGoalBowShoot
+	<init> (Ljava/lang/Object;DIF)V <init>
+bht net/minecraft/world/entity/ai/goal/PathfinderGoalSelector
+	<init> (Ljava/util/function/Supplier;)V <init>
+bca$1 net/minecraft/world/entity/ai/BehaviorController$1
+	<init> (Ljava/util/Collection;Ljava/util/Collection;Lorg/apache/commons/lang3/mutable/MutableObject;)V <init>
+bli net/minecraft/world/entity/ai/targeting/PathfinderTargetCondition
+	<init> (Z)V <init>
+bcb net/minecraft/world/entity/ai/attributes/AttributeBase
+	<init> (Ljava/lang/String;D)V <init>
+bcf net/minecraft/world/entity/ai/attributes/AttributeProvider
+	<init> (Ljava/util/Map;)V <init>
+bce$a net/minecraft/world/entity/ai/attributes/AttributeModifier$Operation
+	<init> (I)V <init>
+bch net/minecraft/world/entity/ai/attributes/AttributeDefaults
+	<init> ()V <init>
+bce net/minecraft/world/entity/ai/attributes/AttributeModifier
+	<init> (Ljava/lang/String;DLbce$a;)V <init>
+	<init> (Ljava/util/UUID;Ljava/lang/String;DLbce$a;)V <init>
+	<init> (Ljava/util/UUID;Ljava/util/function/Supplier;DLbce$a;)V <init>
+bcg net/minecraft/world/entity/ai/attributes/GenericAttributes
+	<init> ()V <init>
+bcd net/minecraft/world/entity/ai/attributes/AttributeMapBase
+	<init> (Lbcf;)V <init>
+bcc net/minecraft/world/entity/ai/attributes/AttributeModifiable
+	<init> (Lbcb;Ljava/util/function/Consumer;)V <init>
+bci net/minecraft/world/entity/ai/attributes/AttributeRanged
+	<init> (Ljava/lang/String;DDD)V <init>
+bcf$a net/minecraft/world/entity/ai/attributes/AttributeProvider$Builder
+	<init> ()V <init>
+bca$a net/minecraft/world/entity/ai/BehaviorController$a
+	<init> (Lbjx;Ljava/util/Optional;)V <init>
+bkf net/minecraft/world/entity/ai/navigation/NavigationAbstract
+	<init> (Lbbh;Lcga;)V <init>
+bkd net/minecraft/world/entity/ai/navigation/NavigationFlying
+	<init> (Lbbh;Lcga;)V <init>
+bke net/minecraft/world/entity/ai/navigation/Navigation
+	<init> (Lbbh;Lcga;)V <init>
+bkh net/minecraft/world/entity/ai/navigation/NavigationGuardian
+	<init> (Lbbh;Lcga;)V <init>
+bkc net/minecraft/world/entity/ai/navigation/AmphibiousPathNavigation
+	<init> (Lbbh;Lcga;)V <init>
+bkg net/minecraft/world/entity/ai/navigation/NavigationSpider
+	<init> (Lbbh;Lcga;)V <init>
+bca net/minecraft/world/entity/ai/BehaviorController
+	<init> (Ljava/util/Collection;Ljava/util/Collection;Lcom/google/common/collect/ImmutableList;Ljava/util/function/Supplier;)V <init>
+blt net/minecraft/world/entity/ai/village/VillageSiege
+	<init> ()V <init>
+bls net/minecraft/world/entity/ai/village/ReputationEvent
+bls$1 net/minecraft/world/entity/ai/village/ReputationEvent$1
+	<init> ()V <init>
+blt$a net/minecraft/world/entity/ai/village/VillageSiege$State
+	<init> ()V <init>
+bly net/minecraft/world/entity/ai/village/poi/VillagePlaceType
+	<init> (Ljava/util/Set;II)V <init>
+blz net/minecraft/world/entity/ai/village/poi/PoiTypes
+	<init> ()V <init>
+blw net/minecraft/world/entity/ai/village/poi/VillagePlaceRecord
+	<init> (Lgt;Lhc;ILjava/lang/Runnable;)V <init>
+	<init> (Lgt;Lhc;Ljava/lang/Runnable;)V <init>
+blv net/minecraft/world/entity/ai/village/poi/VillagePlace
+	<init> (Ljava/nio/file/Path;Lcom/mojang/datafixers/DataFixer;ZLhn;Lcgc;)V <init>
+blx net/minecraft/world/entity/ai/village/poi/VillagePlaceSection
+	<init> (Ljava/lang/Runnable;)V <init>
+	<init> (Ljava/lang/Runnable;ZLjava/util/List;)V <init>
+blv$b net/minecraft/world/entity/ai/village/poi/VillagePlace$Occupancy
+	<init> (Ljava/util/function/Predicate;)V <init>
+blv$a net/minecraft/world/entity/ai/village/poi/VillagePlace$a
+	<init> (Lblv;)V <init>
+bea net/minecraft/world/entity/ai/behavior/BehaviorStartRiding
+	<init> (F)V <init>
+bdf$b$2 net/minecraft/world/entity/ai/behavior/BehaviorGate$Execution$2
+	<init> (Ljava/lang/String;I)V <init>
+bdf$b net/minecraft/world/entity/ai/behavior/BehaviorGate$Execution
+	<init> ()V <init>
+bdu net/minecraft/world/entity/ai/behavior/LongJumpMidJump
+	<init> (Layx;Lajd;)V <init>
+beg$a net/minecraft/world/entity/ai/behavior/PrepareRamNearestTarget$a
+	<init> (Lgt;Lgt;Lbbf;)V <init>
+bgd net/minecraft/world/entity/ai/behavior/BehaviorWork
+	<init> ()V <init>
+bfe net/minecraft/world/entity/ai/behavior/BehaviorAttackTargetSet
+	<init> (Ljava/util/function/Predicate;Ljava/util/function/Function;)V <init>
+	<init> (Ljava/util/function/Predicate;Ljava/util/function/Function;I)V <init>
+	<init> (Ljava/util/function/Function;)V <init>
+bfu net/minecraft/world/entity/ai/behavior/BehaviorPositionValidate
+	<init> (Ljava/util/function/Predicate;Lbjx;)V <init>
+bfb$a net/minecraft/world/entity/ai/behavior/ShufflingList$a
+	<init> (Ljava/lang/Object;I)V <init>
+bdn net/minecraft/world/entity/ai/behavior/BehaviorFarm
+	<init> ()V <init>
+bfv net/minecraft/world/entity/ai/behavior/BehaviorVictory
+	<init> (F)V <init>
+bft net/minecraft/world/entity/ai/behavior/BehaviorBonemeal
+	<init> ()V <init>
+bdc net/minecraft/world/entity/ai/behavior/BehaviorRemoveMemory
+	<init> (Ljava/util/function/Predicate;Lbjx;)V <init>
+bed net/minecraft/world/entity/ai/behavior/BehaviorPlay
+	<init> ()V <init>
+bdb net/minecraft/world/entity/ai/behavior/BehaviorPositionEntity
+	<init> (Lbaq;Z)V <init>
+bdh net/minecraft/world/entity/ai/behavior/GoAndGiveItemsToTarget
+	<init> (Ljava/util/function/Function;F)V <init>
+bes net/minecraft/world/entity/ai/behavior/BehaviorLookTarget
+	<init> (Lakh;F)V <init>
+	<init> (Lbbi;F)V <init>
+	<init> (Lbau;F)V <init>
+	<init> (F)V <init>
+	<init> (Ljava/util/function/Predicate;F)V <init>
+bfa net/minecraft/world/entity/ai/behavior/BehaviorTradePlayer
+	<init> (II)V <init>
+bcr$a net/minecraft/world/entity/ai/behavior/Behavior$Status
+	<init> ()V <init>
+bex net/minecraft/world/entity/ai/behavior/BehaviorWalkAwayOutOfRange
+	<init> (F)V <init>
+	<init> (Ljava/util/function/Function;)V <init>
+bcq net/minecraft/world/entity/ai/behavior/BehaviorPacify
+	<init> (Lbjx;I)V <init>
+bcz net/minecraft/world/entity/ai/behavior/BehaviorStopRiding
+	<init> (ILjava/util/function/BiPredicate;)V <init>
+bdv net/minecraft/world/entity/ai/behavior/LongJumpToPreferredBlock
+	<init> (Layx;IIFLjava/util/function/Function;Lakh;FLjava/util/function/Predicate;)V <init>
+bfd net/minecraft/world/entity/ai/behavior/BehaviorBell
+	<init> ()V <init>
+beo net/minecraft/world/entity/ai/behavior/BehaviorRunIf
+	<init> (Ljava/util/Map;Ljava/util/function/Predicate;Lbcr;Z)V <init>
+	<init> (Ljava/util/function/Predicate;Lbcr;Z)V <init>
+	<init> (Ljava/util/function/Predicate;Lbcr;)V <init>
+	<init> (Ljava/util/Map;Lbcr;)V <init>
+ber net/minecraft/world/entity/ai/behavior/BehaviorWalkHome
+	<init> (F)V <init>
+bdk net/minecraft/world/entity/ai/behavior/BehaviorPotentialJobSite
+	<init> (F)V <init>
+bcx net/minecraft/world/entity/ai/behavior/Croak
+	<init> ()V <init>
+bdj net/minecraft/world/entity/ai/behavior/BehaviorNearestVillage
+	<init> (FI)V <init>
+bfb$a$1 net/minecraft/world/entity/ai/behavior/ShufflingList$a$1
+	<init> ()V <init>
+bds net/minecraft/world/entity/ai/behavior/BehaviorHome
+	<init> (IFI)V <init>
+bgi net/minecraft/world/entity/ai/behavior/warden/ForceUnmount
+	<init> ()V <init>
+bgg net/minecraft/world/entity/ai/behavior/warden/Digging
+	<init> (I)V <init>
+bgj net/minecraft/world/entity/ai/behavior/warden/Roar
+	<init> ()V <init>
+bgl net/minecraft/world/entity/ai/behavior/warden/SetWardenLookTarget
+	<init> ()V <init>
+bgm net/minecraft/world/entity/ai/behavior/warden/Sniffing
+	<init> (I)V <init>
+bgo net/minecraft/world/entity/ai/behavior/warden/TryToSniff
+	<init> ()V <init>
+bgk net/minecraft/world/entity/ai/behavior/warden/SetRoarTarget
+	<init> (Ljava/util/function/Function;)V <init>
+bgh net/minecraft/world/entity/ai/behavior/warden/Emerging
+	<init> (I)V <init>
+bgn net/minecraft/world/entity/ai/behavior/warden/SonicBoom
+	<init> ()V <init>
+bcv net/minecraft/world/entity/ai/behavior/BehaviorExpirableMemory
+	<init> (Ljava/util/function/Predicate;Lbjx;Lbjx;Layx;)V <init>
+bcu net/minecraft/world/entity/ai/behavior/BehaviorCelebrate
+	<init> (II)V <init>
+bfy net/minecraft/world/entity/ai/behavior/Behaviors
+	<init> ()V <init>
+bco net/minecraft/world/entity/ai/behavior/BehaviorFollowAdult
+	<init> (Layx;F)V <init>
+	<init> (Layx;Ljava/util/function/Function;)V <init>
+bdf$b$1 net/minecraft/world/entity/ai/behavior/BehaviorGate$Execution$1
+	<init> (Ljava/lang/String;I)V <init>
+bdx net/minecraft/world/entity/ai/behavior/BehaviorInteractPlayer
+	<init> (F)V <init>
+bec net/minecraft/world/entity/ai/behavior/BehavorMove
+	<init> ()V <init>
+	<init> (II)V <init>
+bdw$a net/minecraft/world/entity/ai/behavior/LongJumpToRandomPos$a
+	<init> (Lgt;I)V <init>
+beh net/minecraft/world/entity/ai/behavior/RamTarget
+	<init> (Ljava/util/function/Function;Lbli;FLjava/util/function/ToDoubleFunction;Ljava/util/function/Function;Ljava/util/function/Function;)V <init>
+bfi net/minecraft/world/entity/ai/behavior/BehaviorForgetAnger
+	<init> ()V <init>
+bfn net/minecraft/world/entity/ai/behavior/BehaviorTradeVillager
+	<init> ()V <init>
+bek net/minecraft/world/entity/ai/behavior/BehaviorBellAlert
+	<init> ()V <init>
+bcy net/minecraft/world/entity/ai/behavior/BehaviorCrossbowAttack
+	<init> ()V <init>
+bfo net/minecraft/world/entity/ai/behavior/TryFindLand
+	<init> (IF)V <init>
+bck$a net/minecraft/world/entity/ai/behavior/BehaviorFindPosition$a
+	<init> (Lalu;J)V <init>
+bee net/minecraft/world/entity/ai/behavior/BehaviorBetterJob
+	<init> (Lbsv;)V <init>
+bfq net/minecraft/world/entity/ai/behavior/TryFindWater
+	<init> (IF)V <init>
+bdl net/minecraft/world/entity/ai/behavior/GoToTargetLocation
+	<init> (Lbjx;IF)V <init>
+bdo net/minecraft/world/entity/ai/behavior/BehaviorStrollInside
+	<init> (F)V <init>
+bcy$a net/minecraft/world/entity/ai/behavior/BehaviorCrossbowAttack$BowState
+	<init> ()V <init>
+bge net/minecraft/world/entity/ai/behavior/BehaviorLeaveJob
+	<init> (F)V <init>
+bdt net/minecraft/world/entity/ai/behavior/BehaviorHomeRaid
+	<init> (IF)V <init>
+bdp net/minecraft/world/entity/ai/behavior/BehaviorInteract
+	<init> (Lbau;ILjava/util/function/Predicate;Ljava/util/function/Predicate;Lbjx;FI)V <init>
+bgb net/minecraft/world/entity/ai/behavior/BehaviorWake
+	<init> ()V <init>
+bfr net/minecraft/world/entity/ai/behavior/TryLaySpawnOnWaterNearLand
+	<init> (Lciw;Lbjx;)V <init>
+bdd net/minecraft/world/entity/ai/behavior/FlyingRandomStroll
+	<init> (F)V <init>
+	<init> (FZ)V <init>
+bdm net/minecraft/world/entity/ai/behavior/BehaviorFindAdmirableItem
+	<init> (FZI)V <init>
+	<init> (Ljava/util/function/Predicate;FZI)V <init>
+bdr net/minecraft/world/entity/ai/behavior/BehaviorBedJump
+	<init> (F)V <init>
+bey net/minecraft/world/entity/ai/behavior/BehaviorWalkAwayBlock
+	<init> (Lbjx;FIII)V <init>
+bew net/minecraft/world/entity/ai/behavior/BehaviorWalkAway
+	<init> (Lbjx;FIZLjava/util/function/Function;)V <init>
+bdf net/minecraft/world/entity/ai/behavior/BehaviorGate
+	<init> (Ljava/util/Map;Ljava/util/Set;Lbdf$a;Lbdf$b;Ljava/util/List;)V <init>
+bda net/minecraft/world/entity/ai/behavior/BehaviorNop
+	<init> (II)V <init>
+bdq net/minecraft/world/entity/ai/behavior/BehaviorInteractDoor
+	<init> ()V <init>
+ben net/minecraft/world/entity/ai/behavior/BehaviorBellRing
+	<init> ()V <init>
+bfk net/minecraft/world/entity/ai/behavior/BehaviorStrollPlace
+	<init> (Lbjx;FII)V <init>
+bgc net/minecraft/world/entity/ai/behavior/BehaviorWorkComposter
+	<init> ()V <init>
+bck net/minecraft/world/entity/ai/behavior/BehaviorFindPosition
+	<init> (Ljava/util/function/Predicate;Lbjx;Lbjx;ZLjava/util/Optional;)V <init>
+	<init> (Ljava/util/function/Predicate;Lbjx;ZLjava/util/Optional;)V <init>
+bde net/minecraft/world/entity/ai/behavior/FollowTemptation
+	<init> (Ljava/util/function/Function;)V <init>
+bei net/minecraft/world/entity/ai/behavior/BehaviorStrollRandomUnconstrained
+	<init> (F)V <init>
+	<init> (FZ)V <init>
+	<init> (FII)V <init>
+	<init> (FIIZ)V <init>
+bfh net/minecraft/world/entity/ai/behavior/BehaviorAttackTargetForget
+	<init> (Ljava/util/function/Predicate;Ljava/util/function/BiConsumer;Z)V <init>
+	<init> (Ljava/util/function/Predicate;Ljava/util/function/BiConsumer;)V <init>
+	<init> (Ljava/util/function/Predicate;)V <init>
+	<init> (Ljava/util/function/BiConsumer;)V <init>
+	<init> ()V <init>
+bfg net/minecraft/world/entity/ai/behavior/StayCloseToTarget
+	<init> (Ljava/util/function/Function;IIF)V <init>
+bga net/minecraft/world/entity/ai/behavior/BehaviorPanic
+	<init> ()V <init>
+bdg net/minecraft/world/entity/ai/behavior/BehaviorVillageHeroGift
+	<init> (I)V <init>
+beg net/minecraft/world/entity/ai/behavior/PrepareRamNearestTarget
+	<init> (Ljava/util/function/ToIntFunction;IIFLbli;ILjava/util/function/Function;)V <init>
+bez net/minecraft/world/entity/ai/behavior/BehaviorLookWalk
+	<init> (FI)V <init>
+	<init> (Ljava/util/function/Predicate;Ljava/util/function/Function;I)V <init>
+bfj net/minecraft/world/entity/ai/behavior/BehaviorStrollPosition
+	<init> (Lbjx;FI)V <init>
+bdw net/minecraft/world/entity/ai/behavior/LongJumpToRandomPos
+	<init> (Layx;IIFLjava/util/function/Function;)V <init>
+	<init> (Layx;IIFLjava/util/function/Function;Ljava/util/function/Predicate;)V <init>
+beb net/minecraft/world/entity/ai/behavior/BehaviorOutside
+	<init> (F)V <init>
+beq net/minecraft/world/entity/ai/behavior/BehaviorRunSometimes
+	<init> (Lbcr;Layx;)V <init>
+	<init> (Lbcr;ZLayx;)V <init>
+bfm net/minecraft/world/entity/ai/behavior/BehaviorSwim
+	<init> (F)V <init>
+bej net/minecraft/world/entity/ai/behavior/RandomSwim
+	<init> (F)V <init>
+bct net/minecraft/world/entity/ai/behavior/BehaviorTarget
+	<init> (Lgt;)V <init>
+bcw net/minecraft/world/entity/ai/behavior/CountDownCooldownTicks
+	<init> (Lbjx;)V <init>
+bev net/minecraft/world/entity/ai/behavior/BehaviorRaid
+	<init> ()V <init>
+bcs net/minecraft/world/entity/ai/behavior/BehaviorUtil
+	<init> ()V <init>
+bef net/minecraft/world/entity/ai/behavior/BehaviorPosition
+bet net/minecraft/world/entity/ai/behavior/BehaviorHide
+	<init> (II)V <init>
+bfb net/minecraft/world/entity/ai/behavior/ShufflingList
+	<init> ()V <init>
+	<init> (Ljava/util/List;)V <init>
+bfw net/minecraft/world/entity/ai/behavior/BehaviorStrollRandom
+	<init> (F)V <init>
+	<init> (FII)V <init>
+beu net/minecraft/world/entity/ai/behavior/BehaviorLookInteract
+	<init> (Lbau;ILjava/util/function/Predicate;Ljava/util/function/Predicate;)V <init>
+	<init> (Lbau;I)V <init>
+bdy net/minecraft/world/entity/ai/behavior/BehaviorLook
+	<init> (II)V <init>
+bep net/minecraft/world/entity/ai/behavior/BehaviorGateSingle
+	<init> (Ljava/util/List;)V <init>
+	<init> (Ljava/util/Map;Ljava/util/List;)V <init>
+bfl net/minecraft/world/entity/ai/behavior/BehaviorStrollPlaceList
+	<init> (Lbjx;FIILbjx;)V <init>
+bdi net/minecraft/world/entity/ai/behavior/BehaviorOutsideCelebrate
+	<init> (F)V <init>
+bfx net/minecraft/world/entity/ai/behavior/BehaviorCooldown
+	<init> ()V <init>
+bcl net/minecraft/world/entity/ai/behavior/BehaviorMakeLoveAnimal
+	<init> (Lbau;F)V <init>
+bdf$a net/minecraft/world/entity/ai/behavior/BehaviorGate$Order
+	<init> (Ljava/util/function/Consumer;)V <init>
+bfz net/minecraft/world/entity/ai/behavior/BehaviorMakeLove
+	<init> ()V <init>
+bfp net/minecraft/world/entity/ai/behavior/TryFindLandNearWater
+	<init> (IF)V <init>
+bdz net/minecraft/world/entity/ai/behavior/BehaviorAttack
+	<init> (I)V <init>
+bff net/minecraft/world/entity/ai/behavior/BehaviorCelebrateDeath
+	<init> (ILjava/util/function/BiPredicate;)V <init>
+bcr net/minecraft/world/entity/ai/behavior/Behavior
+	<init> (Ljava/util/Map;)V <init>
+	<init> (Ljava/util/Map;I)V <init>
+	<init> (Ljava/util/Map;II)V <init>
+bfs net/minecraft/world/entity/ai/behavior/BehaviorSchedule
+	<init> ()V <init>
+bcn net/minecraft/world/entity/ai/behavior/BehaviorCareer
+	<init> ()V <init>
+bcp net/minecraft/world/entity/ai/behavior/BehaviorRetreat
+	<init> (IF)V <init>
+bem net/minecraft/world/entity/ai/behavior/BehaviorRaidReset
+	<init> ()V <init>
+bfc net/minecraft/world/entity/ai/behavior/BehaviorSleep
+	<init> ()V <init>
+bcm net/minecraft/world/entity/ai/behavior/AnimalPanic
+	<init> (F)V <init>
+bel net/minecraft/world/entity/ai/behavior/BehaviorProfession
+	<init> ()V <init>
+bgs net/minecraft/world/entity/ai/control/ControllerMoveFlying
+	<init> (Lbbh;IZ)V <init>
+bgr net/minecraft/world/entity/ai/control/Control
+bgx net/minecraft/world/entity/ai/control/SmoothSwimmingMoveControl
+	<init> (Lbbh;IIFFZ)V <init>
+bgq net/minecraft/world/entity/ai/control/EntityAIBodyControl
+	<init> (Lbbh;)V <init>
+bgu net/minecraft/world/entity/ai/control/ControllerLook
+	<init> (Lbbh;)V <init>
+bgw net/minecraft/world/entity/ai/control/SmoothSwimmingLookControl
+	<init> (Lbbh;I)V <init>
+bgt net/minecraft/world/entity/ai/control/ControllerJump
+	<init> (Lbbh;)V <init>
+bgv$a net/minecraft/world/entity/ai/control/ControllerMove$Operation
+	<init> ()V <init>
+bgv net/minecraft/world/entity/ai/control/ControllerMove
+	<init> (Lbbh;)V <init>
+bca$b net/minecraft/world/entity/ai/BehaviorController$b
+	<init> (Ljava/util/Collection;Ljava/util/Collection;)V <init>
+bjt$b net/minecraft/world/entity/ai/gossip/Reputation$b
+	<init> (Ljava/util/UUID;Lbju;I)V <init>
+bjt$a net/minecraft/world/entity/ai/gossip/Reputation$a
+	<init> ()V <init>
+bju net/minecraft/world/entity/ai/gossip/ReputationType
+	<init> (Ljava/lang/String;IIII)V <init>
+bjt net/minecraft/world/entity/ai/gossip/Reputation
+	<init> ()V <init>
+bll net/minecraft/world/entity/ai/util/AirRandomPos
+	<init> ()V <init>
+blq net/minecraft/world/entity/ai/util/RandomPositionGenerator
+	<init> ()V <init>
+blm net/minecraft/world/entity/ai/util/DefaultRandomPos
+	<init> ()V <init>
+blp net/minecraft/world/entity/ai/util/LandRandomPos
+	<init> ()V <init>
+blk net/minecraft/world/entity/ai/util/AirAndWaterRandomPos
+	<init> ()V <init>
+blo net/minecraft/world/entity/ai/util/HoverRandomPos
+	<init> ()V <init>
+bln net/minecraft/world/entity/ai/util/PathfinderGoalUtil
+	<init> ()V <init>
+bjz net/minecraft/world/entity/ai/memory/NearestVisibleLivingEntities
+	<init> ()V <init>
+	<init> (Lbbf;Ljava/util/List;)V <init>
+bjx net/minecraft/world/entity/ai/memory/MemoryModuleType
+	<init> (Ljava/util/Optional;)V <init>
+bka net/minecraft/world/entity/ai/memory/MemoryTarget
+	<init> (Lgt;FI)V <init>
+	<init> (Ldvt;FI)V <init>
+	<init> (Lbaq;FI)V <init>
+	<init> (Lbef;FI)V <init>
+bjy net/minecraft/world/entity/ai/memory/MemoryStatus
+	<init> ()V <init>
+bjw net/minecraft/world/entity/ai/memory/ExpirableMemory
+	<init> (Ljava/lang/Object;J)V <init>
+bla net/minecraft/world/entity/ai/sensing/EntitySenses
+	<init> (Lbbh;)V <init>
+bku net/minecraft/world/entity/ai/sensing/SensorNearestLivingEntities
+	<init> ()V <init>
+blb net/minecraft/world/entity/ai/sensing/Sensor
+	<init> (I)V <init>
+	<init> ()V <init>
+bkp net/minecraft/world/entity/ai/sensing/SensorHoglinSpecific
+	<init> ()V <init>
+bkz net/minecraft/world/entity/ai/sensing/SensorSecondaryPlaces
+	<init> ()V <init>
+blc net/minecraft/world/entity/ai/sensing/SensorType
+	<init> (Ljava/util/function/Supplier;)V <init>
+bky net/minecraft/world/entity/ai/sensing/SensorNearestPlayers
+	<init> ()V <init>
+bkx net/minecraft/world/entity/ai/sensing/SensorPiglinSpecific
+	<init> ()V <init>
+bkr net/minecraft/world/entity/ai/sensing/IsInWaterSensor
+	<init> ()V <init>
+bkt net/minecraft/world/entity/ai/sensing/SensorNearestItems
+	<init> ()V <init>
+bld net/minecraft/world/entity/ai/sensing/TemptingSensor
+	<init> (Lccp;)V <init>
+bkq net/minecraft/world/entity/ai/sensing/SensorHurtBy
+	<init> ()V <init>
+bkv net/minecraft/world/entity/ai/sensing/NearestVisibleLivingEntitySensor
+	<init> ()V <init>
+bko net/minecraft/world/entity/ai/sensing/SensorGolemLastSeen
+	<init> ()V <init>
+	<init> (I)V <init>
+bkl net/minecraft/world/entity/ai/sensing/AxolotlAttackablesSensor
+	<init> ()V <init>
+bkm net/minecraft/world/entity/ai/sensing/SensorDummy
+	<init> ()V <init>
+bkk net/minecraft/world/entity/ai/sensing/SensorAdult
+	<init> ()V <init>
+bks net/minecraft/world/entity/ai/sensing/SensorNearestBed
+	<init> ()V <init>
+bkw net/minecraft/world/entity/ai/sensing/SensorPiglinBruteSpecific
+	<init> ()V <init>
+ble net/minecraft/world/entity/ai/sensing/SensorVillagerBabies
+	<init> ()V <init>
+bkn net/minecraft/world/entity/ai/sensing/FrogAttackablesSensor
+	<init> ()V <init>
+blg net/minecraft/world/entity/ai/sensing/WardenEntitySensor
+	<init> ()V <init>
+blf net/minecraft/world/entity/ai/sensing/SensorVillagerHostiles
+	<init> ()V <init>
+azp net/minecraft/world/ITileInventory
+azn net/minecraft/world/InteractionResultWrapper
+	<init> (Lazm;Ljava/lang/Object;)V <init>
+azr net/minecraft/world/InventorySubcontainer
+	<init> (I)V <init>
+	<init> ([Lcaa;)V <init>
+azk net/minecraft/world/DifficultyDamageScaler
+	<init> (Lazj;JJF)V <init>
+azf net/minecraft/world/IInventory
+azc$a net/minecraft/world/BossBattle$BarColor
+	<init> (Ljava/lang/String;Lp;)V <init>
+azl net/minecraft/world/EnumHand
+	<init> ()V <init>
+cbc net/minecraft/world/item/ItemMonsterEgg
+	<init> (Lbau;IILbzw$a;)V <init>
+bxu net/minecraft/world/item/ItemArmorStand
+	<init> (Lbzw$a;)V <init>
+bzp net/minecraft/world/item/ItemHoe
+	<init> (Lcbk;IFLbzw$a;)V <init>
+bxp net/minecraft/world/item/AdventureModeCheck
+	<init> (Ljava/lang/String;)V <init>
+cbw net/minecraft/world/item/alchemy/PotionBrewer
+	<init> ()V <init>
+cby net/minecraft/world/item/alchemy/Potions
+	<init> ()V <init>
+cbw$a net/minecraft/world/item/alchemy/PotionBrewer$PredicatedCombination
+	<init> (Ljava/lang/Object;Lccp;Ljava/lang/Object;)V <init>
+cbx net/minecraft/world/item/alchemy/PotionUtil
+	<init> ()V <init>
+cbv net/minecraft/world/item/alchemy/PotionRegistry
+	<init> ([Lbaj;)V <init>
+	<init> (Ljava/lang/String;[Lbaj;)V <init>
+cbr net/minecraft/world/item/ItemVanishable
+caz net/minecraft/world/item/ItemNetherStar
+	<init> (Lbzw$a;)V <init>
+can net/minecraft/world/item/ItemSkullPlayer
+	<init> (Lciw;Lciw;Lbzw$a;)V <init>
+bym$5 net/minecraft/world/item/CreativeModeTab$5
+	<init> (ILjava/lang/String;)V <init>
+byj net/minecraft/world/item/ItemChorusFruit
+	<init> (Lbzw$a;)V <init>
+bym$2 net/minecraft/world/item/CreativeModeTab$2
+	<init> (ILjava/lang/String;)V <init>
+byl net/minecraft/world/item/ItemWorldMapBase
+	<init> (Lbzw$a;)V <init>
+bzs net/minecraft/world/item/ItemHorseArmor
+	<init> (ILjava/lang/String;Lbzw$a;)V <init>
+bzh net/minecraft/world/item/ItemFireball
+	<init> (Lbzw$a;)V <init>
+byn net/minecraft/world/item/ItemCrossbow
+	<init> (Lbzw$a;)V <init>
+cbi net/minecraft/world/item/ItemSword
+	<init> (Lcbk;IFLbzw$a;)V <init>
+cbg net/minecraft/world/item/ItemBlockWallable
+	<init> (Lciw;Lciw;Lbzw$a;)V <init>
+bzw$a net/minecraft/world/item/Item$Info
+	<init> ()V <init>
+bzu net/minecraft/world/item/InstrumentItem
+	<init> (Lbzw$a;Lakh;)V <init>
+cbs net/minecraft/world/item/ItemWearable
+bzx net/minecraft/world/item/ItemCooldown
+	<init> ()V <init>
+bzc net/minecraft/world/item/ItemGoldenAppleEnchanted
+	<init> (Lbzw$a;)V <init>
+cdu net/minecraft/world/item/enchantment/Enchantment
+	<init> (Lcdu$a;Lcdv;[Lbav;)V <init>
+ceg net/minecraft/world/item/enchantment/EnchantmentOxygen
+	<init> (Lcdu$a;[Lbav;)V <init>
+cdp net/minecraft/world/item/enchantment/EnchantmentPiercing
+	<init> (Lcdu$a;[Lbav;)V <init>
+ceh$a net/minecraft/world/item/enchantment/EnchantmentProtection$DamageType
+	<init> (II)V <init>
+cdm net/minecraft/world/item/enchantment/EnchantmentFlameArrows
+	<init> (Lcdu$a;[Lbav;)V <init>
+cdv$2 net/minecraft/world/item/enchantment/EnchantmentSlotType$2
+	<init> (Ljava/lang/String;I)V <init>
+cds net/minecraft/world/item/enchantment/EnchantmentDurability
+	<init> (Lcdu$a;[Lbav;)V <init>
+cdv$9 net/minecraft/world/item/enchantment/EnchantmentSlotType$9
+	<init> (Ljava/lang/String;I)V <init>
+cdv$12 net/minecraft/world/item/enchantment/EnchantmentSlotType$12
+	<init> (Ljava/lang/String;I)V <init>
+cdv$6 net/minecraft/world/item/enchantment/EnchantmentSlotType$6
+	<init> (Ljava/lang/String;I)V <init>
+cdz net/minecraft/world/item/enchantment/EnchantmentFire
+	<init> (Lcdu$a;[Lbav;)V <init>
+cdq net/minecraft/world/item/enchantment/EnchantmentBinding
+	<init> (Lcdu$a;[Lbav;)V <init>
+cdv$7 net/minecraft/world/item/enchantment/EnchantmentSlotType$7
+	<init> (Ljava/lang/String;I)V <init>
+cdv$8 net/minecraft/world/item/enchantment/EnchantmentSlotType$8
+	<init> (Ljava/lang/String;I)V <init>
+cee net/minecraft/world/item/enchantment/EnchantmentMending
+	<init> (Lcdu$a;[Lbav;)V <init>
+cea net/minecraft/world/item/enchantment/EnchantmentLure
+	<init> (Lcdu$a;Lcdv;[Lbav;)V <init>
+cdy net/minecraft/world/item/enchantment/Enchantments
+	<init> ()V <init>
+cdv$14 net/minecraft/world/item/enchantment/EnchantmentSlotType$14
+	<init> (Ljava/lang/String;I)V <init>
+ceh net/minecraft/world/item/enchantment/EnchantmentProtection
+	<init> (Lcdu$a;Lceh$a;[Lbav;)V <init>
+cdv net/minecraft/world/item/enchantment/EnchantmentSlotType
+	<init> ()V <init>
+cdv$10 net/minecraft/world/item/enchantment/EnchantmentSlotType$10
+	<init> (Ljava/lang/String;I)V <init>
+cdv$4 net/minecraft/world/item/enchantment/EnchantmentSlotType$4
+	<init> (Ljava/lang/String;I)V <init>
+cdv$3 net/minecraft/world/item/enchantment/EnchantmentSlotType$3
+	<init> (Ljava/lang/String;I)V <init>
+cei net/minecraft/world/item/enchantment/EnchantmentQuickCharge
+	<init> (Lcdu$a;[Lbav;)V <init>
+cdu$a net/minecraft/world/item/enchantment/Enchantment$Rarity
+	<init> (I)V <init>
+cdo net/minecraft/world/item/enchantment/EnchantmentArrowKnockback
+	<init> (Lcdu$a;[Lbav;)V <init>
+cdr net/minecraft/world/item/enchantment/EnchantmentWeaponDamage
+	<init> (Lcdu$a;I[Lbav;)V <init>
+cdv$1 net/minecraft/world/item/enchantment/EnchantmentSlotType$1
+	<init> (Ljava/lang/String;I)V <init>
+cef net/minecraft/world/item/enchantment/EnchantmentMultishot
+	<init> (Lcdu$a;[Lbav;)V <init>
+cdv$13 net/minecraft/world/item/enchantment/EnchantmentSlotType$13
+	<init> (Ljava/lang/String;I)V <init>
+cdx net/minecraft/world/item/enchantment/WeightedRandomEnchant
+	<init> (Lcdu;I)V <init>
+cdw net/minecraft/world/item/enchantment/EnchantmentManager
+	<init> ()V <init>
+cdl net/minecraft/world/item/enchantment/EnchantmentArrowDamage
+	<init> (Lcdu$a;[Lbav;)V <init>
+ced net/minecraft/world/item/enchantment/EnchantmentLootBonus
+	<init> (Lcdu$a;Lcdv;[Lbav;)V <init>
+cec net/minecraft/world/item/enchantment/EnchantmentKnockback
+	<init> (Lcdu$a;[Lbav;)V <init>
+cdv$5 net/minecraft/world/item/enchantment/EnchantmentSlotType$5
+	<init> (Ljava/lang/String;I)V <init>
+cdn net/minecraft/world/item/enchantment/EnchantmentInfiniteArrows
+	<init> (Lcdu$a;[Lbav;)V <init>
+cdv$11 net/minecraft/world/item/enchantment/EnchantmentSlotType$11
+	<init> (Ljava/lang/String;I)V <init>
+ceb net/minecraft/world/item/enchantment/EnchantmentFrostWalker
+	<init> (Lcdu$a;[Lbav;)V <init>
+cdt net/minecraft/world/item/enchantment/EnchantmentDigging
+	<init> (Lcdu$a;[Lbav;)V <init>
+cdw$a net/minecraft/world/item/enchantment/EnchantmentManager$a
+bxr net/minecraft/world/item/ItemArmor
+	<init> (Lbxs;Lbav;Lbzw$a;)V <init>
+byz net/minecraft/world/item/ItemElytra
+	<init> (Lbzw$a;)V <init>
+bzn net/minecraft/world/item/ItemRestricted
+	<init> (Lciw;Lbzw$a;)V <init>
+car net/minecraft/world/item/ItemRecord
+	<init> (ILajd;Lbzw$a;)V <init>
+cbu net/minecraft/world/item/ItemWrittenBook
+	<init> (Lbzw$a;)V <init>
+cau net/minecraft/world/item/ItemCooldownPlayer
+	<init> (Lafp;)V <init>
+bzg net/minecraft/world/item/ItemExpBottle
+	<init> (Lbzw$a;)V <init>
+cbe net/minecraft/world/item/ItemSplashPotion
+	<init> (Lbzw$a;)V <init>
+bzt net/minecraft/world/item/Instrument
+	<init> (Lajd;IF)V <init>
+cbo$a net/minecraft/world/item/TooltipFlag$a
+	<init> (Z)V <init>
+cad net/minecraft/world/item/ItemKnowledgeBook
+	<init> (Lbzw$a;)V <init>
+byp net/minecraft/world/item/ItemTool
+	<init> (FFLcbk;Lakh;Lbzw$a;)V <init>
+cbj net/minecraft/world/item/ItemPotionThrowable
+	<init> (Lbzw$a;)V <init>
+bxx net/minecraft/world/item/ItemBanner
+	<init> (Lciw;Lciw;Lbzw$a;)V <init>
+cbq net/minecraft/world/item/EnumAnimation
+	<init> ()V <init>
+bze net/minecraft/world/item/ItemEnderEye
+	<init> (Lbzw$a;)V <init>
+bys net/minecraft/world/item/ItemBisected
+	<init> (Lciw;Lbzw$a;)V <init>
+cav net/minecraft/world/item/ItemShears
+	<init> (Lbzw$a;)V <init>
+bzw net/minecraft/world/item/Item
+	<init> (Lbzw$a;)V <init>
+cbh net/minecraft/world/item/ItemSuspiciousStew
+	<init> (Lbzw$a;)V <init>
+cab net/minecraft/world/item/ItemLiquidUtil
+	<init> ()V <init>
+cai net/minecraft/world/item/ItemMinecart
+	<init> (Lbuw$a;Lbzw$a;)V <init>
+cbl net/minecraft/world/item/ItemToolMaterial
+	<init> (Lcbk;Lbzw$a;)V <init>
+byy net/minecraft/world/item/ItemEgg
+	<init> (Lbzw$a;)V <init>
+cbd net/minecraft/world/item/ItemSpectralArrow
+	<init> (Lbzw$a;)V <init>
+bym$11 net/minecraft/world/item/CreativeModeTab$11
+	<init> (ILjava/lang/String;)V <init>
+bym net/minecraft/world/item/CreativeModeTab
+	<init> (ILjava/lang/String;)V <init>
+cap net/minecraft/world/item/ItemProjectileWeapon
+	<init> (Lbzw$a;)V <init>
+byo net/minecraft/world/item/ItemDebugStick
+	<init> (Lbzw$a;)V <init>
+cba net/minecraft/world/item/ItemSnowball
+	<init> (Lbzw$a;)V <init>
+byk net/minecraft/world/item/ItemCompass
+	<init> (Lbzw$a;)V <init>
+cae net/minecraft/world/item/ItemLeash
+	<init> (Lbzw$a;)V <init>
+caw net/minecraft/world/item/ItemShield
+	<init> (Lbzw$a;)V <init>
+cac net/minecraft/world/item/Items
+	<init> ()V <init>
+bxt net/minecraft/world/item/EnumArmorMaterial
+	<init> (Ljava/lang/String;I[IILajd;FFLjava/util/function/Supplier;)V <init>
+bym$4 net/minecraft/world/item/CreativeModeTab$4
+	<init> (ILjava/lang/String;)V <init>
+cai$1 net/minecraft/world/item/ItemMinecart$1
+	<init> ()V <init>
+cbb net/minecraft/world/item/SolidBucketItem
+	<init> (Lciw;Lajd;Lbzw$a;)V <init>
+bxs net/minecraft/world/item/ArmorMaterial
+bye net/minecraft/world/item/ItemGlassBottle
+	<init> (Lbzw$a;)V <init>
+bxr$1 net/minecraft/world/item/ItemArmor$1
+	<init> ()V <init>
+bzi$a net/minecraft/world/item/ItemFireworks$EffectType
+	<init> (ILjava/lang/String;)V <init>
+caj net/minecraft/world/item/MobBucketItem
+	<init> (Lbau;Ldox;Lajd;Lbzw$a;)V <init>
+cah net/minecraft/world/item/ItemMilkBucket
+	<init> (Lbzw$a;)V <init>
+caq net/minecraft/world/item/EnumItemRarity
+	<init> (Lp;)V <init>
+bzv net/minecraft/world/item/Instruments
+byu net/minecraft/world/item/ItemDye
+	<init> (Lbyt;Lbzw$a;)V <init>
+cbn net/minecraft/world/item/ItemTippedArrow
+	<init> (Lbzw$a;)V <init>
+caf net/minecraft/world/item/ItemLingeringPotion
+	<init> (Lbzw$a;)V <init>
+bym$9 net/minecraft/world/item/CreativeModeTab$9
+	<init> (ILjava/lang/String;)V <init>
+cax net/minecraft/world/item/ItemSpade
+	<init> (Lcbk;FFLbzw$a;)V <init>
+cay net/minecraft/world/item/ItemSign
+	<init> (Lbzw$a;Lciw;Lciw;)V <init>
+bxq net/minecraft/world/item/ItemAir
+	<init> (Lciw;Lbzw$a;)V <init>
+byq net/minecraft/world/item/DiscFragmentItem
+	<init> (Lbzw$a;)V <init>
+bzi net/minecraft/world/item/ItemFireworks
+	<init> (Lbzw$a;)V <init>
+byw net/minecraft/world/item/ItemHorseArmorDyeable
+	<init> (ILjava/lang/String;Lbzw$a;)V <init>
+bza net/minecraft/world/item/ItemMapEmpty
+	<init> (Lbzw$a;)V <init>
+byf net/minecraft/world/item/ItemBow
+	<init> (Lbzw$a;)V <init>
+bym$12 net/minecraft/world/item/CreativeModeTab$12
+	<init> (ILjava/lang/String;)V <init>
+bym$1 net/minecraft/world/item/CreativeModeTab$1
+	<init> (ILjava/lang/String;)V <init>
+byi net/minecraft/world/item/BundleItem
+	<init> (Lbzw$a;)V <init>
+bzo net/minecraft/world/item/ItemHanging
+	<init> (Lbau;Lbzw$a;)V <init>
+cbm net/minecraft/world/item/EnumToolMaterial
+	<init> (IIFFILjava/util/function/Supplier;)V <init>
+bzr net/minecraft/world/item/HoneycombItem
+	<init> (Lbzw$a;)V <init>
+bzb net/minecraft/world/item/ItemEnchantedBook
+	<init> (Lbzw$a;)V <init>
+bym$6 net/minecraft/world/item/CreativeModeTab$6
+	<init> (ILjava/lang/String;)V <init>
+bzq net/minecraft/world/item/ItemHoneyBottle
+	<init> (Lbzw$a;)V <init>
+bzk net/minecraft/world/item/ItemFishingRod
+	<init> (Lbzw$a;)V <init>
+bym$3 net/minecraft/world/item/CreativeModeTab$3
+	<init> (ILjava/lang/String;)V <init>
+byd net/minecraft/world/item/ItemBook
+	<init> (Lbzw$a;)V <init>
+cbt net/minecraft/world/item/ItemBookAndQuill
+	<init> (Lbzw$a;)V <init>
+cbo net/minecraft/world/item/TooltipFlag
+bzy net/minecraft/world/item/ItemItemFrame
+	<init> (Lbau;Lbzw$a;)V <init>
+bzm net/minecraft/world/item/ItemCarrotStick
+	<init> (Lbzw$a;Lbau;I)V <init>
+caa$a net/minecraft/world/item/ItemStack$HideFlags
+	<init> ()V <init>
+byv net/minecraft/world/item/ItemArmorColorable
+	<init> (Lbxs;Lbav;Lbzw$a;)V <init>
+bzl net/minecraft/world/item/ItemFlintAndSteel
+	<init> (Lbzw$a;)V <init>
+bzz net/minecraft/world/item/ItemNamedBlock
+	<init> (Lciw;Lbzw$a;)V <init>
+cbf net/minecraft/world/item/SpyglassItem
+	<init> (Lbzw$a;)V <init>
+cao net/minecraft/world/item/ItemPotion
+	<init> (Lbzw$a;)V <init>
+bxv net/minecraft/world/item/ItemArrow
+	<init> (Lbzw$a;)V <init>
+byg net/minecraft/world/item/ItemSoup
+	<init> (Lbzw$a;)V <init>
+bxz net/minecraft/world/item/ItemBed
+	<init> (Lciw;Lbzw$a;)V <init>
+bya net/minecraft/world/item/ItemBlock
+	<init> (Lciw;Lbzw$a;)V <init>
+cak net/minecraft/world/item/ItemNameTag
+	<init> (Lbzw$a;)V <init>
+cat net/minecraft/world/item/ItemScaffolding
+	<init> (Lciw;Lbzw$a;)V <init>
+byx net/minecraft/world/item/IDyeable
+byc net/minecraft/world/item/ItemBoneMeal
+	<init> (Lbzw$a;)V <init>
+byt net/minecraft/world/item/EnumColor
+	<init> (ILjava/lang/String;ILdpd;II)V <init>
+cas net/minecraft/world/item/ItemSaddle
+	<init> (Lbzw$a;)V <init>
+cbp net/minecraft/world/item/ItemTrident
+	<init> (Lbzw$a;)V <init>
+bzf net/minecraft/world/item/ItemEnderPearl
+	<init> (Lbzw$a;)V <init>
+bzx$a net/minecraft/world/item/ItemCooldown$Info
+	<init> (II)V <init>
+byr net/minecraft/world/item/DispensibleContainerItem
+bzd net/minecraft/world/item/ItemEndCrystal
+	<init> (Lbzw$a;)V <init>
+bxy net/minecraft/world/item/ItemBannerPattern
+	<init> (Lakh;Lbzw$a;)V <init>
+byh net/minecraft/world/item/ItemBucket
+	<init> (Ldox;Lbzw$a;)V <init>
+cal net/minecraft/world/item/ItemPickaxe
+	<init> (Lcbk;IFLbzw$a;)V <init>
+bzj net/minecraft/world/item/ItemFireworksCharge
+	<init> (Lbzw$a;)V <init>
+bym$7 net/minecraft/world/item/CreativeModeTab$7
+	<init> (ILjava/lang/String;)V <init>
+ccc net/minecraft/world/item/context/ItemActionContext
+	<init> (Lbtf;Lazl;Ldvp;)V <init>
+	<init> (Lcga;Lbtf;Lazl;Lcaa;Ldvp;)V <init>
+ccb net/minecraft/world/item/context/BlockActionContextDirectional
+	<init> (Lcga;Lgt;Lgy;Lcaa;Lgy;)V <init>
+cca net/minecraft/world/item/context/BlockActionContext
+	<init> (Lbtf;Lazl;Lcaa;Ldvp;)V <init>
+	<init> (Lccc;)V <init>
+	<init> (Lcga;Lbtf;Lazl;Lcaa;Ldvp;)V <init>
+cam net/minecraft/world/item/PlaceOnWaterBlockItem
+	<init> (Lciw;Lbzw$a;)V <init>
+ccz net/minecraft/world/item/crafting/RecipiesShield
+	<init> (Laaj;)V <init>
+ccu net/minecraft/world/item/crafting/RecipeSerializer
+cdd$a net/minecraft/world/item/crafting/RecipeSingleItem$a
+	<init> (Lcdd$a$a;)V <init>
+ccm net/minecraft/world/item/crafting/RecipeFireworks
+	<init> (Laaj;)V <init>
+cct net/minecraft/world/item/crafting/CraftingManager
+	<init> ()V <init>
+ccl net/minecraft/world/item/crafting/IRecipeComplex
+	<init> (Laaj;)V <init>
+cco net/minecraft/world/item/crafting/RecipeFireworksStar
+	<init> (Laaj;)V <init>
+ccn net/minecraft/world/item/crafting/RecipeFireworksFade
+	<init> (Laaj;)V <init>
+cdd$a$a net/minecraft/world/item/crafting/RecipeSingleItem$a$a
+cce net/minecraft/world/item/crafting/RecipeCooking
+	<init> (Lccv;Laaj;Ljava/lang/String;Lccp;Lcaa;FI)V <init>
+ccx net/minecraft/world/item/crafting/ShapedRecipes
+	<init> (Laaj;Ljava/lang/String;IILhi;Lcaa;)V <init>
+cct$a net/minecraft/world/item/crafting/CraftingManager$a
+cdg net/minecraft/world/item/crafting/RecipeStonecutting
+	<init> (Laaj;Ljava/lang/String;Lccp;Lcaa;)V <init>
+ccp net/minecraft/world/item/crafting/RecipeItemStack
+	<init> (Ljava/util/stream/Stream;)V <init>
+cda net/minecraft/world/item/crafting/RecipeShulkerBox
+	<init> (Laaj;)V <init>
+cci net/minecraft/world/item/crafting/RecipeBookClone
+	<init> (Laaj;)V <init>
+cdj$a net/minecraft/world/item/crafting/RecipeSmithing$a
+	<init> ()V <init>
+ccp$c net/minecraft/world/item/crafting/RecipeItemStack$Provider
+cdb$a net/minecraft/world/item/crafting/RecipeSerializerCooking$a
+ccg net/minecraft/world/item/crafting/RecipeBannerDuplicate
+	<init> (Laaj;)V <init>
+ccy net/minecraft/world/item/crafting/ShapelessRecipes
+	<init> (Laaj;Ljava/lang/String;Lcaa;Lhi;)V <init>
+ccw net/minecraft/world/item/crafting/RecipeRepair
+	<init> (Laaj;)V <init>
+cdf net/minecraft/world/item/crafting/RecipeSmoking
+	<init> (Laaj;Ljava/lang/String;Lccp;Lcaa;FI)V <init>
+cdi net/minecraft/world/item/crafting/RecipeTippedArrow
+	<init> (Laaj;)V <init>
+cdj net/minecraft/world/item/crafting/RecipeSmithing
+	<init> (Laaj;Lccp;Lccp;Lcaa;)V <init>
+ccq net/minecraft/world/item/crafting/RecipeMapClone
+	<init> (Laaj;)V <init>
+cdc net/minecraft/world/item/crafting/RecipeSerializerComplex
+	<init> (Ljava/util/function/Function;)V <init>
+cde net/minecraft/world/item/crafting/FurnaceRecipe
+	<init> (Laaj;Ljava/lang/String;Lccp;Lcaa;FI)V <init>
+cdh net/minecraft/world/item/crafting/RecipeSuspiciousStew
+	<init> (Laaj;)V <init>
+cck net/minecraft/world/item/crafting/RecipeCrafting
+ccv$1 net/minecraft/world/item/crafting/Recipes$1
+	<init> ()V <init>
+ccr net/minecraft/world/item/crafting/RecipeMapExtend
+	<init> (Laaj;)V <init>
+ccp$b net/minecraft/world/item/crafting/RecipeItemStack$b
+	<init> (Lakh;)V <init>
+cct$1 net/minecraft/world/item/crafting/CraftingManager$1
+	<init> (Lccv;)V <init>
+ccy$a net/minecraft/world/item/crafting/ShapelessRecipes$a
+	<init> ()V <init>
+ccj net/minecraft/world/item/crafting/RecipeCampfire
+	<init> (Laaj;Ljava/lang/String;Lccp;Lcaa;FI)V <init>
+ccp$a net/minecraft/world/item/crafting/RecipeItemStack$StackProvider
+	<init> (Lcaa;)V <init>
+ccf net/minecraft/world/item/crafting/RecipeArmorDye
+	<init> (Laaj;)V <init>
+cdd net/minecraft/world/item/crafting/RecipeSingleItem
+	<init> (Lccv;Lccu;Laaj;Ljava/lang/String;Lccp;Lcaa;)V <init>
+ccx$a net/minecraft/world/item/crafting/ShapedRecipes$a
+	<init> ()V <init>
+cdb net/minecraft/world/item/crafting/RecipeSerializerCooking
+	<init> (Lcdb$a;I)V <init>
+ccs net/minecraft/world/item/crafting/IRecipe
+ccv net/minecraft/world/item/crafting/Recipes
+cch net/minecraft/world/item/crafting/RecipeBlasting
+	<init> (Laaj;Ljava/lang/String;Lccp;Lcaa;FI)V <init>
+cbk net/minecraft/world/item/ToolMaterial
+cag net/minecraft/world/item/ItemWorldMap
+	<init> (Lbzw$a;)V <init>
+bym$8 net/minecraft/world/item/CreativeModeTab$8
+	<init> (ILjava/lang/String;)V <init>
+byb net/minecraft/world/item/ItemBoat
+	<init> (ZLbuy$b;Lbzw$a;)V <init>
+caa net/minecraft/world/item/ItemStack
+	<init> (Lcfz;)V <init>
+	<init> (Lhc;)V <init>
+	<init> (Lcfz;ILjava/util/Optional;)V <init>
+	<init> (Lhc;I)V <init>
+	<init> (Lcfz;I)V <init>
+	<init> (Lpj;)V <init>
+bxw net/minecraft/world/item/ItemAxe
+	<init> (Lcbk;FFLbzw$a;)V <init>
+bym$10 net/minecraft/world/item/CreativeModeTab$10
+	<init> (ILjava/lang/String;)V <init>
+aze net/minecraft/world/InventoryLargeChest
+	<init> (Lazf;Lazf;)V <init>
+azc net/minecraft/world/BossBattle
+	<init> (Ljava/util/UUID;Lrm;Lazc$a;Lazc$b;)V <init>
+azu net/minecraft/world/IInventoryHolder
+azj net/minecraft/world/EnumDifficulty
+	<init> (ILjava/lang/String;)V <init>
+azc$b net/minecraft/world/BossBattle$BarStyle
+	<init> (Ljava/lang/String;)V <init>
+azd net/minecraft/world/Clearable
+azm net/minecraft/world/EnumInteractionResult
+	<init> ()V <init>
+aje net/minecraft/sounds/SoundEffects
+	<init> ()V <init>
+ajb net/minecraft/sounds/Music
+	<init> (Lajd;IIZ)V <init>
+ajd net/minecraft/sounds/SoundEffect
+	<init> (Laaj;)V <init>
+	<init> (Laaj;F)V <init>
+	<init> (Laaj;FZ)V <init>
+ajc net/minecraft/sounds/Musics
+	<init> ()V <init>
+ajf net/minecraft/sounds/SoundCategory
+	<init> (Ljava/lang/String;)V <init>
+aah$b net/minecraft/resources/RegistryResourceAccess$InMemoryStorage
+	<init> ()V <init>
+aaf$a net/minecraft/resources/RegistryLoader$a
+	<init> (Lhn$e;Laaf;)V <init>
+aaj net/minecraft/resources/MinecraftKey
+	<init> ([Ljava/lang/String;)V <init>
+	<init> (Ljava/lang/String;)V <init>
+	<init> (Ljava/lang/String;Ljava/lang/String;)V <init>
+aad net/minecraft/resources/RegistryFileCodec
+	<init> (Laai;Lcom/mojang/serialization/Codec;Z)V <init>
+aaj$a net/minecraft/resources/MinecraftKey$a
+	<init> ()V <init>
+aah$c net/minecraft/resources/RegistryResourceAccess$ParsedEntry
+	<init> (Ljava/lang/Object;Ljava/util/OptionalInt;)V <init>
+aae net/minecraft/resources/RegistryFixedCodec
+	<init> (Laai;)V <init>
+aag net/minecraft/resources/RegistryOps
+	<init> (Lcom/mojang/serialization/DynamicOps;Lhn;Ljava/util/Optional;)V <init>
+aah$a net/minecraft/resources/RegistryResourceAccess$a
+aai net/minecraft/resources/ResourceKey
+	<init> (Laaj;Laaj;)V <init>
+aah$b$a net/minecraft/resources/RegistryResourceAccess$InMemoryStorage$Entry
+	<init> (Lcom/google/gson/JsonElement;ILcom/mojang/serialization/Lifecycle;)V <init>
+aac net/minecraft/resources/HolderSetCodec
+	<init> (Laai;Lcom/mojang/serialization/Codec;Z)V <init>
+aab net/minecraft/resources/DynamicOpsWrapper
+	<init> (Lcom/mojang/serialization/DynamicOps;)V <init>
+aaf$b net/minecraft/resources/RegistryLoader$b
+	<init> ()V <init>
+aah net/minecraft/resources/RegistryResourceAccess
+aah$1 net/minecraft/resources/RegistryResourceAccess$1
+	<init> ()V <init>
+aaf net/minecraft/resources/RegistryLoader
+	<init> (Laah;)V <init>
+ad$4 net/minecraft/SystemUtils$4
+	<init> (Ljava/util/concurrent/ForkJoinPool;)V <init>
+ab net/minecraft/SharedConstants
+	<init> ()V <init>
+aky$b net/minecraft/util/ExtraCodecs$b
+	<init> (Lcom/mojang/serialization/Codec;Lcom/mojang/serialization/Codec;)V <init>
+avs net/minecraft/util/monitoring/jmx/MinecraftServerBeans
+	<init> (Lnet/minecraft/server/MinecraftServer;)V <init>
+avs$a net/minecraft/util/monitoring/jmx/MinecraftServerBeans$a
+	<init> (Ljava/lang/String;Ljava/util/function/Supplier;Ljava/lang/String;Ljava/lang/Class;)V <init>
+ami net/minecraft/util/ToFloatFunction
+alt net/minecraft/util/IProgressUpdate
+aky$2 net/minecraft/util/ExtraCodecs$2
+	<init> (Lcom/mojang/serialization/Codec;Lcom/mojang/serialization/Codec;)V <init>
+alf net/minecraft/util/Graph
+	<init> ()V <init>
+akq net/minecraft/util/MinecraftEncryption
+	<init> ()V <init>
+aku$e net/minecraft/util/CubicSpline$e
+	<init> (Ljava/lang/Object;[FLjava/util/List;[FFF)V <init>
+aml net/minecraft/util/VisibleForDebug
+amb net/minecraft/util/SpawnUtil
+	<init> ()V <init>
+ali net/minecraft/util/InclusiveRange
+	<init> (Ljava/lang/Object;Ljava/lang/Object;)V <init>
+aku$a net/minecraft/util/CubicSpline$a
+	<init> (FLaku;F)V <init>
+aya net/minecraft/util/random/WeightedRandomList
+	<init> (Ljava/util/List;)V <init>
+axz net/minecraft/util/random/WeightedRandom2
+	<init> ()V <init>
+axy$a net/minecraft/util/random/WeightedEntry$a
+	<init> (I)V <init>
+	<init> (Laxx;)V <init>
+axy net/minecraft/util/random/WeightedEntry
+axw$a net/minecraft/util/random/SimpleWeightedRandomList$a
+	<init> ()V <init>
+axw net/minecraft/util/random/SimpleWeightedRandomList
+	<init> (Ljava/util/List;)V <init>
+axy$b net/minecraft/util/random/WeightedEntry$b
+	<init> (Ljava/lang/Object;Laxx;)V <init>
+axx net/minecraft/util/random/Weight
+	<init> (I)V <init>
+aly net/minecraft/util/SimpleBitStorage
+	<init> (II[I)V <init>
+	<init> (II)V <init>
+	<init> (II[J)V <init>
+amc net/minecraft/util/StringDecomposer
+	<init> ()V <init>
+alh net/minecraft/util/HttpUtilities
+	<init> ()V <init>
+alg net/minecraft/util/ChatDeserializer
+	<init> ()V <init>
+amj net/minecraft/util/Tuple
+	<init> (Ljava/lang/Object;Ljava/lang/Object;)V <init>
+aky$3 net/minecraft/util/ExtraCodecs$3
+	<init> (Ljava/util/function/Function;Ljava/util/function/Function;)V <init>
+alq$a net/minecraft/util/NativeModuleLister$a
+	<init> (Ljava/lang/String;Ljava/util/Optional;)V <init>
+alo$a net/minecraft/util/ModCheck$a
+	<init> (Ljava/lang/String;Z)V <init>
+akr net/minecraft/util/CryptographyException
+	<init> (Ljava/lang/Throwable;)V <init>
+aye net/minecraft/util/thread/Mailbox
+ayh$a net/minecraft/util/thread/PairedQueue$a
+	<init> (I)V <init>
+ayf net/minecraft/util/thread/ThreadedMailbox
+	<init> (Layh;Ljava/util/concurrent/Executor;Ljava/lang/String;)V <init>
+ayg net/minecraft/util/thread/IAsyncTaskHandlerReentrant
+	<init> (Ljava/lang/String;)V <init>
+ayc net/minecraft/util/thread/IAsyncTaskHandler
+	<init> (Ljava/lang/String;)V <init>
+ayh$c net/minecraft/util/thread/PairedQueue$c
+	<init> (Ljava/util/Queue;)V <init>
+ayh net/minecraft/util/thread/PairedQueue
+ayh$b net/minecraft/util/thread/PairedQueue$b
+	<init> (ILjava/lang/Runnable;)V <init>
+aye$1 net/minecraft/util/thread/Mailbox$1
+	<init> ()V <init>
+akw$a net/minecraft/util/SessionLock$ExceptionWorldConflict
+	<init> (Ljava/nio/file/Path;Ljava/lang/String;)V <init>
+alk net/minecraft/util/LazyInitVar
+	<init> (Ljava/util/function/Supplier;)V <init>
+akn net/minecraft/util/DataBits
+alb net/minecraft/util/FileZipper
+	<init> (Ljava/nio/file/Path;)V <init>
+aku$c net/minecraft/util/CubicSpline$c
+	<init> (F)V <init>
+alv$a net/minecraft/util/SignatureUpdater$a
+akx net/minecraft/util/ExceptionSuppressor
+	<init> ()V <init>
+akp net/minecraft/util/RegistryID
+	<init> (I)V <init>
+	<init> ([Ljava/lang/Object;[I[Ljava/lang/Object;II)V <init>
+amk net/minecraft/util/Unit
+	<init> ()V <init>
+amh net/minecraft/util/TimeRange
+	<init> ()V <init>
+amg net/minecraft/util/ThreadingDetector
+	<init> (Ljava/lang/String;)V <init>
+alm net/minecraft/util/ChatTypeAdapterFactory
+	<init> ()V <init>
+amm net/minecraft/util/ZeroBitStorage
+	<init> (I)V <init>
+ala$a net/minecraft/util/ColorUtil$a
+	<init> ()V <init>
+alu net/minecraft/util/RandomSource
+akz net/minecraft/util/FastBufferedInputStream
+	<init> (Ljava/io/InputStream;)V <init>
+	<init> (Ljava/io/InputStream;I)V <init>
+akv net/minecraft/util/DebugBuffer
+	<init> (I)V <init>
+aks net/minecraft/util/CSVWriter
+	<init> (Ljava/io/Writer;Ljava/util/List;)V <init>
+ama net/minecraft/util/ArraySetSorted
+	<init> (ILjava/util/Comparator;)V <init>
+alp net/minecraft/util/MathHelper
+	<init> ()V <init>
+aky net/minecraft/util/ExtraCodecs
+	<init> ()V <init>
+amd$a net/minecraft/util/INamable$a
+	<init> ([Ljava/lang/Object;Ljava/util/function/Function;)V <init>
+amd$1 net/minecraft/util/INamable$1
+	<init> ()V <init>
+ami$2 net/minecraft/util/ToFloatFunction$2
+	<init> (Lami;Lami;Ljava/util/function/Function;)V <init>
+aly$a net/minecraft/util/SimpleBitStorage$a
+	<init> (Ljava/lang/String;)V <init>
+aln net/minecraft/util/MemoryReserve
+	<init> ()V <init>
+akw net/minecraft/util/SessionLock
+	<init> (Ljava/nio/channels/FileChannel;Ljava/nio/channels/FileLock;)V <init>
+amb$a net/minecraft/util/SpawnUtil$a
+amo net/minecraft/util/datafix/DataFixerOptimizationOption
+	<init> ()V <init>
+amn net/minecraft/util/datafix/DataFixTypes
+	<init> (Lcom/mojang/datafixers/DSL$TypeReference;)V <init>
+amp$1 net/minecraft/util/datafix/DataConverterRegistry$1
+	<init> (Lcom/mojang/datafixers/schemas/Schema;ZLjava/lang/String;Lcom/mojang/datafixers/DSL$TypeReference;Ljava/lang/String;)V <init>
+amp net/minecraft/util/datafix/DataConverterRegistry
+	<init> ()V <init>
+ato net/minecraft/util/datafix/schemas/DataConverterSchemaV1451_2
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+atp net/minecraft/util/datafix/schemas/DataConverterSchemaV1451_3
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+att net/minecraft/util/datafix/schemas/DataConverterSchemaV1451_7
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+aur net/minecraft/util/datafix/schemas/DataConverterSchemaV2551
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+atr net/minecraft/util/datafix/schemas/DataConverterSchemaV1451_5
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+avc net/minecraft/util/datafix/schemas/V2842
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+auz net/minecraft/util/datafix/schemas/V2707
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+atf net/minecraft/util/datafix/schemas/DataConverterSchemaV102
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+avq$1 net/minecraft/util/datafix/schemas/DataConverterSchemaV99$1
+	<init> ()V <init>
+aut net/minecraft/util/datafix/schemas/V2571
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+avb net/minecraft/util/datafix/schemas/V2832
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+ats net/minecraft/util/datafix/schemas/DataConverterSchemaV1451_6
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+avm net/minecraft/util/datafix/schemas/DataConverterSchemaV703
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+avd net/minecraft/util/datafix/schemas/V3076
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+aup net/minecraft/util/datafix/schemas/DataConverterSchemaV2519
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+auc net/minecraft/util/datafix/schemas/DataConverterSchemaV1801
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+avl net/minecraft/util/datafix/schemas/DataConverterSchemaV702
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+aun net/minecraft/util/datafix/schemas/DataConverterSchemaV2505
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+atl net/minecraft/util/datafix/schemas/DataConverterSchemaV143
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+avo net/minecraft/util/datafix/schemas/DataConverterSchemaV705
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+avh net/minecraft/util/datafix/schemas/V3083
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+atv net/minecraft/util/datafix/schemas/DataConverterSchemaV1466
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+ath net/minecraft/util/datafix/schemas/DataConverterSchemaV106
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+auw net/minecraft/util/datafix/schemas/V2688
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+atz net/minecraft/util/datafix/schemas/DataConverterSchemaV1486
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+ave net/minecraft/util/datafix/schemas/V3078
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+atu net/minecraft/util/datafix/schemas/DataConverterSchemaV1460
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+aue net/minecraft/util/datafix/schemas/DataConverterSchemaV1906
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+aum net/minecraft/util/datafix/schemas/DataConverterSchemaV2502
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+atq net/minecraft/util/datafix/schemas/DataConverterSchemaV1451_4
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+aua net/minecraft/util/datafix/schemas/DataConverterSchemaV1510
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+auj net/minecraft/util/datafix/schemas/DataConverterSchemaV1931
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+avf net/minecraft/util/datafix/schemas/V3081
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+auy net/minecraft/util/datafix/schemas/V2704
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+atg net/minecraft/util/datafix/schemas/DataConverterSchemaV1022
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+auv net/minecraft/util/datafix/schemas/V2686
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+avi net/minecraft/util/datafix/schemas/DataConverterSchemaV501
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+avn net/minecraft/util/datafix/schemas/DataConverterSchemaV704
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+auk net/minecraft/util/datafix/schemas/DataConverterSchemaV2100
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+ate net/minecraft/util/datafix/schemas/DataConverterSchemaV100
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+avq net/minecraft/util/datafix/schemas/DataConverterSchemaV99
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+ats$1 net/minecraft/util/datafix/schemas/DataConverterSchemaV1451_6$1
+	<init> ()V <init>
+aul net/minecraft/util/datafix/schemas/DataConverterSchemaV2501
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+atk net/minecraft/util/datafix/schemas/DataConverterSchemaV135
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+auh net/minecraft/util/datafix/schemas/DataConverterSchemaV1928
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+aud net/minecraft/util/datafix/schemas/DataConverterSchemaV1904
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+atm net/minecraft/util/datafix/schemas/DataConverterSchemaV1451
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+avo$1 net/minecraft/util/datafix/schemas/DataConverterSchemaV705$1
+	<init> ()V <init>
+avn$1 net/minecraft/util/datafix/schemas/DataConverterSchemaV704$1
+	<init> ()V <init>
+atj net/minecraft/util/datafix/schemas/DataConverterSchemaV1125
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+ats$2 net/minecraft/util/datafix/schemas/DataConverterSchemaV1451_6$2
+	<init> ()V <init>
+auf net/minecraft/util/datafix/schemas/DataConverterSchemaV1909
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+auo net/minecraft/util/datafix/schemas/DataConverterSchemaV2509
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+atx net/minecraft/util/datafix/schemas/DataConverterSchemaV1481
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+atw net/minecraft/util/datafix/schemas/DataConverterSchemaV1470
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+ati net/minecraft/util/datafix/schemas/DataConverterSchemaV107
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+auq net/minecraft/util/datafix/schemas/DataConverterSchemaV2522
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+aug net/minecraft/util/datafix/schemas/DataConverterSchemaV1920
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+auu net/minecraft/util/datafix/schemas/V2684
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+aty net/minecraft/util/datafix/schemas/DataConverterSchemaV1483
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+aub net/minecraft/util/datafix/schemas/DataConverterSchemaV1800
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+avk net/minecraft/util/datafix/schemas/DataConverterSchemaV701
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+aui net/minecraft/util/datafix/schemas/DataConverterSchemaV1929
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+atn net/minecraft/util/datafix/schemas/DataConverterSchemaV1451_1
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+avp net/minecraft/util/datafix/schemas/DataConverterSchemaV808
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+aus net/minecraft/util/datafix/schemas/DataConverterSchemaV2568
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+atd net/minecraft/util/datafix/schemas/DataConverterSchemaNamed
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+atd$1 net/minecraft/util/datafix/schemas/DataConverterSchemaNamed$1
+	<init> ()V <init>
+avj net/minecraft/util/datafix/schemas/DataConverterSchemaV700
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+ava net/minecraft/util/datafix/schemas/V2831
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+avg net/minecraft/util/datafix/schemas/V3082
+	<init> (ILcom/mojang/datafixers/schemas/Schema;)V <init>
+amp$2 net/minecraft/util/datafix/DataConverterRegistry$2
+	<init> (Lcom/mojang/datafixers/schemas/Schema;ZLjava/lang/String;Lcom/mojang/datafixers/DSL$TypeReference;Ljava/lang/String;)V <init>
+amq net/minecraft/util/datafix/DataBitsPacked
+	<init> (II)V <init>
+	<init> (II[J)V <init>
+asz net/minecraft/util/datafix/fixes/DataConverterShoulderEntity
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Ljava/lang/String;Lcom/mojang/datafixers/DSL$TypeReference;)V <init>
+aqh net/minecraft/util/datafix/fixes/DataConverterSpawnEgg
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+aof net/minecraft/util/datafix/fixes/DataConverterProtoChunk
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+arg net/minecraft/util/datafix/fixes/DataConverterOptionsAddTextBackground
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+ard net/minecraft/util/datafix/fixes/DataConverterObjectiveRenderType
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+aqj net/minecraft/util/datafix/fixes/DataConverterMap
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+aqf net/minecraft/util/datafix/fixes/DataConverterItemName
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Ljava/lang/String;)V <init>
+asw net/minecraft/util/datafix/fixes/WorldGenSettingsDisallowOldCustomWorldsFix
+	<init> (Lcom/mojang/datafixers/schemas/Schema;)V <init>
+aoa net/minecraft/util/datafix/fixes/ChunkProtoTickListFix
+	<init> (Lcom/mojang/datafixers/schemas/Schema;)V <init>
+aqy net/minecraft/util/datafix/fixes/DataConverterMissingDimension
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+ash net/minecraft/util/datafix/fixes/DataConverterStatistic
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+apu net/minecraft/util/datafix/fixes/DataConverterPOIRebuild
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+asm net/minecraft/util/datafix/fixes/StructuresBecomeConfiguredFix
+	<init> (Lcom/mojang/datafixers/schemas/Schema;)V <init>
+ann net/minecraft/util/datafix/fixes/DataConverterBlockRename
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Ljava/lang/String;)V <init>
+aph net/minecraft/util/datafix/fixes/DataConverterEntityShulkerRotation
+	<init> (Lcom/mojang/datafixers/schemas/Schema;)V <init>
+anm net/minecraft/util/datafix/fixes/DataConverterBlockName
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+ann$1 net/minecraft/util/datafix/fixes/DataConverterBlockRename$1
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Ljava/lang/String;Ljava/util/function/Function;)V <init>
+aoq net/minecraft/util/datafix/fixes/EntityGoatMissingStateFix
+	<init> (Lcom/mojang/datafixers/schemas/Schema;)V <init>
+apz net/minecraft/util/datafix/fixes/DataConverterIglooMetadataRemoval
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+asl net/minecraft/util/datafix/fixes/StructureSettingsFlattenFix
+	<init> (Lcom/mojang/datafixers/schemas/Schema;)V <init>
+arb net/minecraft/util/datafix/fixes/DataConverterNewVillage
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+aou net/minecraft/util/datafix/fixes/DataConverterEntity
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+apt net/minecraft/util/datafix/fixes/FilteredSignsFix
+	<init> (Lcom/mojang/datafixers/schemas/Schema;)V <init>
+asx net/minecraft/util/datafix/fixes/DataConverterWorldGenSettingsBuilding
+	<init> (Lcom/mojang/datafixers/schemas/Schema;)V <init>
+aqx net/minecraft/util/datafix/fixes/DataConverterMemoryExpiry
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Ljava/lang/String;)V <init>
+aor net/minecraft/util/datafix/fixes/DataConverterHealth
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+aog net/minecraft/util/datafix/fixes/DataConverterColorlessShulkerEntity
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+asa net/minecraft/util/datafix/fixes/SavedDataFeaturePoolElementFix
+	<init> (Lcom/mojang/datafixers/schemas/Schema;)V <init>
+amv net/minecraft/util/datafix/fixes/DataConverterAddChoices
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Ljava/lang/String;Lcom/mojang/datafixers/DSL$TypeReference;)V <init>
+ass net/minecraft/util/datafix/fixes/DataConverterVillagerLevelXp
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+any net/minecraft/util/datafix/fixes/DataConverterChunkLightRemove
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+aol net/minecraft/util/datafix/fixes/DataConverterEntityCatSplit
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+aoo net/minecraft/util/datafix/fixes/DataConverterGuardian
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+aqr net/minecraft/util/datafix/fixes/DataConverterJigsawRotation
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+api net/minecraft/util/datafix/fixes/DataConverterSkeleton
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+anx net/minecraft/util/datafix/fixes/ChunkHeightAndBiomeFix
+	<init> (Lcom/mojang/datafixers/schemas/Schema;)V <init>
+aoc net/minecraft/util/datafix/fixes/DataConverterChunkStatus
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+asm$a net/minecraft/util/datafix/fixes/StructuresBecomeConfiguredFix$a
+	<init> (Ljava/util/Map;Ljava/lang/String;)V <init>
+arc net/minecraft/util/datafix/fixes/DataConverterObjectiveDisplayName
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+anq net/minecraft/util/datafix/fixes/DataConverterFlattenState
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+ara net/minecraft/util/datafix/fixes/DataConverterNamedEntity
+	<init> (Lcom/mojang/datafixers/schemas/Schema;ZLjava/lang/String;Lcom/mojang/datafixers/DSL$TypeReference;Ljava/lang/String;)V <init>
+asd net/minecraft/util/datafix/fixes/DataConverterEntityNameAbstract
+	<init> (Ljava/lang/String;Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+aql net/minecraft/util/datafix/fixes/ItemStackTagFix
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Ljava/lang/String;Ljava/util/function/Predicate;)V <init>
+arw net/minecraft/util/datafix/fixes/DataConverterBiomeBase
+	<init> (Lcom/mojang/datafixers/schemas/Schema;ZLjava/lang/String;Ljava/util/Map;)V <init>
+amu net/minecraft/util/datafix/fixes/AddFlagIfNotPresentFix
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Lcom/mojang/datafixers/DSL$TypeReference;Ljava/lang/String;Z)V <init>
+asq net/minecraft/util/datafix/fixes/DataConverterVillagerProfession
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Ljava/lang/String;)V <init>
+apr net/minecraft/util/datafix/fixes/DataConverterEntityZombifiedPiglinRename
+	<init> (Lcom/mojang/datafixers/schemas/Schema;)V <init>
+arv net/minecraft/util/datafix/fixes/DataConverterRemoveGolemGossip
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+aoe net/minecraft/util/datafix/fixes/DataConverterChunkStructuresTemplateRename
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+arl net/minecraft/util/datafix/fixes/DataConverterSettingRename
+	<init> (Lcom/mojang/datafixers/schemas/Schema;ZLjava/lang/String;Ljava/lang/String;Ljava/lang/String;)V <init>
+arx net/minecraft/util/datafix/fixes/DataConverterCoralFan
+	<init> ()V <init>
+anz$d net/minecraft/util/datafix/fixes/ChunkConverterPalette$d
+	<init> (Lcom/mojang/serialization/Dynamic;)V <init>
+anz$c net/minecraft/util/datafix/fixes/ChunkConverterPalette$c
+	<init> (Lcom/mojang/serialization/Dynamic;)V <init>
+anp net/minecraft/util/datafix/fixes/DataConverterFlattenData
+	<init> ()V <init>
+art net/minecraft/util/datafix/fixes/DataConverterRedstoneConnections
+	<init> (Lcom/mojang/datafixers/schemas/Schema;)V <init>
+ani net/minecraft/util/datafix/fixes/DataConverterBlockEntityKeepPacked
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+ano net/minecraft/util/datafix/fixes/BlockRenameFixWithJigsaw
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Ljava/lang/String;)V <init>
+aot net/minecraft/util/datafix/fixes/DataConverterHorse
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+asc net/minecraft/util/datafix/fixes/DataConverterVillage
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+asi net/minecraft/util/datafix/fixes/StatsRenameFix
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Ljava/lang/String;Ljava/util/Map;)V <init>
+aqf$1 net/minecraft/util/datafix/fixes/DataConverterItemName$1
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Ljava/lang/String;Ljava/util/function/Function;)V <init>
+apf net/minecraft/util/datafix/fixes/DataConverterRiding
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+asr net/minecraft/util/datafix/fixes/DataConverterVillagerFollowRange
+	<init> (Lcom/mojang/datafixers/schemas/Schema;)V <init>
+arp net/minecraft/util/datafix/fixes/PoiTypeRenameFix
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Ljava/lang/String;Ljava/util/function/Function;)V <init>
+amr net/minecraft/util/datafix/fixes/AbstractArrowPickupFix
+	<init> (Lcom/mojang/datafixers/schemas/Schema;)V <init>
+aqq net/minecraft/util/datafix/fixes/DataConverterJigsawProperties
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+aob net/minecraft/util/datafix/fixes/ChunkRenamesFix
+	<init> (Lcom/mojang/datafixers/schemas/Schema;)V <init>
+aru net/minecraft/util/datafix/fixes/DataConverterTypes
+	<init> ()V <init>
+aso$a net/minecraft/util/datafix/fixes/DataConverterTrappedChest$a
+	<init> (Lcom/mojang/datafixers/Typed;Lcom/mojang/datafixers/schemas/Schema;)V <init>
+anw net/minecraft/util/datafix/fixes/ChunkDeleteIgnoredLightDataFix
+	<init> (Lcom/mojang/datafixers/schemas/Schema;)V <init>
+asv net/minecraft/util/datafix/fixes/WeaponSmithChestLootTableFix
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+aqc net/minecraft/util/datafix/fixes/DataConverterMaterialId
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+anv net/minecraft/util/datafix/fixes/DataConverterLeavesBiome
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+aqp net/minecraft/util/datafix/fixes/DataConverterBook
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+arq net/minecraft/util/datafix/fixes/DataConverterRecipes
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+aqn net/minecraft/util/datafix/fixes/DataConverterItemStackUUID
+	<init> (Lcom/mojang/datafixers/schemas/Schema;)V <init>
+aon net/minecraft/util/datafix/fixes/DataConverterCustomNameEntity
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+ast net/minecraft/util/datafix/fixes/DataConverterVillagerTrade
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+aqo net/minecraft/util/datafix/fixes/DataConverterPotionWater
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+amw net/minecraft/util/datafix/fixes/DataConverterAdvancement
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+app net/minecraft/util/datafix/fixes/DataConverterZombieType
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+aoa$a net/minecraft/util/datafix/fixes/ChunkProtoTickListFix$a
+	<init> (Ljava/util/List;[J)V <init>
+ant net/minecraft/util/datafix/fixes/CavesAndCliffsRenames
+	<init> ()V <init>
+asp net/minecraft/util/datafix/fixes/VariantRenameFix
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Ljava/lang/String;Lcom/mojang/datafixers/DSL$TypeReference;Ljava/lang/String;Ljava/util/Map;)V <init>
+aqe net/minecraft/util/datafix/fixes/DataConverterPotionId
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+aqm net/minecraft/util/datafix/fixes/DataConverterFlatten
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+arh net/minecraft/util/datafix/fixes/DataConverterVBO
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+anh net/minecraft/util/datafix/fixes/DataConverterJukeBox
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+aqs$b net/minecraft/util/datafix/fixes/DataConverterLeaves$b
+	<init> (Lcom/mojang/datafixers/Typed;Lcom/mojang/datafixers/schemas/Schema;)V <init>
+aso net/minecraft/util/datafix/fixes/DataConverterTrappedChest
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+aod net/minecraft/util/datafix/fixes/DataConverterChunkStatus2
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+arf net/minecraft/util/datafix/fixes/DataConverterOminousBannerRename
+	<init> (Lcom/mojang/datafixers/schemas/Schema;)V <init>
+apv net/minecraft/util/datafix/fixes/DataConverterFurnaceRecipesUsed
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+arj net/minecraft/util/datafix/fixes/DataConverterKeybind2
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+aqa net/minecraft/util/datafix/fixes/DataConverterBanner
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+asg net/minecraft/util/datafix/fixes/SpawnerDataFix
+	<init> (Lcom/mojang/datafixers/schemas/Schema;)V <init>
+asy net/minecraft/util/datafix/fixes/WorldGenSettingsHeightAndBiomeFix
+	<init> (Lcom/mojang/datafixers/schemas/Schema;)V <init>
+apq net/minecraft/util/datafix/fixes/DataConverterZombie
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+are net/minecraft/util/datafix/fixes/DataConverterOminousBannerBlockEntityRename
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+aqs$a net/minecraft/util/datafix/fixes/DataConverterLeaves$a
+	<init> (Lcom/mojang/datafixers/Typed;Lcom/mojang/datafixers/schemas/Schema;)V <init>
+ape net/minecraft/util/datafix/fixes/DataConverterEntityName
+	<init> (Ljava/lang/String;Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+ary net/minecraft/util/datafix/fixes/DataConverterCoral
+	<init> ()V <init>
+aow net/minecraft/util/datafix/fixes/DataConverterMinecart
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+ark net/minecraft/util/datafix/fixes/DataConverterLang
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+ane net/minecraft/util/datafix/fixes/DataConverterPiston
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+ars net/minecraft/util/datafix/fixes/DataConverterRecipeRename
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+aoy net/minecraft/util/datafix/fixes/DataConverterHanging
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+and net/minecraft/util/datafix/fixes/DataConverterBannerColour
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+ata net/minecraft/util/datafix/fixes/DataConverterZombieVillagerLevelXp
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+apy net/minecraft/util/datafix/fixes/DataConverterHeightmapRenaming
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+arz net/minecraft/util/datafix/fixes/DataConverterPOI
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+asx$a net/minecraft/util/datafix/fixes/DataConverterWorldGenSettingsBuilding$a
+	<init> (III)V <init>
+aoj net/minecraft/util/datafix/fixes/DataConverterArmorStand
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+anz$b$b net/minecraft/util/datafix/fixes/ChunkConverterPalette$Direction$AxisDirection
+	<init> (I)V <init>
+asu net/minecraft/util/datafix/fixes/DataConverterWallProperty
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+apm net/minecraft/util/datafix/fixes/DataConverterEntityUUID
+	<init> (Lcom/mojang/datafixers/schemas/Schema;)V <init>
+arn net/minecraft/util/datafix/fixes/DataConverterPlayerUUID
+	<init> (Lcom/mojang/datafixers/schemas/Schema;)V <init>
+aqs net/minecraft/util/datafix/fixes/DataConverterLeaves
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+ana net/minecraft/util/datafix/fixes/DataConverterBiome
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+aop net/minecraft/util/datafix/fixes/DataConverterEquipment
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+apg net/minecraft/util/datafix/fixes/DataConverterShulker
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+ang net/minecraft/util/datafix/fixes/DataConverterTileEntity
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+anz$a net/minecraft/util/datafix/fixes/ChunkConverterPalette$a
+	<init> ()V <init>
+	<init> ([B)V <init>
+apd net/minecraft/util/datafix/fixes/DataConverterDropChances
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+apa net/minecraft/util/datafix/fixes/DataConverterEntityProjectileOwner
+	<init> (Lcom/mojang/datafixers/schemas/Schema;)V <init>
+amt net/minecraft/util/datafix/fixes/DataConverterUUIDBase
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Lcom/mojang/datafixers/DSL$TypeReference;)V <init>
+asn net/minecraft/util/datafix/fixes/DataConverterTeamDisplayName
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+amz net/minecraft/util/datafix/fixes/DataConverterBedItem
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+aok net/minecraft/util/datafix/fixes/DataConverterEntityBlockState
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+apl net/minecraft/util/datafix/fixes/DataConverterEntityTippedArrow
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+anc net/minecraft/util/datafix/fixes/BlendingDataFix
+	<init> (Lcom/mojang/datafixers/schemas/Schema;)V <init>
+aoh net/minecraft/util/datafix/fixes/CriteriaRenameFix
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Ljava/lang/String;Ljava/lang/String;Ljava/util/function/UnaryOperator;)V <init>
+aqu net/minecraft/util/datafix/fixes/DataConverterWorldGenSettings
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+ase net/minecraft/util/datafix/fixes/SimpleRenameFix
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Lcom/mojang/datafixers/DSL$TypeReference;Ljava/util/Map;)V <init>
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Lcom/mojang/datafixers/DSL$TypeReference;Ljava/lang/String;Ljava/util/Map;)V <init>
+apx net/minecraft/util/datafix/fixes/DataConverterGossip
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Ljava/lang/String;)V <init>
+aox net/minecraft/util/datafix/fixes/EntityPaintingFieldsRenameFix
+	<init> (Lcom/mojang/datafixers/schemas/Schema;)V <init>
+apc net/minecraft/util/datafix/fixes/DataConverterEntityRavagerRename
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+anz net/minecraft/util/datafix/fixes/ChunkConverterPalette
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+apo net/minecraft/util/datafix/fixes/DataConverterWolf
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+ams net/minecraft/util/datafix/fixes/AbstractPoiSectionFix
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Ljava/lang/String;)V <init>
+aov net/minecraft/util/datafix/fixes/DataConverterItemFrame
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+amx net/minecraft/util/datafix/fixes/DataConverterAdvancementBase
+	<init> (Lcom/mojang/datafixers/schemas/Schema;ZLjava/lang/String;Ljava/util/function/Function;)V <init>
+aro net/minecraft/util/datafix/fixes/PoiTypeRemoveFix
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Ljava/lang/String;Ljava/util/function/Predicate;)V <init>
+aps net/minecraft/util/datafix/fixes/FilteredBooksFix
+	<init> (Lcom/mojang/datafixers/schemas/Schema;)V <init>
+anu net/minecraft/util/datafix/fixes/DataConverterBedBlock
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+aqg net/minecraft/util/datafix/fixes/DataConverterShulkerBoxItem
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+apb net/minecraft/util/datafix/fixes/DataConverterEntityPufferfish
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+anb net/minecraft/util/datafix/fixes/DataConverterBitStorageAlign
+	<init> (Lcom/mojang/datafixers/schemas/Schema;)V <init>
+amy net/minecraft/util/datafix/fixes/DataConverterAttributes
+	<init> (Lcom/mojang/datafixers/schemas/Schema;)V <init>
+aoz net/minecraft/util/datafix/fixes/DataConverterPainting
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+aqk net/minecraft/util/datafix/fixes/DataConverterFlattenSpawnEgg
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+ari net/minecraft/util/datafix/fixes/DataConverterKeybind
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+anz$b$a net/minecraft/util/datafix/fixes/ChunkConverterPalette$Direction$Axis
+	<init> ()V <init>
+apk net/minecraft/util/datafix/fixes/DataConverterEntityRename
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+ank$1 net/minecraft/util/datafix/fixes/DataConverterSignText$1
+	<init> ()V <init>
+anr net/minecraft/util/datafix/fixes/DataConverterCatType
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+ano$1 net/minecraft/util/datafix/fixes/BlockRenameFixWithJigsaw$1
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Ljava/lang/String;Ljava/util/function/Function;)V <init>
+aqz net/minecraft/util/datafix/fixes/DataConverterMobSpawner
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+asf net/minecraft/util/datafix/fixes/DataConverterEntityRenameAbstract
+	<init> (Ljava/lang/String;Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+asj net/minecraft/util/datafix/fixes/DataConverterStriderGravity
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+ans net/minecraft/util/datafix/fixes/CauldronRenameFix
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+asb net/minecraft/util/datafix/fixes/DataConverterSavedDataUUID
+	<init> (Lcom/mojang/datafixers/schemas/Schema;)V <init>
+aqv net/minecraft/util/datafix/fixes/DataConverterMiscUUID
+	<init> (Lcom/mojang/datafixers/schemas/Schema;)V <init>
+anz$b net/minecraft/util/datafix/fixes/ChunkConverterPalette$Direction
+	<init> (Lanz$b$b;Lanz$b$a;)V <init>
+arr net/minecraft/util/datafix/fixes/DataConverterRecipeBase
+	<init> (Lcom/mojang/datafixers/schemas/Schema;ZLjava/lang/String;Ljava/util/function/Function;)V <init>
+aoi net/minecraft/util/datafix/fixes/DataConverterDye
+	<init> ()V <init>
+apn net/minecraft/util/datafix/fixes/EntityVariantFix
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Ljava/lang/String;Lcom/mojang/datafixers/DSL$TypeReference;Ljava/lang/String;Ljava/lang/String;Ljava/util/function/IntFunction;)V <init>
+aqi net/minecraft/util/datafix/fixes/DataConverterItemStackEnchantment
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+aqb net/minecraft/util/datafix/fixes/DataConverterCustomNameItem
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+apj net/minecraft/util/datafix/fixes/DataConverterUUID
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+aqt net/minecraft/util/datafix/fixes/DataConverterLevelDataGeneratorOptions
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+aos net/minecraft/util/datafix/fixes/DataConverterSaddle
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+anj net/minecraft/util/datafix/fixes/DataConverterShulkerBoxBlock
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+anf net/minecraft/util/datafix/fixes/DataConverterCustomNameTile
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+aqw net/minecraft/util/datafix/fixes/DataConverterMapId
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+anl net/minecraft/util/datafix/fixes/DataConverterBlockEntityUUID
+	<init> (Lcom/mojang/datafixers/schemas/Schema;)V <init>
+ank net/minecraft/util/datafix/fixes/DataConverterSignText
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+arm net/minecraft/util/datafix/fixes/OverreachingTickFix
+	<init> (Lcom/mojang/datafixers/schemas/Schema;)V <init>
+ask net/minecraft/util/datafix/fixes/DataConverterStructureReference
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+aqd net/minecraft/util/datafix/fixes/DataConverterItemLoreComponentize
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+aom net/minecraft/util/datafix/fixes/DataConverterEntityCodSalmon
+	<init> (Lcom/mojang/datafixers/schemas/Schema;Z)V <init>
+apw net/minecraft/util/datafix/fixes/GoatHornIdFix
+	<init> (Lcom/mojang/datafixers/schemas/Schema;)V <init>
+aky$4 net/minecraft/util/ExtraCodecs$4
+	<init> ()V <init>
+aky$e net/minecraft/util/ExtraCodecs$e
+	<init> (Lcom/mojang/serialization/Codec;Lcom/mojang/serialization/Codec;)V <init>
+ale net/minecraft/util/CircularTimer
+	<init> ()V <init>
+ame net/minecraft/util/UtilColor
+	<init> ()V <init>
+avz net/minecraft/util/profiling/GameProfilerDisabled
+	<init> ()V <init>
+avy$a net/minecraft/util/profiling/MethodProfilerResultsFilled$a
+	<init> ()V <init>
+avw net/minecraft/util/profiling/GameProfilerSwitcher
+	<init> (Ljava/util/function/LongSupplier;Ljava/util/function/IntSupplier;)V <init>
+awa net/minecraft/util/profiling/GameProfilerFillerActive
+awb net/minecraft/util/profiling/MethodProfilerResults
+awr net/minecraft/util/profiling/jfr/parse/JfrStatsResult
+	<init> (Ljava/time/Instant;Ljava/time/Instant;Ljava/time/Duration;Ljava/time/Duration;Ljava/util/List;Ljava/util/List;Lawy$a;Laxa$a;Lawz;Lawz;Lawx$a;Lawx$a;Ljava/util/List;)V <init>
+awq$1 net/minecraft/util/profiling/jfr/parse/JfrStatsParser$1
+	<init> (Ljdk/jfr/consumer/RecordingFile;)V <init>
+awq net/minecraft/util/profiling/jfr/parse/JfrStatsParser
+	<init> (Ljava/util/stream/Stream;)V <init>
+awq$a net/minecraft/util/profiling/jfr/parse/JfrStatsParser$a
+	<init> ()V <init>
+awn net/minecraft/util/profiling/jfr/event/PacketEvent
+	<init> (IILjava/net/SocketAddress;I)V <init>
+awn$a net/minecraft/util/profiling/jfr/event/PacketEvent$a
+	<init> ()V <init>
+awj net/minecraft/util/profiling/jfr/Percentiles
+	<init> ()V <init>
+awh$1 net/minecraft/util/profiling/jfr/JfrProfiler$1
+	<init> (Lawh;)V <init>
+axa$a net/minecraft/util/profiling/jfr/stats/ThreadAllocationStat$a
+	<init> (Ljava/util/Map;)V <init>
+awz$b net/minecraft/util/profiling/jfr/stats/NetworkPacketSummary$b
+	<init> (Lsp;II)V <init>
+awz net/minecraft/util/profiling/jfr/stats/NetworkPacketSummary
+	<init> (Ljava/time/Duration;Ljava/util/List;)V <init>
+awx net/minecraft/util/profiling/jfr/stats/FileIOStat
+	<init> (Ljava/time/Duration;Ljava/lang/String;J)V <init>
+awx$a net/minecraft/util/profiling/jfr/stats/FileIOStat$a
+	<init> (JDJDLjava/time/Duration;Ljava/util/List;)V <init>
+aww net/minecraft/util/profiling/jfr/stats/CpuLoadStat
+	<init> (DDD)V <init>
+axa net/minecraft/util/profiling/jfr/stats/ThreadAllocationStat
+	<init> (Ljava/time/Instant;Ljava/lang/String;J)V <init>
+awy$a net/minecraft/util/profiling/jfr/stats/GcHeapStat$a
+	<init> (Ljava/time/Duration;Ljava/time/Duration;ID)V <init>
+axe net/minecraft/util/profiling/jfr/stats/TimedStatSummary
+	<init> (Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;ILjava/util/Map;Ljava/time/Duration;)V <init>
+axb net/minecraft/util/profiling/jfr/stats/TickTimeStat
+	<init> (Ljava/time/Instant;Ljava/time/Duration;)V <init>
+awy net/minecraft/util/profiling/jfr/stats/GcHeapStat
+	<init> (Ljava/time/Instant;JLawy$b;)V <init>
+awy$b net/minecraft/util/profiling/jfr/stats/GcHeapStat$b
+	<init> ()V <init>
+awv net/minecraft/util/profiling/jfr/stats/ChunkGenStat
+	<init> (Ljava/time/Duration;Lcfh;Laff;Lcwq;Ljava/lang/String;)V <init>
+awz$a net/minecraft/util/profiling/jfr/stats/NetworkPacketSummary$a
+	<init> (JJ)V <init>
+axd net/minecraft/util/profiling/jfr/stats/TimedStat
+awl net/minecraft/util/profiling/jfr/callback/ProfiledDuration
+awg net/minecraft/util/profiling/jfr/Environment
+	<init> (Ljava/lang/String;)V <init>
+awh net/minecraft/util/profiling/jfr/JfrProfiler
+	<init> ()V <init>
+awi$a net/minecraft/util/profiling/jfr/JvmProfiler$a
+	<init> ()V <init>
+awk net/minecraft/util/profiling/jfr/SummaryReporter
+	<init> (Ljava/lang/Runnable;)V <init>
+awi net/minecraft/util/profiling/jfr/JvmProfiler
+awt net/minecraft/util/profiling/jfr/serialize/JfrResultJsonSerializer
+	<init> ()V <init>
+avy$1 net/minecraft/util/profiling/MethodProfilerResultsFilled$1
+	<init> ()V <init>
+axk net/minecraft/util/profiling/metrics/ProfilerMeasured
+axj net/minecraft/util/profiling/metrics/MetricsSamplerProvider
+axh$d net/minecraft/util/profiling/metrics/MetricSampler$d
+	<init> (F)V <init>
+axg net/minecraft/util/profiling/metrics/MetricCategory
+	<init> (Ljava/lang/String;)V <init>
+axh$c net/minecraft/util/profiling/metrics/MetricSampler$c
+axi net/minecraft/util/profiling/metrics/MetricsRegistry
+	<init> ()V <init>
+axt net/minecraft/util/profiling/metrics/storage/RecordedDeviation
+	<init> (Ljava/time/Instant;ILawb;)V <init>
+axs net/minecraft/util/profiling/metrics/storage/MetricsPersister
+	<init> (Ljava/lang/String;)V <init>
+axh net/minecraft/util/profiling/metrics/MetricSampler
+	<init> (Ljava/lang/String;Laxg;Ljava/util/function/DoubleSupplier;Ljava/lang/Runnable;Laxh$c;)V <init>
+axh$a net/minecraft/util/profiling/metrics/MetricSampler$a
+	<init> (Ljava/lang/String;Laxg;Ljava/util/function/ToDoubleFunction;Ljava/lang/Object;)V <init>
+axn net/minecraft/util/profiling/metrics/profiling/InactiveMetricsRecorder
+	<init> ()V <init>
+axm net/minecraft/util/profiling/metrics/profiling/ActiveMetricsRecorder
+	<init> (Laxj;Ljava/util/function/LongSupplier;Ljava/util/concurrent/Executor;Laxs;Ljava/util/function/Consumer;Ljava/util/function/Consumer;)V <init>
+axq net/minecraft/util/profiling/metrics/profiling/ServerMetricsSamplersProvider
+	<init> (Ljava/util/function/LongSupplier;Z)V <init>
+axq$1 net/minecraft/util/profiling/metrics/profiling/ServerMetricsSamplersProvider$1
+	<init> (Ljava/util/function/LongSupplier;)V <init>
+axo net/minecraft/util/profiling/metrics/profiling/MetricsRecorder
+axq$a net/minecraft/util/profiling/metrics/profiling/ServerMetricsSamplersProvider$a
+	<init> ()V <init>
+axp net/minecraft/util/profiling/metrics/profiling/ProfilerSamplerAdapter
+	<init> ()V <init>
+axh$b net/minecraft/util/profiling/metrics/MetricSampler$b
+	<init> (IILit/unimi/dsi/fastutil/ints/Int2DoubleMap;)V <init>
+axi$a net/minecraft/util/profiling/metrics/MetricsRegistry$a
+	<init> (Ljava/lang/String;Ljava/util/List;)V <init>
+avv$a net/minecraft/util/profiling/MethodProfiler$a
+	<init> ()V <init>
+avv net/minecraft/util/profiling/MethodProfiler
+	<init> (Ljava/util/function/LongSupplier;Ljava/util/function/IntSupplier;Z)V <init>
+awc$1 net/minecraft/util/profiling/GameProfilerFiller$1
+	<init> ()V <init>
+awc net/minecraft/util/profiling/GameProfilerFiller
+avy net/minecraft/util/profiling/MethodProfilerResultsFilled
+	<init> (Ljava/util/Map;JIJI)V <init>
+avx net/minecraft/util/profiling/MethodProfilerResultsEmpty
+	<init> ()V <init>
+awe net/minecraft/util/profiling/MethodProfilerResultsField
+	<init> (Ljava/lang/String;DDJ)V <init>
+awd net/minecraft/util/profiling/MethodProfilerResult
+awf net/minecraft/util/profiling/GameProfilerTick
+	<init> (Ljava/util/function/LongSupplier;Ljava/lang/String;J)V <init>
+ayq net/minecraft/util/valueproviders/FloatProviderType
+ayl net/minecraft/util/valueproviders/ClampedNormalFloat
+	<init> (FFFF)V <init>
+ayv net/minecraft/util/valueproviders/TrapezoidFloat
+	<init> (FFF)V <init>
+ayw net/minecraft/util/valueproviders/UniformFloat
+	<init> (FF)V <init>
+ayj net/minecraft/util/valueproviders/BiasedToBottomInt
+	<init> (II)V <init>
+ayu net/minecraft/util/valueproviders/SampledFloat
+aym net/minecraft/util/valueproviders/ClampedNormalInt
+	<init> (FFII)V <init>
+ayp net/minecraft/util/valueproviders/FloatProvider
+	<init> ()V <init>
+ayo net/minecraft/util/valueproviders/ConstantInt
+	<init> (I)V <init>
+ayy net/minecraft/util/valueproviders/WeightedListInt
+	<init> (Laxw;)V <init>
+ayk net/minecraft/util/valueproviders/ClampedInt
+	<init> (Layr;II)V <init>
+ayn net/minecraft/util/valueproviders/ConstantFloat
+	<init> (F)V <init>
+ayr net/minecraft/util/valueproviders/IntProvider
+	<init> ()V <init>
+ayx net/minecraft/util/valueproviders/UniformInt
+	<init> (II)V <init>
+ays net/minecraft/util/valueproviders/IntProviderType
+akq$a net/minecraft/util/MinecraftEncryption$a
+aku$d net/minecraft/util/CubicSpline$d
+alw net/minecraft/util/SignatureValidator
+ami$1 net/minecraft/util/ToFloatFunction$1
+	<init> (Lit/unimi/dsi/fastutil/floats/Float2FloatFunction;)V <init>
+aks$a net/minecraft/util/CSVWriter$a
+	<init> ()V <init>
+alv net/minecraft/util/SignatureUpdater
+ama$a net/minecraft/util/ArraySetSorted$a
+	<init> (Lama;)V <init>
+ala net/minecraft/util/ColorUtil
+	<init> ()V <init>
+alc net/minecraft/util/FormattedString
+ald net/minecraft/util/FormattedStringEmpty
+aky$c net/minecraft/util/ExtraCodecs$c
+	<init> (Ljava/util/function/Supplier;)V <init>
+aku$b net/minecraft/util/CubicSpline$b
+	<init> (Ljava/lang/Object;)V <init>
+	<init> (Ljava/lang/Object;Lami;)V <init>
+aky$a net/minecraft/util/ExtraCodecs$a
+	<init> ()V <init>
+akq$c net/minecraft/util/MinecraftEncryption$c
+	<init> ()V <init>
+aky$1 net/minecraft/util/ExtraCodecs$1
+	<init> ()V <init>
+alr net/minecraft/util/OptionEnum
+alq net/minecraft/util/NativeModuleLister
+	<init> ()V <init>
+aku net/minecraft/util/CubicSpline
+alj net/minecraft/util/KeyDispatchDataCodec
+	<init> (Lcom/mojang/serialization/Codec;)V <init>
+ako net/minecraft/util/EntitySlice
+	<init> (Ljava/lang/Class;)V <init>
+amd net/minecraft/util/INamable
+aky$d net/minecraft/util/ExtraCodecs$d
+	<init> (Laaj;Z)V <init>
+alm$1 net/minecraft/util/ChatTypeAdapterFactory$1
+	<init> (Lalm;Ljava/util/Map;)V <init>
+alq$b net/minecraft/util/NativeModuleLister$b
+	<init> (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V <init>
+akq$b net/minecraft/util/MinecraftEncryption$b
+	<init> (Lqx;)V <init>
+	<init> (J[B)V <init>
+als net/minecraft/util/ParticleUtils
+	<init> ()V <init>
+aza net/minecraft/util/worldupdate/WorldUpgrader
+	<init> (Ldqt$c;Lcom/mojang/datafixers/DataFixer;Ldap;Z)V <init>
+all net/minecraft/util/LinearCongruentialGenerator
+	<init> ()V <init>
+alo net/minecraft/util/ModCheck
+	<init> (Lalo$a;Ljava/lang/String;)V <init>
+ad$b net/minecraft/SystemUtils$OS
+	<init> (Ljava/lang/String;)V <init>
+ad$8 net/minecraft/SystemUtils$8
+	<init> ()V <init>
+ad$b$2 net/minecraft/SystemUtils$OS$2
+	<init> (Ljava/lang/String;ILjava/lang/String;)V <init>
+aao net/minecraft/server/DebugOutputStream
+	<init> (Ljava/lang/String;Ljava/io/OutputStream;)V <init>
+abe net/minecraft/server/bossevents/BossBattleCustomData
+	<init> ()V <init>
+abd net/minecraft/server/bossevents/BossBattleCustom
+	<init> (Laaj;Lrm;)V <init>
+aaq net/minecraft/server/RedirectStream
+	<init> (Ljava/lang/String;Ljava/io/OutputStream;)V <init>
+abb$c net/minecraft/server/WorldLoader$c
+aev$2 net/minecraft/server/gui/ServerGUI$2
+	<init> (Laev;)V <init>
+aev net/minecraft/server/gui/ServerGUI
+	<init> (Laep;)V <init>
+aex net/minecraft/server/gui/GuiStatsComponent
+	<init> (Lnet/minecraft/server/MinecraftServer;)V <init>
+aew net/minecraft/server/gui/PlayerListBox
+	<init> (Lnet/minecraft/server/MinecraftServer;)V <init>
+aev$1 net/minecraft/server/gui/ServerGUI$1
+	<init> (Laev;Ljavax/swing/JFrame;Laep;)V <init>
+abb$b net/minecraft/server/WorldLoader$b
+	<init> (Lahg;Lcfo;Z)V <init>
+aiu net/minecraft/server/rcon/RemoteControlCommandListener
+	<init> (Lnet/minecraft/server/MinecraftServer;)V <init>
+aiz net/minecraft/server/rcon/thread/RemoteControlListener
+	<init> (Laax;Ljava/net/ServerSocket;Ljava/lang/String;)V <init>
+aiy net/minecraft/server/rcon/thread/RemoteControlSession
+	<init> (Laax;Ljava/lang/String;Ljava/net/Socket;)V <init>
+aix$a net/minecraft/server/rcon/thread/RemoteStatusListener$RemoteStatusChallenge
+	<init> (Ljava/net/DatagramPacket;)V <init>
+aix net/minecraft/server/rcon/thread/RemoteStatusListener
+	<init> (Laax;I)V <init>
+aiw net/minecraft/server/rcon/thread/RemoteConnectionThread
+	<init> (Ljava/lang/String;)V <init>
+ais net/minecraft/server/rcon/RemoteStatusReply
+	<init> (I)V <init>
+ait net/minecraft/server/rcon/StatusChallengeUtils
+	<init> ()V <init>
+net/minecraft/server/MinecraftServer$c$1 net/minecraft/server/MinecraftServer$c$1
+	<init> ()V <init>
+abr$a net/minecraft/server/commands/CommandClone$CommandCloneStoredTileEntity
+	<init> (Lgt;Lcur;Lpj;)V <init>
+acc$a net/minecraft/server/commands/CommandExecute$a
+acd$a net/minecraft/server/commands/CommandXp$Unit
+	<init> (Ljava/lang/String;Ljava/util/function/BiConsumer;Ljava/util/function/BiPredicate;Ljava/util/function/ToIntFunction;)V <init>
+adu net/minecraft/server/commands/CommandSummon
+	<init> ()V <init>
+ack net/minecraft/server/commands/CommandHelp
+	<init> ()V <init>
+ady$a net/minecraft/server/commands/CommandTeleport$a
+	<init> (Lbaq;Lea$a;)V <init>
+	<init> (Ldvt;)V <init>
+adr net/minecraft/server/commands/CommandSpreadPlayers
+	<init> ()V <init>
+adt net/minecraft/server/commands/CommandStopSound
+	<init> ()V <init>
+aea net/minecraft/server/commands/CommandTime
+	<init> ()V <init>
+ace net/minecraft/server/commands/CommandFill
+	<init> ()V <init>
+adw net/minecraft/server/commands/CommandTeam
+	<init> ()V <init>
+abk net/minecraft/server/commands/CommandAttribute
+	<init> ()V <init>
+ady net/minecraft/server/commands/CommandTeleport
+	<init> ()V <init>
+acx net/minecraft/server/commands/PerfCommand
+	<init> ()V <init>
+acl net/minecraft/server/commands/ItemCommands
+	<init> ()V <init>
+abr net/minecraft/server/commands/CommandClone
+	<init> ()V <init>
+adq net/minecraft/server/commands/CommandSpectate
+	<init> ()V <init>
+abt net/minecraft/server/commands/CommandDeop
+	<init> ()V <init>
+adl net/minecraft/server/commands/CommandSeed
+	<init> ()V <init>
+ach net/minecraft/server/commands/CommandGamemode
+	<init> ()V <init>
+act net/minecraft/server/commands/CommandOp
+	<init> ()V <init>
+adm$a net/minecraft/server/commands/CommandSetBlock$Filter
+aeb net/minecraft/server/commands/CommandTitle
+	<init> ()V <init>
+abm net/minecraft/server/commands/CommandBanList
+	<init> ()V <init>
+acw net/minecraft/server/commands/CommandParticle
+	<init> ()V <init>
+ace$a net/minecraft/server/commands/CommandFill$Mode
+	<init> (Ladm$a;)V <init>
+acp net/minecraft/server/commands/CommandList
+	<init> ()V <init>
+acg net/minecraft/server/commands/CommandFunction
+	<init> ()V <init>
+abj$a$2 net/minecraft/server/commands/CommandAdvancement$Action$2
+	<init> (Ljava/lang/String;ILjava/lang/String;)V <init>
+abo net/minecraft/server/commands/CommandBossBar
+	<init> ()V <init>
+acc net/minecraft/server/commands/CommandExecute
+	<init> ()V <init>
+adp net/minecraft/server/commands/CommandSetWorldSpawn
+	<init> ()V <init>
+aco net/minecraft/server/commands/CommandKill
+	<init> ()V <init>
+adr$a net/minecraft/server/commands/CommandSpreadPlayers$a
+	<init> ()V <init>
+abu$a net/minecraft/server/commands/CommandDebug$a
+	<init> (Ljava/io/PrintWriter;)V <init>
+adx net/minecraft/server/commands/CommandTeamMsg
+	<init> ()V <init>
+acz net/minecraft/server/commands/CommandPlaySound
+	<init> ()V <init>
+acu net/minecraft/server/commands/CommandPardon
+	<init> ()V <init>
+ads net/minecraft/server/commands/CommandStop
+	<init> ()V <init>
+adj net/minecraft/server/commands/CommandSchedule
+	<init> ()V <init>
+abr$b net/minecraft/server/commands/CommandClone$Mode
+	<init> (Z)V <init>
+aec net/minecraft/server/commands/CommandTrigger
+	<init> ()V <init>
+abj$b net/minecraft/server/commands/CommandAdvancement$Filter
+	<init> (ZZ)V <init>
+abj net/minecraft/server/commands/CommandAdvancement
+	<init> ()V <init>
+acr$b net/minecraft/server/commands/CommandLoot$b
+abx net/minecraft/server/commands/CommandGamemodeDefault
+	<init> ()V <init>
+acr net/minecraft/server/commands/CommandLoot
+	<init> ()V <init>
+aee net/minecraft/server/commands/CommandWeather
+	<init> ()V <init>
+abu net/minecraft/server/commands/CommandDebug
+	<init> ()V <init>
+acc$b net/minecraft/server/commands/CommandExecute$b
+acq net/minecraft/server/commands/CommandLocate
+	<init> ()V <init>
+abz net/minecraft/server/commands/CommandEffect
+	<init> ()V <init>
+aci$1 net/minecraft/server/commands/CommandGamerule$1
+	<init> ()V <init>
+acy net/minecraft/server/commands/PlaceCommand
+	<init> ()V <init>
+acj net/minecraft/server/commands/CommandGive
+	<init> ()V <init>
+abq net/minecraft/server/commands/CommandClear
+	<init> ()V <init>
+adn net/minecraft/server/commands/CommandIdleTimeout
+	<init> ()V <init>
+add net/minecraft/server/commands/CommandReload
+	<init> ()V <init>
+acv net/minecraft/server/commands/CommandPardonIP
+	<init> ()V <init>
+abs net/minecraft/server/commands/CommandDatapack
+	<init> ()V <init>
+acs net/minecraft/server/commands/CommandTell
+	<init> ()V <init>
+ael net/minecraft/server/commands/data/CommandDataStorage
+	<init> (Ldqm;Laaj;)V <init>
+aei net/minecraft/server/commands/data/CommandDataAccessor
+aej net/minecraft/server/commands/data/CommandData
+	<init> ()V <init>
+aeh net/minecraft/server/commands/data/CommandDataAccessorTile
+	<init> (Lcsl;Lgt;)V <init>
+ael$1 net/minecraft/server/commands/data/CommandDataStorage$1
+	<init> ()V <init>
+aej$c net/minecraft/server/commands/data/CommandData$c
+aek net/minecraft/server/commands/data/CommandDataAccessorEntity
+	<init> (Lbaq;)V <init>
+aeh$1 net/minecraft/server/commands/data/CommandDataAccessorTile$1
+	<init> ()V <init>
+aej$b net/minecraft/server/commands/data/CommandData$b
+aej$a net/minecraft/server/commands/data/CommandData$a
+aek$1 net/minecraft/server/commands/data/CommandDataAccessorEntity$1
+	<init> ()V <init>
+acn net/minecraft/server/commands/CommandKick
+	<init> ()V <init>
+aef net/minecraft/server/commands/CommandWhitelist
+	<init> ()V <init>
+aby net/minecraft/server/commands/CommandDifficulty
+	<init> ()V <init>
+ada net/minecraft/server/commands/CommandPublish
+	<init> ()V <init>
+acb net/minecraft/server/commands/CommandEnchant
+	<init> ()V <init>
+adz net/minecraft/server/commands/CommandTellRaw
+	<init> ()V <init>
+adm$b net/minecraft/server/commands/CommandSetBlock$Mode
+	<init> ()V <init>
+aca net/minecraft/server/commands/CommandMe
+	<init> ()V <init>
+abn net/minecraft/server/commands/CommandBan
+	<init> ()V <init>
+acf net/minecraft/server/commands/CommandForceload
+	<init> ()V <init>
+abl net/minecraft/server/commands/CommandBanIp
+	<init> ()V <init>
+acr$c net/minecraft/server/commands/CommandLoot$c
+acd net/minecraft/server/commands/CommandXp
+	<init> ()V <init>
+adf net/minecraft/server/commands/CommandSaveAll
+	<init> ()V <init>
+ado net/minecraft/server/commands/CommandSpawnpoint
+	<init> ()V <init>
+adk net/minecraft/server/commands/CommandScoreboard
+	<init> ()V <init>
+adh net/minecraft/server/commands/CommandSaveOn
+	<init> ()V <init>
+abj$a net/minecraft/server/commands/CommandAdvancement$Action
+	<init> (Ljava/lang/String;)V <init>
+acr$a net/minecraft/server/commands/CommandLoot$a
+aci net/minecraft/server/commands/CommandGamerule
+	<init> ()V <init>
+adc net/minecraft/server/commands/CommandRecipe
+	<init> ()V <init>
+abj$a$1 net/minecraft/server/commands/CommandAdvancement$Action$1
+	<init> (Ljava/lang/String;ILjava/lang/String;)V <init>
+adi net/minecraft/server/commands/CommandSay
+	<init> ()V <init>
+acm net/minecraft/server/commands/JfrCommand
+	<init> ()V <init>
+adv net/minecraft/server/commands/CommandTag
+	<init> ()V <init>
+abs$a net/minecraft/server/commands/CommandDatapack$a
+adg net/minecraft/server/commands/CommandSaveOff
+	<init> ()V <init>
+aeg net/minecraft/server/commands/CommandWorldBorder
+	<init> ()V <init>
+adm net/minecraft/server/commands/CommandSetBlock
+	<init> ()V <init>
+aba net/minecraft/server/TickTask
+	<init> (ILjava/lang/Runnable;)V <init>
+aar net/minecraft/server/AdvancementDataPlayer
+	<init> (Lcom/mojang/datafixers/DataFixer;Laih;Laau;Ljava/io/File;Lafp;)V <init>
+aaw net/minecraft/server/CustomFunctionData
+	<init> (Lnet/minecraft/server/MinecraftServer;Laav;)V <init>
+abb$a net/minecraft/server/WorldLoader$a
+	<init> (Labb$b;Lds$a;I)V <init>
+aay net/minecraft/server/ScoreboardServer
+	<init> (Lnet/minecraft/server/MinecraftServer;)V <init>
+afa$a$1 net/minecraft/server/level/PlayerChunk$Failure$1
+	<init> ()V <init>
+afd$b net/minecraft/server/level/ChunkTaskQueueSorter$b
+	<init> (Ljava/lang/Runnable;JZ)V <init>
+afv net/minecraft/server/level/RegionLimitedWorldAccess
+	<init> (Lafo;Ljava/util/List;Lcwq;I)V <init>
+afb$1 net/minecraft/server/level/PlayerChunkMap$1
+	<init> ()V <init>
+afa$d net/minecraft/server/level/PlayerChunk$d
+afp$1 net/minecraft/server/level/EntityPlayer$1
+	<init> (Lafp;)V <init>
+afh$a net/minecraft/server/level/ChunkMapDistance$a
+	<init> (Lafh;)V <init>
+afa$e net/minecraft/server/level/PlayerChunk$e
+afk net/minecraft/server/level/LightEngineGraphSection
+	<init> (III)V <init>
+afu net/minecraft/server/level/TickingTracker
+	<init> ()V <init>
+afb$a net/minecraft/server/level/PlayerChunkMap$a
+	<init> (Lafe;Ljava/util/concurrent/Executor;Ljava/util/concurrent/Executor;)V <init>
+afd$a net/minecraft/server/level/ChunkTaskQueueSorter$a
+	<init> (Ljava/util/function/Function;JLjava/util/function/IntSupplier;)V <init>
+afh$c net/minecraft/server/level/ChunkMapDistance$c
+	<init> (Lafh;I)V <init>
+afp$2 net/minecraft/server/level/EntityPlayer$2
+	<init> (Lafp;)V <init>
+afy net/minecraft/server/level/progress/WorldLoadListenerFactory
+afx net/minecraft/server/level/progress/WorldLoadListener
+afz net/minecraft/server/level/progress/WorldLoadListenerLogger
+	<init> (I)V <init>
+afg net/minecraft/server/level/DemoPlayerInteractManager
+	<init> (Lafp;)V <init>
+afd net/minecraft/server/level/ChunkTaskQueueSorter
+	<init> (Ljava/util/List;Ljava/util/concurrent/Executor;I)V <init>
+afi net/minecraft/server/level/PlayerMap
+	<init> ()V <init>
+afb$2 net/minecraft/server/level/PlayerChunkMap$2
+	<init> ()V <init>
+afo net/minecraft/server/level/WorldServer
+	<init> (Lnet/minecraft/server/MinecraftServer;Ljava/util/concurrent/Executor;Ldqt$c;Ldqy;Laai;Lcxy;Lafx;ZJLjava/util/List;Z)V <init>
+afa$b net/minecraft/server/level/PlayerChunk$b
+	<init> (Ljava/lang/Thread;Ljava/util/concurrent/CompletableFuture;Ljava/lang/String;)V <init>
+aff net/minecraft/server/level/BlockPosition2D
+	<init> (II)V <init>
+afh$b net/minecraft/server/level/ChunkMapDistance$b
+	<init> (Lafh;I)V <init>
+afm$b net/minecraft/server/level/ChunkProviderServer$b
+	<init> (Lafm;Lcga;)V <init>
+afq net/minecraft/server/level/PlayerInteractManager
+	<init> (Lafp;)V <init>
+afb$b net/minecraft/server/level/PlayerChunkMap$EntityTracker
+	<init> (Lafe;Lbaq;IIZ)V <init>
+afa net/minecraft/server/level/PlayerChunk
+	<init> (Lcfh;ILcgc;Ldop;Lafa$d;Lafa$e;)V <init>
+afc net/minecraft/server/level/ChunkTaskQueue
+	<init> (Ljava/lang/String;I)V <init>
+afh net/minecraft/server/level/ChunkMapDistance
+	<init> (Ljava/util/concurrent/Executor;Ljava/util/concurrent/Executor;)V <init>
+afb net/minecraft/server/level/PlayerChunkMap
+	<init> (Lafo;Ldqt$c;Lcom/mojang/datafixers/DataFixer;Ldnx;Ljava/util/concurrent/Executor;Layc;Lcwy;Lcwn;Lafx;Lcye;Ljava/util/function/Supplier;IZ)V <init>
+afr net/minecraft/server/level/LightEngineThreaded
+	<init> (Lcwy;Lafe;ZLayf;Laye;)V <init>
+aft net/minecraft/server/level/TicketType
+	<init> (Ljava/lang/String;Ljava/util/Comparator;J)V <init>
+afr$a net/minecraft/server/level/LightEngineThreaded$Update
+	<init> ()V <init>
+afj net/minecraft/server/level/WorldProviderNormal
+	<init> ()V <init>
+afa$1 net/minecraft/server/level/PlayerChunk$1
+	<init> (Lafa;)V <init>
+afp net/minecraft/server/level/EntityPlayer
+	<init> (Lnet/minecraft/server/MinecraftServer;Lafo;Lcom/mojang/authlib/GameProfile;Lbti;)V <init>
+afn net/minecraft/server/level/EntityTrackerEntry
+	<init> (Lafo;Lbaq;IZLjava/util/function/Consumer;)V <init>
+afa$a net/minecraft/server/level/PlayerChunk$Failure
+afl net/minecraft/server/level/BossBattleServer
+	<init> (Lrm;Lazc$a;Lazc$b;)V <init>
+afa$c net/minecraft/server/level/PlayerChunk$State
+	<init> ()V <init>
+afm$a net/minecraft/server/level/ChunkProviderServer$a
+	<init> (Lcww;Lafa;)V <init>
+afs net/minecraft/server/level/Ticket
+	<init> (Laft;ILjava/lang/Object;)V <init>
+afm net/minecraft/server/level/ChunkProviderServer
+	<init> (Lafo;Ldqt$c;Lcom/mojang/datafixers/DataFixer;Ldnx;Ljava/util/concurrent/Executor;Lcwn;IIZLafx;Lcye;Ljava/util/function/Supplier;)V <init>
+afo$a net/minecraft/server/level/WorldServer$a
+	<init> (Lafo;)V <init>
+afe net/minecraft/server/level/ChunkMap
+	<init> (III)V <init>
+aau net/minecraft/server/AdvancementDataWorld
+	<init> (Ldrl;)V <init>
+aaw$a net/minecraft/server/CustomFunctionData$a
+	<init> (Laaw;Laaw$c;)V <init>
+aan net/minecraft/server/ServerCommand
+	<init> (Ljava/lang/String;Ldr;)V <init>
+aay$a net/minecraft/server/ScoreboardServer$Action
+	<init> ()V <init>
+aap net/minecraft/server/EULA
+	<init> (Ljava/nio/file/Path;)V <init>
+aax net/minecraft/server/IMinecraftServer
+aaz net/minecraft/server/Services
+	<init> (Lcom/mojang/authlib/minecraft/MinecraftSessionService;Lalw;Lcom/mojang/authlib/GameProfileRepository;Laid;)V <init>
+abb net/minecraft/server/WorldLoader
+	<init> ()V <init>
+aav net/minecraft/server/CustomFunctionManager
+	<init> (ILcom/mojang/brigadier/CommandDispatcher;)V <init>
+net/minecraft/server/MinecraftServer$a net/minecraft/server/MinecraftServer$a
+	<init> (Lahl;Laas;)V <init>
+aal net/minecraft/server/DispenserRegistry
+	<init> ()V <init>
+aas net/minecraft/server/DataPackResources
+	<init> (Lhn$a;Lds$a;I)V <init>
+abb$d net/minecraft/server/WorldLoader$d
+net/minecraft/server/MinecraftServer$c net/minecraft/server/MinecraftServer$c
+	<init> (JI)V <init>
+ahh net/minecraft/server/packs/repository/PackSource
+ahe net/minecraft/server/packs/repository/ResourcePackLoader
+	<init> (Ljava/lang/String;ZLjava/util/function/Supplier;Lrm;Lrm;Lahf;Lahe$b;ZLahh;)V <init>
+	<init> (Ljava/lang/String;Lrm;ZLjava/util/function/Supplier;Lagy;Lagu;Lahe$b;Lahh;)V <init>
+ahe$b net/minecraft/server/packs/repository/ResourcePackLoader$Position
+	<init> ()V <init>
+ahf net/minecraft/server/packs/repository/EnumResourcePackVersion
+	<init> (Ljava/lang/String;)V <init>
+ahg net/minecraft/server/packs/repository/ResourcePackRepository
+	<init> (Lahe$a;[Lahi;)V <init>
+	<init> (Lagu;[Lahi;)V <init>
+ahj net/minecraft/server/packs/repository/ResourcePackSourceVanilla
+	<init> ()V <init>
+ahi net/minecraft/server/packs/repository/ResourcePackSource
+ahe$a net/minecraft/server/packs/repository/ResourcePackLoader$a
+ahd net/minecraft/server/packs/repository/ResourcePackSourceFolder
+	<init> (Ljava/io/File;Lahh;)V <init>
+agw net/minecraft/server/packs/ResourcePackVanilla
+	<init> (Lagy;[Ljava/lang/String;)V <init>
+agt net/minecraft/server/packs/IResourcePack
+agx net/minecraft/server/packs/metadata/ResourcePackMetaParser
+agy net/minecraft/server/packs/metadata/pack/ResourcePackInfo
+	<init> (Lrm;I)V <init>
+agz net/minecraft/server/packs/metadata/pack/ResourcePackInfoDeserializer
+	<init> ()V <init>
+agq net/minecraft/server/packs/ResourcePackAbstract
+	<init> (Ljava/io/File;)V <init>
+ahw$2 net/minecraft/server/packs/resources/ResourceMetadata$2
+	<init> ()V <init>
+ahm$b net/minecraft/server/packs/resources/ResourceManagerFallback$b
+	<init> (Ljava/io/InputStream;Laaj;Ljava/lang/String;)V <init>
+ahu$a net/minecraft/server/packs/resources/IResourceManager$Empty
+	<init> ()V <init>
+aia net/minecraft/server/packs/resources/Reloadable
+	<init> (Ljava/util/concurrent/Executor;Ljava/util/concurrent/Executor;Lahn;Ljava/util/List;Laia$a;Ljava/util/concurrent/CompletableFuture;)V <init>
+ahq net/minecraft/server/packs/resources/IReloadable
+ahs$a net/minecraft/server/packs/resources/IResource$a
+ahm$a net/minecraft/server/packs/resources/ResourceManagerFallback$a
+	<init> (Laaj;Ljava/util/List;)V <init>
+ahm$d net/minecraft/server/packs/resources/ResourceManagerFallback$d
+	<init> (Lahm;Laaj;Laaj;Lagt;)V <init>
+aho$a net/minecraft/server/packs/resources/IReloadListener$a
+aia$1 net/minecraft/server/packs/resources/Reloadable$1
+	<init> ()V <init>
+aho net/minecraft/server/packs/resources/IReloadListener
+ahu net/minecraft/server/packs/resources/IResourceManager
+aht$a net/minecraft/server/packs/resources/ResourceFilterSection$a
+	<init> (Ljava/util/Optional;Ljava/util/Optional;)V <init>
+aht$1 net/minecraft/server/packs/resources/ResourceFilterSection$1
+	<init> ()V <init>
+ahp net/minecraft/server/packs/resources/ReloadableProfiled
+	<init> (Lahn;Ljava/util/List;Ljava/util/concurrent/Executor;Ljava/util/concurrent/Executor;Ljava/util/concurrent/CompletableFuture;)V <init>
+aia$a net/minecraft/server/packs/resources/Reloadable$a
+aht net/minecraft/server/packs/resources/ResourceFilterSection
+	<init> (Ljava/util/List;)V <init>
+ahp$a net/minecraft/server/packs/resources/ReloadableProfiled$a
+	<init> (Ljava/lang/String;Lawb;Lawb;Ljava/util/concurrent/atomic/AtomicLong;Ljava/util/concurrent/atomic/AtomicLong;)V <init>
+ahm net/minecraft/server/packs/resources/ResourceManagerFallback
+	<init> (Lagu;Ljava/lang/String;)V <init>
+ahw$1 net/minecraft/server/packs/resources/ResourceMetadata$1
+	<init> ()V <init>
+ahn net/minecraft/server/packs/resources/ResourceManager
+	<init> (Lagu;Ljava/util/List;)V <init>
+ahm$c net/minecraft/server/packs/resources/ResourceManagerFallback$c
+	<init> (Ljava/lang/String;Lagt;Ljava/util/function/Predicate;)V <init>
+ahz net/minecraft/server/packs/resources/ResourceDataAbstract
+	<init> ()V <init>
+ahs net/minecraft/server/packs/resources/IResource
+	<init> (Ljava/lang/String;Lahs$a;Lahs$a;)V <init>
+	<init> (Ljava/lang/String;Lahs$a;)V <init>
+ahw net/minecraft/server/packs/resources/ResourceMetadata
+ahx net/minecraft/server/packs/resources/ResourceProvider
+ahy net/minecraft/server/packs/resources/ResourceDataJson
+	<init> (Lcom/google/gson/Gson;Ljava/lang/String;)V <init>
+ahl net/minecraft/server/packs/resources/IReloadableResourceManager
+ags net/minecraft/server/packs/ResourcePackFolder
+	<init> (Ljava/io/File;)V <init>
+agr net/minecraft/server/packs/ResourcePackFile
+	<init> (Ljava/io/File;)V <init>
+agv net/minecraft/server/packs/ResourceNotFoundException
+	<init> (Ljava/io/File;Ljava/lang/String;)V <init>
+agu net/minecraft/server/packs/EnumResourcePackType
+	<init> (Ljava/lang/String;Lcom/mojang/bridge/game/PackType;)V <init>
+agf net/minecraft/server/network/MemoryServerHandshakePacketListenerImpl
+	<init> (Lnet/minecraft/server/MinecraftServer;Lqv;)V <init>
+agg net/minecraft/server/network/ServerConnection
+	<init> (Lnet/minecraft/server/MinecraftServer;)V <init>
+agg$2 net/minecraft/server/network/ServerConnection$2
+	<init> (Lagg;)V <init>
+agl net/minecraft/server/network/PacketStatusListener
+	<init> (Lnet/minecraft/server/MinecraftServer;Lqv;)V <init>
+agg$a$a net/minecraft/server/network/ServerConnection$LatencySimulator$DelayedMessage
+	<init> (Lio/netty/channel/ChannelHandlerContext;Ljava/lang/Object;)V <init>
+agh$a net/minecraft/server/network/PlayerConnection$a
+agi net/minecraft/server/network/HandshakeListener
+	<init> (Lnet/minecraft/server/MinecraftServer;Lqv;)V <init>
+agn$a net/minecraft/server/network/TextFilter$a
+agj net/minecraft/server/network/LoginListener
+	<init> (Lnet/minecraft/server/MinecraftServer;Lqv;)V <init>
+agm net/minecraft/server/network/ITextFilter
+agn net/minecraft/server/network/TextFilter
+	<init> (Ljava/net/URL;Lagn$c;Ljava/net/URL;Lagn$b;Ljava/net/URL;Lagn$b;Ljava/lang/String;Lagn$a;I)V <init>
+agd net/minecraft/server/network/FilteredText
+	<init> (Ljava/lang/Object;Ljava/lang/Object;)V <init>
+agj$b net/minecraft/server/network/LoginListener$EnumProtocolState
+	<init> ()V <init>
+agn$c net/minecraft/server/network/TextFilter$c
+age net/minecraft/server/network/LegacyPingHandler
+	<init> (Lagg;)V <init>
+agn$b net/minecraft/server/network/TextFilter$b
+agj$a net/minecraft/server/network/LoginListener$a
+	<init> (Lrm;)V <init>
+	<init> (Lrm;Ljava/lang/Throwable;)V <init>
+agn$d net/minecraft/server/network/TextFilter$d
+	<init> (Lagn;Lcom/mojang/authlib/GameProfile;)V <init>
+agk net/minecraft/server/network/ServerPlayerConnection
+agj$1 net/minecraft/server/network/LoginListener$1
+	<init> (Lagj;Ljava/lang/String;Ljava/lang/String;)V <init>
+agm$1 net/minecraft/server/network/ITextFilter$1
+	<init> ()V <init>
+agh$1 net/minecraft/server/network/PlayerConnection$1
+	<init> ()V <init>
+agn$e net/minecraft/server/network/TextFilter$e
+	<init> (Ljava/lang/String;)V <init>
+agg$a net/minecraft/server/network/ServerConnection$LatencySimulator
+	<init> (II)V <init>
+agg$1 net/minecraft/server/network/ServerConnection$1
+	<init> (Lagg;)V <init>
+agh net/minecraft/server/network/PlayerConnection
+	<init> (Lnet/minecraft/server/MinecraftServer;Lqv;Lafp;)V <init>
+aie net/minecraft/server/players/IpBanList
+	<init> (Ljava/io/File;)V <init>
+aii net/minecraft/server/players/OpList
+	<init> (Ljava/io/File;)V <init>
+aig$5 net/minecraft/server/players/NameReferencingFileConverter$5
+	<init> ()V <init>
+aic net/minecraft/server/players/ExpirableListEntry
+	<init> (Ljava/lang/Object;Ljava/util/Date;Ljava/lang/String;Ljava/util/Date;Ljava/lang/String;)V <init>
+	<init> (Ljava/lang/Object;Lcom/google/gson/JsonObject;)V <init>
+ail net/minecraft/server/players/JsonListEntry
+	<init> (Ljava/lang/Object;)V <init>
+aig$2 net/minecraft/server/players/NameReferencingFileConverter$2
+	<init> ()V <init>
+aid net/minecraft/server/players/UserCache
+	<init> (Lcom/mojang/authlib/GameProfileRepository;Ljava/io/File;)V <init>
+aio net/minecraft/server/players/GameProfileBanEntry
+	<init> (Lcom/mojang/authlib/GameProfile;)V <init>
+	<init> (Lcom/mojang/authlib/GameProfile;Ljava/util/Date;Ljava/lang/String;Ljava/util/Date;Ljava/lang/String;)V <init>
+	<init> (Lcom/google/gson/JsonObject;)V <init>
+ain net/minecraft/server/players/GameProfileBanList
+	<init> (Ljava/io/File;)V <init>
+aih$1 net/minecraft/server/players/PlayerList$1
+	<init> (Laih;)V <init>
+aid$a net/minecraft/server/players/UserCache$UserCacheEntry
+	<init> (Lcom/mojang/authlib/GameProfile;Ljava/util/Date;)V <init>
+aih net/minecraft/server/players/PlayerList
+	<init> (Lnet/minecraft/server/MinecraftServer;Lhn$a;Ldqw;I)V <init>
+aif net/minecraft/server/players/IpBanEntry
+	<init> (Ljava/lang/String;)V <init>
+	<init> (Ljava/lang/String;Ljava/util/Date;Ljava/lang/String;Ljava/util/Date;Ljava/lang/String;)V <init>
+	<init> (Lcom/google/gson/JsonObject;)V <init>
+aim net/minecraft/server/players/JsonList
+	<init> (Ljava/io/File;)V <init>
+aig$4 net/minecraft/server/players/NameReferencingFileConverter$4
+	<init> ()V <init>
+aig$1 net/minecraft/server/players/NameReferencingFileConverter$1
+	<init> ()V <init>
+aik net/minecraft/server/players/SleepStatus
+	<init> ()V <init>
+aig$3 net/minecraft/server/players/NameReferencingFileConverter$3
+	<init> ()V <init>
+aip net/minecraft/server/players/WhiteList
+	<init> (Ljava/io/File;)V <init>
+aid$1 net/minecraft/server/players/UserCache$1
+	<init> ()V <init>
+aiq net/minecraft/server/players/WhiteListEntry
+	<init> (Lcom/mojang/authlib/GameProfile;)V <init>
+	<init> (Lcom/google/gson/JsonObject;)V <init>
+aij net/minecraft/server/players/OpListEntry
+	<init> (Lcom/mojang/authlib/GameProfile;IZ)V <init>
+	<init> (Lcom/google/gson/JsonObject;)V <init>
+aig$a net/minecraft/server/players/NameReferencingFileConverter$FileConversionException
+	<init> (Ljava/lang/String;Ljava/lang/Throwable;)V <init>
+	<init> (Ljava/lang/String;)V <init>
+aig net/minecraft/server/players/NameReferencingFileConverter
+	<init> ()V <init>
+net/minecraft/server/MinecraftServer net/minecraft/server/MinecraftServer
+	<init> (Ljava/lang/Thread;Ldqt$c;Lahg;Labc;Ljava/net/Proxy;Lcom/mojang/datafixers/DataFixer;Laaz;Lafy;)V <init>
+aaw$b net/minecraft/server/CustomFunctionData$b
+	<init> (Ldr;ILdm$c;)V <init>
+aer net/minecraft/server/dedicated/DedicatedServerSettings
+	<init> (Ljava/nio/file/Path;)V <init>
+aet$a net/minecraft/server/dedicated/PropertyManager$EditableProperty
+	<init> (Ljava/lang/String;Ljava/lang/Object;Ljava/util/function/Function;)V <init>
+aet net/minecraft/server/dedicated/PropertyManager
+	<init> (Ljava/util/Properties;)V <init>
+aep$1 net/minecraft/server/dedicated/DedicatedServer$1
+	<init> (Laep;Ljava/lang/String;)V <init>
+aeq net/minecraft/server/dedicated/DedicatedServerProperties
+	<init> (Ljava/util/Properties;)V <init>
+aeo net/minecraft/server/dedicated/DedicatedPlayerList
+	<init> (Laep;Lhn$a;Ldqw;)V <init>
+aep net/minecraft/server/dedicated/DedicatedServer
+	<init> (Ljava/lang/Thread;Ldqt$c;Lahg;Labc;Laer;Lcom/mojang/datafixers/DataFixer;Laaz;Lafy;)V <init>
+aes$1 net/minecraft/server/dedicated/ThreadWatchdog$1
+	<init> (Laes;)V <init>
+aes net/minecraft/server/dedicated/ThreadWatchdog
+	<init> (Laep;)V <init>
+aeq$a net/minecraft/server/dedicated/DedicatedServerProperties$a
+	<init> (Ljava/lang/String;Lcom/google/gson/JsonObject;ZLjava/lang/String;)V <init>
+net/minecraft/server/MinecraftServer$1 net/minecraft/server/MinecraftServer$1
+	<init> ()V <init>
+aat net/minecraft/server/CancelledPacketHandleException
+	<init> ()V <init>
+abc net/minecraft/server/WorldStem
+	<init> (Lahl;Laas;Lhn$a;Ldqz;)V <init>
+aal$1 net/minecraft/server/DispenserRegistry$1
+	<init> ()V <init>
+net/minecraft/server/MinecraftServer$b net/minecraft/server/MinecraftServer$b
+	<init> (Ljava/lang/String;Ljava/lang/String;ZLrm;)V <init>
+aar$1 net/minecraft/server/AdvancementDataPlayer$1
+	<init> ()V <init>
+aaw$c net/minecraft/server/CustomFunctionData$c
+ad$1 net/minecraft/SystemUtils$1
+	<init> ()V <init>
+aa net/minecraft/ResourceKeyInvalidException
+	<init> (Ljava/lang/String;)V <init>
+	<init> (Ljava/lang/String;Ljava/lang/Throwable;)V <init>
+ad$b$1 net/minecraft/SystemUtils$OS$1
+	<init> (Ljava/lang/String;ILjava/lang/String;)V <init>
+akc net/minecraft/tags/PoiTypeTags
+	<init> ()V <init>
+akf$a net/minecraft/tags/TagEntry$a
+akg net/minecraft/tags/TagFile
+	<init> (Ljava/util/List;Z)V <init>
+akd net/minecraft/tags/StructureTags
+ajz net/minecraft/tags/InstrumentTags
+aki$a net/minecraft/tags/TagDataPack$a
+	<init> (Lakf;Ljava/lang/String;)V <init>
+akk$a net/minecraft/tags/TagNetworkSerialization$a
+	<init> (Ljava/util/Map;)V <init>
+akf net/minecraft/tags/TagEntry
+	<init> (Laaj;ZZ)V <init>
+	<init> (Laky$d;Z)V <init>
+ajv net/minecraft/tags/TagsEntity
+	<init> ()V <init>
+aju net/minecraft/tags/CatVariantTags
+	<init> ()V <init>
+aki net/minecraft/tags/TagDataPack
+	<init> (Ljava/util/function/Function;Ljava/lang/String;)V <init>
+ajs net/minecraft/tags/BiomeTags
+	<init> ()V <init>
+aki$1 net/minecraft/tags/TagDataPack$1
+	<init> (Laki;Ljava/util/Map;)V <init>
+akk$b net/minecraft/tags/TagNetworkSerialization$b
+aka net/minecraft/tags/TagsItem
+	<init> ()V <init>
+akb net/minecraft/tags/PaintingVariantTags
+	<init> ()V <init>
+ajy net/minecraft/tags/GameEventTags
+	<init> ()V <init>
+ajx net/minecraft/tags/TagsFluid
+	<init> ()V <init>
+ajt net/minecraft/tags/TagsBlock
+	<init> ()V <init>
+akk net/minecraft/tags/TagNetworkSerialization
+	<init> ()V <init>
+ajr net/minecraft/tags/BannerPatternTags
+	<init> ()V <init>
+akh net/minecraft/tags/TagKey
+	<init> (Laai;Laaj;)V <init>
+akj$a net/minecraft/tags/TagRegistry$a
+	<init> (Laai;Ljava/util/Map;)V <init>
+akj net/minecraft/tags/TagRegistry
+	<init> (Lhn;)V <init>
+ad$2 net/minecraft/SystemUtils$2
+	<init> ()V <init>
+c com/mojang/math/Matrix3f
+	<init> ()V <init>
+	<init> (Lg;)V <init>
+	<init> (Ld;)V <init>
+	<init> (Lc;)V <init>
